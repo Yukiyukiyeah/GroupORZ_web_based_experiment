@@ -1,0 +1,1083 @@
+date	time	group	subject	build	blocknum	trialnum	blockcode	trialcode	pretrialpause	posttrialpause	windowcenter	trialduration	trialtimeout	blocktimeout	response	correct	latency	inwindow	stimulusnumber1	stimulusitem1	stimulusvpos1	stimulushpos1	stimulusonset1
+011118	23:01:42	1	1	4.0.10.0	1	1		zhidaoyu_trail	0	0	0	0	0	0	1	0	4736	0	1	指导语.BMP	50pct	50pct	0
+011118	23:01:52	1	1	4.0.10.0	1	1		zhidaoyu_trail	0	0	0	0	0	0	1	0	5590	0	1	指导语.BMP	50pct	50pct	0
+011118	23:05:14	1	1	4.0.10.0	1	1		zhidaoyu_trail	0	0	0	0	0	0	1	0	1404	0	1	指导语.BMP	50pct	50pct	0
+011118	23:07:07	1	1	4.0.10.0	1	1	zhidaoyu_block	zhidaoyu_trail	0	0	0	0	0	0	1	0	6276	0	1	指导语.BMP	50pct	50pct	0
+011118	23:18:11	1	1	4.0.10.0	1	1	zhidaoyu_block	zhidaoyu_trail	0	0	0	0	0	0	28	0	2057	0	1	指导语.BMP	50pct	50pct	0
+011118	23:18:33	1	1	4.0.10.0	1	1	zhidaoyu_block	zhidaoyu_trail	0	0	0	0	0	0	57	0	1916	0	1	指导语.BMP	50pct	50pct	1
+011118	23:18:33	1	1	4.0.10.0	1	2	zhidaoyu_block	lianxi_trail	0	0	0	0	0	0	33	1	4953	0	1	练习1.BMP	50pct	50pct	0
+011118	23:24:59	1	1	4.0.10.0	1	1	zhidaoyu_block	zhidaoyu_trail	0	0	0	0	0	0	57	0	2289	0	1	指导语.BMP	50pct	50pct	0
+011118	23:24:59	1	1	4.0.10.0	1	2	zhidaoyu_block	lianxi_trail	0	0	0	0	0	0	36	0	3604	0	1	练习1.BMP	50pct	50pct	2
+011118	23:25:13	1	1	4.0.10.0	1	1	zhidaoyu_block	zhidaoyu_trail	0	0	0	0	0	0	57	0	1121	0	1	指导语.BMP	50pct	50pct	0
+011118	23:25:13	1	1	4.0.10.0	1	2	zhidaoyu_block	lianxi_trail	0	0	0	0	0	0	33	1	257	0	1	练习1.BMP	50pct	50pct	0
+011118	23:25:47	1	1	4.0.10.0	1	1	zhidaoyu_block	zhidaoyu_trail	0	0	0	0	0	0	57	0	1155	0	1	指导语.BMP	50pct	50pct	0
+011118	23:25:47	1	1	4.0.10.0	1	2	zhidaoyu_block	lianxi_trail	0	0	0	0	0	0	33	1	1277	0	1	练习1.BMP	50pct	50pct	0
+011118	23:27:12	1	1	4.0.10.0	1	1	zhidaoyu_block	zhidaoyu_trail	0	0	0	0	0	0	57	0	934	0	1	指导语.BMP	50pct	50pct	0
+011118	23:27:12	1	1	4.0.10.0	1	2	zhidaoyu_block	lianxi_trail	0	0	0	0	0	0	33	1	944	0	1	练习1.BMP	50pct	50pct	1
+011118	23:27:24	1	1	4.0.10.0	1	1	zhidaoyu_block	zhidaoyu_trail	0	0	0	0	0	0	57	0	1037	0	1	指导语.BMP	50pct	50pct	0
+011118	23:27:24	1	1	4.0.10.0	1	2	zhidaoyu_block	lianxi_trail	0	0	0	0	0	0	33	1	2300	0	1	练习1.BMP	50pct	50pct	0
+011118	23:27:33	1	1	4.0.10.0	1	1	zhidaoyu_block	zhidaoyu_trail	0	0	0	0	0	0	57	0	904	0	1	指导语.BMP	50pct	50pct	0
+011118	23:27:33	1	1	4.0.10.0	1	2	zhidaoyu_block	lianxi_trail	0	0	0	0	0	0	33	1	405	0	1	练习1.BMP	50pct	50pct	1
+011118	23:30:03	1	1	4.0.10.0	1	1	zhidaoyu_block	zhidaoyu_trail	0	0	0	0	0	0	57	0	724	0	1	指导语.BMP	50pct	50pct	0
+011118	23:30:03	1	1	4.0.10.0	1	2	zhidaoyu_block	lianxi_trail	0	0	0	0	0	0	Ctrl+'Q'	0	8758	0	1	练习1.BMP	50pct	50pct	0
+011118	23:30:37	1	1	4.0.10.0	1	1	zhidaoyu_block	zhidaoyu_trail	0	0	0	0	0	0	57	0	1137	0	1	指导语.BMP	50pct	50pct	0
+011118	23:30:37	1	1	4.0.10.0	1	2	zhidaoyu_block	lianxi_trail	0	0	0	0	0	0	33	1	399	0	1	练习1.BMP	50pct	50pct	0
+011118	23:30:43	1	1	4.0.10.0	1	1	zhidaoyu_block	zhidaoyu_trail	0	0	0	0	0	0	57	0	1090	0	1	指导语.BMP	50pct	50pct	0
+011118	23:30:43	1	1	4.0.10.0	1	2	zhidaoyu_block	lianxi_trail	0	0	0	0	0	0	33	0	10659	0	1	练习1.BMP	50pct	50pct	0
+011118	23:31:21	1	1	4.0.10.0	1	1	zhidaoyu_block	zhidaoyu_trail	0	0	0	0	0	0	57	0	400	0	1	指导语.BMP	50pct	50pct	0
+011118	23:31:21	1	1	4.0.10.0	1	2	zhidaoyu_block	lianxi_trail	0	0	0	0	0	0	33	1	832	0	1	练习1.BMP	50pct	50pct	0
+011118	23:31:29	1	1	4.0.10.0	1	1	zhidaoyu_block	zhidaoyu_trail	0	0	0	0	0	0	57	0	734	0	1	指导语.BMP	50pct	50pct	0
+011118	23:31:29	1	1	4.0.10.0	1	2	zhidaoyu_block	lianxi_trail	0	0	0	0	0	0	33	1	1008	0	1	练习1.BMP	50pct	50pct	1
+011118	23:31:37	1	1	4.0.10.0	1	1	zhidaoyu_block	zhidaoyu_trail	0	0	0	0	0	0	57	0	420	0	1	指导语.BMP	50pct	50pct	0
+011118	23:31:37	1	1	4.0.10.0	1	2	zhidaoyu_block	lianxi_trail	0	0	0	0	0	0	33	1	670	0	1	练习1.BMP	50pct	50pct	0
+011118	23:31:43	1	1	4.0.10.0	1	1	zhidaoyu_block	zhidaoyu_trail	0	0	0	0	0	0	57	0	414	0	1	指导语.BMP	50pct	50pct	0
+011118	23:31:43	1	1	4.0.10.0	1	2	zhidaoyu_block	lianxi_trail	0	0	0	0	0	0	33	1	642	0	1	练习1.BMP	50pct	50pct	0
+011118	23:33:53	1	1	4.0.10.0	1	1	zhidaoyu_block	zhidaoyu_trail	0	0	0	0	0	0	57	0	1088	0	1	指导语.BMP	50pct	50pct	0	0	0	0	0	0
+011118	23:33:53	1	1	4.0.10.0	1	2	zhidaoyu_block	lianxi_trail	0	0	0	0	0	0	Ctrl+'Q'	1	3995	0	1	练习1.BMP	50pct	50pct	0	1	练习2.BMP	50pct	50pct	16
+011118	23:34:05	1	1	4.0.10.0	1	1	zhidaoyu_block	zhidaoyu_trail	0	0	0	0	0	0	57	0	451	0	1	指导语.BMP	50pct	50pct	0	0	0	0	0	0
+011118	23:34:05	1	1	4.0.10.0	1	2	zhidaoyu_block	lianxi_trail	0	0	0	0	0	0	Ctrl+'Q'	1	1546	0	1	练习1.BMP	50pct	50pct	0	1	练习2.BMP	50pct	50pct	16
+011118	23:36:35	1	1	4.0.10.0	1	1	lianxi_block	lianxi1_trail	0	0	0	0	0	0	Ctrl+'Q'	1	2802	0	1	练习1.BMP	50pct	50pct	0
+011118	23:37:54	1	1	4.0.10.0	1	1	zhidaoyu_block	zhidaoyu_trail	0	0	0	0	0	0	57	0	1716	0	1	指导语.BMP	50pct	50pct	0
+011118	23:37:54	1	1	4.0.10.0	2	1	lianxi_block	lianxi1_trail	0	0	0	0	0	0	33	0	4018	0	1	练习1.BMP	50pct	50pct	0
+011118	23:37:54	1	1	4.0.10.0	2	2	lianxi_block	lianxi2_trail	0	0	0	0	0	0	34	0	4933	0	1	练习2.BMP	50pct	50pct	1
+011118	23:48:11	1	1	4.0.10.0	1	1	zhidaoyu_block	zhidaoyu_trail	0	0	0	0	0	0	57	0	1699	0	1	指导语.BMP	50pct	50pct	0
+011118	23:48:11	1	1	4.0.10.0	2	1	lianxi_block	lianxi1_trail	0	0	0	0	0	0	Ctrl+'Q'	1	3384	0	1	练习1.BMP	50pct	50pct	0
+011218	00:04:05	1	1	4.0.10.0	1	1	zhidaoyu_block	zhidaoyu_trail	0	0	0	0	0	0	57	0	6561	0	1	指导语.BMP	50pct	50pct	0
+011218	00:04:05	1	1	4.0.10.0	2	1	lianxi_block	lianxi1_trail	0	0	0	0	0	0	Ctrl+'Q'	1	3567	0	1	练习1.BMP	50pct	50pct	0
+011218	00:04:31	1	1	4.0.10.0	1	1	zhidaoyu_block	zhidaoyu_trail	0	0	0	0	0	0	29	0	1529	0	1	指导语.BMP	50pct	50pct	0
+011218	00:04:31	1	1	4.0.10.0	2	1	lianxi_block	lianxi1_trail	0	0	0	0	0	0	Ctrl+'Q'	1	234	0	1	练习1.BMP	50pct	50pct	0
+011218	00:04:52	1	1	4.0.10.0	1	1	zhidaoyu_block	zhidaoyu_trail	0	0	0	0	0	0	29	0	1938	0	1	指导语.BMP	50pct	50pct	0
+011218	00:04:52	1	1	4.0.10.0	2	1	lianxi_block	lianxi1_trail	0	0	0	0	0	0	Ctrl+'Q'	1	128	0	1	练习1.BMP	50pct	50pct	0
+011218	00:05:01	1	1	4.0.10.0	1	1	zhidaoyu_block	zhidaoyu_trail	0	0	0	0	0	0	57	0	4655	0	1	指导语.BMP	50pct	50pct	0
+011218	00:05:01	1	1	4.0.10.0	2	1	lianxi_block	lianxi1_trail	0	0	0	0	0	0	Ctrl+'Q'	1	1967	0	1	练习1.BMP	50pct	50pct	0
+011218	00:15:01	1	1	4.0.10.0	1	1	zhidaoyu_block	zhidaoyu_trail	0	0	0	0	0	0	57	0	887	0	1	指导语.BMP	50pct	50pct	0
+011218	00:15:01	1	1	4.0.10.0	2	1	lianxi_block	lianxi1_trail	0	0	0	0	0	0	33	1	1356	0	1	练习1.BMP	50pct	50pct	0
+011218	00:15:01	1	1	4.0.10.0	2	2	lianxi_block	lianxi2_trail	0	0	0	0	0	0	34	1	300	0	1	练习2.BMP	50pct	50pct	0
+011218	00:17:07	1	1	4.0.10.0	1	1	zhidaoyu_block	zhidaoyu_trail	0	0	0	0	0	0	57	0	1039	0	1	指导语.BMP	50pct	50pct	1
+011218	00:17:07	1	1	4.0.10.0	2	1	lianxi_block	lianxi1_trail	0	0	0	0	0	0	Ctrl+'Q'	1	4726	0	1	练习1.BMP	50pct	50pct	0
+011218	00:17:28	1	1	4.0.10.0	1	1	zhidaoyu_block	zhidaoyu_trail	0	0	0	0	0	0	57	0	3359	0	1	指导语.BMP	50pct	50pct	0
+011218	00:17:28	1	1	4.0.10.0	2	1	lianxi_block	lianxi1_trail	0	0	0	0	0	0	33	1	2355	0	1	练习1.BMP	50pct	50pct	0
+011218	00:17:28	1	1	4.0.10.0	2	2	lianxi_block	lianxi2_trail	0	0	0	0	0	0	34	1	1132	0	1	练习2.BMP	50pct	50pct	1
+011218	00:17:28	1	1	4.0.10.0	3	1	pipei_block	pipei1_trail	0	0	0	0	0	0	Ctrl+'Q'	1	8084	0	1	匹配1.bmp	50pct	50pct	0
+011218	00:52:16	1	1	4.0.10.0	1	1	zhidaoyu_block	zhidaoyu_trail	0	0	0	0	0	0	57	0	1122	0	1	指导语.BMP	50pct	50pct	0
+011218	00:52:16	1	1	4.0.10.0	2	1	lianxi_block	lianxi1_trail	0	0	0	0	0	0	33	1	1333	0	1	练习1.BMP	50pct	50pct	0
+011218	00:52:16	1	1	4.0.10.0	2	2	lianxi_block	lianxi2_trail	0	0	0	0	0	0	34	1	489	0	1	练习2.BMP	50pct	50pct	0
+011218	00:52:16	1	1	4.0.10.0	3	1	pipei_block	pipei1_trail	0	0	0	0	0	0	Ctrl+'Q'	1	7068	0	1	匹配1.bmp	50pct	50pct	0
+011218	00:57:12	1	1	4.0.10.0	1	1	zhidaoyu_block	zhidaoyu_trail	0	0	0	0	0	0	57	0	729	0	1	指导语.BMP	50pct	50pct	0
+011218	00:57:12	1	1	4.0.10.0	2	1	lianxi_block	lianxi1_trail	0	0	0	0	0	0	33	1	1229	0	1	练习1.BMP	50pct	50pct	0
+011218	00:57:12	1	1	4.0.10.0	2	2	lianxi_block	lianxi2_trail	0	0	0	0	0	0	34	1	270	0	1	练习2.BMP	50pct	50pct	1
+011218	00:57:12	1	1	4.0.10.0	3	1	pipei_block	pipei1_trail	0	0	0	0	0	0	Ctrl+'Q'	1	6393	0	1	匹配1.bmp	50pct	50pct	0
+011218	00:59:12	1	1	4.0.10.0	1	1	zhidaoyu_block	zhidaoyu_trail	0	0	0	0	0	0	57	0	551	0	1	指导语.BMP	50pct	50pct	0
+011218	00:59:12	1	1	4.0.10.0	2	1	lianxi_block	lianxi1_trail	0	0	0	0	0	0	33	1	932	0	1	练习1.BMP	50pct	50pct	0
+011218	00:59:12	1	1	4.0.10.0	2	2	lianxi_block	lianxi2_trail	0	0	0	0	0	0	34	1	348	0	1	练习2.BMP	50pct	50pct	1
+011218	00:59:12	1	1	4.0.10.0	3	1	pipei_block	pipei1_trail	0	0	0	0	0	0	57	0	734	0	1	匹配1.bmp	50pct	50pct	0
+011218	00:59:12	1	1	4.0.10.0	3	2	pipei_block	pipei2_trail	0	0	0	5000	0	0	Ctrl+'Q'	1	4778	0	1	匹配2.bmp	50pct	50pct	0
+011218	01:00:33	1	1	4.0.10.0	1	1	zhidaoyu_block	zhidaoyu_trail	0	0	0	0	0	0	57	0	646	0	1	指导语.BMP	50pct	50pct	1
+011218	01:00:33	1	1	4.0.10.0	2	1	lianxi_block	lianxi1_trail	0	0	0	0	0	0	33	1	777	0	1	练习1.BMP	50pct	50pct	0
+011218	01:00:33	1	1	4.0.10.0	2	2	lianxi_block	lianxi2_trail	0	0	0	0	0	0	34	1	352	0	1	练习2.BMP	50pct	50pct	1
+011218	01:00:33	1	1	4.0.10.0	3	1	pipei_block	pipei1_trail	0	0	0	0	0	0	57	0	838	0	1	匹配1.bmp	50pct	50pct	0
+011218	01:00:33	1	1	4.0.10.0	3	2	pipei_block	pipei2_trail	0	0	0	3000	0	0	0	0	3000	0	1	匹配2.bmp	50pct	50pct	0
+011218	01:00:33	1	1	4.0.10.0	3	3	pipei_block	pipei3_trail	0	0	0	2000	0	0	0	0	2000	0	1	匹配3.bmp	50pct	50pct	0
+011218	01:02:10	1	1	4.0.10.0	1	1	zhidaoyu_block	zhidaoyu_trail	0	0	0	0	0	0	57	0	1018	0	1	指导语.BMP	50pct	50pct	0
+011218	01:02:10	1	1	4.0.10.0	2	1	lianxi_block	lianxi1_trail	0	0	0	0	0	0	33	1	404	0	1	练习1.BMP	50pct	50pct	0
+011218	01:02:10	1	1	4.0.10.0	2	2	lianxi_block	lianxi2_trail	0	0	0	0	0	0	34	1	368	0	1	练习2.BMP	50pct	50pct	1
+011218	01:02:10	1	1	4.0.10.0	3	1	pipei_block	pipei1_trail	0	0	0	0	0	0	57	0	767	0	1	匹配1.bmp	50pct	50pct	0
+011218	01:02:10	1	1	4.0.10.0	3	2	pipei_block	pipei2_trail	0	0	0	5000	0	0	0	0	5000	0	1	匹配2.bmp	50pct	50pct	0
+011218	01:02:10	1	1	4.0.10.0	3	3	pipei_block	pipei3_trail	0	0	0	2000	0	0	0	0	2000	0	1	匹配3.bmp	50pct	50pct	1
+011218	01:12:38	1	1	4.0.10.0	1	1	zhidaoyu_block	zhidaoyu_trail	0	0	0	0	0	0	57	0	1055	0	1	指导语.BMP	50pct	50pct	0
+011218	01:12:38	1	1	4.0.10.0	2	1	lianxi_block	lianxi1_trail	0	0	0	0	0	0	33	1	967	0	1	练习1.BMP	50pct	50pct	0
+011218	01:12:38	1	1	4.0.10.0	2	2	lianxi_block	lianxi2_trail	0	0	0	0	0	0	34	1	1614	0	1	练习2.BMP	50pct	50pct	1
+011218	01:12:38	1	1	4.0.10.0	3	1	pipei_block	pipei1_trail	0	0	0	0	0	0	57	0	1489	0	1	匹配1.bmp	50pct	50pct	0
+011218	01:12:38	1	1	4.0.10.0	3	2	pipei_block	pipei2_trail	0	0	0	5000	0	0	0	0	5000	0	1	匹配2.bmp	50pct	50pct	0
+011218	01:12:38	1	1	4.0.10.0	3	3	pipei_block	pipei3_trail	0	0	0	2000	0	0	0	0	2000	0	1	匹配3.bmp	50pct	50pct	0
+011218	01:13:14	1	1	4.0.10.0	1	1	zhidaoyu_block	zhidaoyu_trail	0	0	0	0	0	0	57	0	809	0	1	指导语.BMP	50pct	50pct	0
+011218	01:13:14	1	1	4.0.10.0	2	1	lianxi_block	lianxi1_trail	0	0	0	0	0	0	33	1	283	0	1	练习1.BMP	50pct	50pct	0
+011218	01:13:14	1	1	4.0.10.0	2	2	lianxi_block	lianxi2_trail	0	0	0	0	0	0	34	1	944	0	1	练习2.BMP	50pct	50pct	1
+011218	01:13:14	1	1	4.0.10.0	3	1	pipei_block	pipei1_trail	0	0	0	0	0	0	29	0	3722	0	1	匹配1.bmp	50pct	50pct	0
+011218	01:13:14	1	1	4.0.10.0	3	2	pipei_block	pipei2_trail	0	0	0	5000	0	0	Ctrl+'Q'	1	214	0	1	匹配2.bmp	50pct	50pct	0
+011218	01:13:31	1	1 	4.0.10.0	1	1	zhidaoyu_block	zhidaoyu_trail	0	0	0	0	0	0	57	0	578	0	1	指导语.BMP	50pct	50pct	0
+011218	01:13:31	1	1 	4.0.10.0	2	1	lianxi_block	lianxi1_trail	0	0	0	0	0	0	33	0	3462	0	1	练习1.BMP	50pct	50pct	0
+011218	01:13:31	1	1 	4.0.10.0	2	2	lianxi_block	lianxi2_trail	0	0	0	0	0	0	34	0	3280	0	1	练习2.BMP	50pct	50pct	0
+011218	01:13:31	1	1 	4.0.10.0	3	1	pipei_block	pipei1_trail	0	0	0	0	0	0	57	0	3306	0	1	匹配1.bmp	50pct	50pct	0
+011218	01:13:31	1	1 	4.0.10.0	3	2	pipei_block	pipei2_trail	0	0	0	5000	0	0	0	0	5000	0	1	匹配2.bmp	50pct	50pct	0
+011218	01:13:31	1	1 	4.0.10.0	3	3	pipei_block	pipei3_trail	0	0	0	2000	0	0	0	0	2000	0	1	匹配3.bmp	50pct	50pct	0
+011218	01:14:36	1	1	4.0.10.0	1	1	zhidaoyu_block	zhidaoyu_trail	0	0	0	0	0	0	57	0	674	0	1	指导语.BMP	50pct	50pct	0
+011218	01:14:36	1	1	4.0.10.0	2	1	lianxi_block	lianxi1_trail	0	0	0	0	0	0	33	1	657	0	1	练习1.BMP	50pct	50pct	0
+011218	01:14:36	1	1	4.0.10.0	2	2	lianxi_block	lianxi2_trail	0	0	0	0	0	0	34	1	894	0	1	练习2.BMP	50pct	50pct	0
+011218	01:14:36	1	1	4.0.10.0	3	1	pipei_block	pipei1_trail	0	0	0	0	0	0	57	0	2750	0	1	匹配1.bmp	50pct	50pct	0
+011218	01:14:36	1	1	4.0.10.0	3	2	pipei_block	pipei2_trail	0	0	0	5000	0	0	0	0	5000	0	1	匹配2.bmp	50pct	50pct	0
+011218	01:14:36	1	1	4.0.10.0	3	3	pipei_block	pipei3_trail	0	0	0	2000	0	0	0	0	2000	0	1	匹配3.bmp	50pct	50pct	1
+011218	01:15:15	1	1	4.0.10.0	1	1	zhidaoyu_block	zhidaoyu_trail	0	0	0	0	0	0	57	0	601	0	1	指导语.BMP	50pct	50pct	0
+011218	01:15:15	1	1	4.0.10.0	2	1	lianxi_block	lianxi1_trail	0	0	0	0	0	0	33	1	295	0	1	练习1.BMP	50pct	50pct	0
+011218	01:15:15	1	1	4.0.10.0	2	2	lianxi_block	lianxi2_trail	0	0	0	0	0	0	34	0	936	0	1	练习2.BMP	50pct	50pct	1
+011218	01:15:15	1	1	4.0.10.0	3	1	pipei_block	pipei1_trail	0	0	0	0	0	0	57	0	2284	0	1	匹配1.bmp	50pct	50pct	0
+011218	01:15:15	1	1	4.0.10.0	3	2	pipei_block	pipei2_trail	0	0	0	3000	0	0	0	0	3000	0	1	匹配2.bmp	50pct	50pct	0
+011218	01:15:15	1	1	4.0.10.0	3	3	pipei_block	pipei3_trail	0	0	0	2000	0	0	0	0	2000	0	1	匹配3.bmp	50pct	50pct	0
+011218	01:15:15	1	1	4.0.10.0	4	1	zhengshi_block	chushi_trail	0	0	0	0	0	0	29	0	3834	0	1	初始界面.bmp	50pct	50pct	0
+011218	01:16:27	1	1	4.0.10.0	1	1	zhidaoyu_block	zhidaoyu_trail	0	0	0	0	0	0	57	0	545	0	1	指导语.BMP	50pct	50pct	0
+011218	01:16:27	1	1	4.0.10.0	2	1	lianxi_block	lianxi1_trail	0	0	0	0	0	0	33	1	566	0	1	练习1.BMP	50pct	50pct	0
+011218	01:16:27	1	1	4.0.10.0	2	2	lianxi_block	lianxi2_trail	0	0	0	0	0	0	34	1	594	0	1	练习2.BMP	50pct	50pct	1
+011218	01:16:27	1	1	4.0.10.0	3	1	pipei_block	pipei1_trail	0	0	0	0	0	0	57	0	926	0	1	匹配1.bmp	50pct	50pct	0
+011218	01:16:27	1	1	4.0.10.0	3	2	pipei_block	pipei2_trail	0	0	0	5000	0	0	0	0	5000	0	1	匹配2.bmp	50pct	50pct	0
+011218	01:16:27	1	1	4.0.10.0	3	3	pipei_block	pipei3_trail	0	0	0	2000	0	0	0	0	2000	0	1	匹配3.bmp	50pct	50pct	0
+011218	01:16:27	1	1	4.0.10.0	4	1	zhengshi_block	chushi_trail	0	0	0	0	0	0	33	0	4849	0	1	初始界面.bmp	50pct	50pct	0
+011218	01:33:30	1	1	4.0.10.0	1	1	zhidaoyu_block	zhidaoyu_trail	0	0	0	0	0	0	57	0	1184	0	1	指导语.BMP	50pct	50pct	0
+011218	01:33:30	1	1	4.0.10.0	2	1	lianxi_block	lianxi1_trail	0	0	0	0	0	0	33	1	713	0	1	练习1.BMP	50pct	50pct	0
+011218	01:33:30	1	1	4.0.10.0	2	2	lianxi_block	lianxi2_trail	0	0	0	0	0	0	34	1	1319	0	1	练习2.BMP	50pct	50pct	1
+011218	01:33:30	1	1	4.0.10.0	3	1	pipei_block	pipei1_trail	0	0	0	0	0	0	57	0	1618	0	1	匹配1.bmp	50pct	50pct	6
+011218	01:33:30	1	1	4.0.10.0	3	2	pipei_block	pipei2_trail	0	0	0	3000	0	0	0	0	3000	0	1	匹配2.bmp	50pct	50pct	0
+011218	01:33:30	1	1	4.0.10.0	3	3	pipei_block	pipei3_trail	0	0	0	2000	0	0	0	0	2000	0	1	匹配3.bmp	50pct	50pct	0
+011218	01:33:30	1	1	4.0.10.0	4	1	zhengshi_block	chushi_trail	0	0	0	0	0	0	33	0	4367	0	1	初始界面.bmp	50pct	50pct	0
+011218	01:33:30	1	1	4.0.10.0	4	2	zhengshi_block	xuanze_trail	0	0	0	1000	0	0	0	0	1000	0	1	您的选择是：	50pct	50pct	0
+011218	01:34:57	1	1	4.0.10.0	1	1	zhidaoyu_block	zhidaoyu_trail	0	0	0	0	0	0	57	0	571	0	1	指导语.BMP	50pct	50pct	0
+011218	01:34:57	1	1	4.0.10.0	2	1	lianxi_block	lianxi1_trail	0	0	0	0	0	0	33	1	1492	0	1	练习1.BMP	50pct	50pct	0
+011218	01:34:57	1	1	4.0.10.0	2	2	lianxi_block	lianxi2_trail	0	0	0	0	0	0	34	1	261	0	1	练习2.BMP	50pct	50pct	1
+011218	01:34:57	1	1	4.0.10.0	3	1	pipei_block	pipei1_trail	0	0	0	0	0	0	57	0	19	0	1	匹配1.bmp	50pct	50pct	0
+011218	01:34:57	1	1	4.0.10.0	3	2	pipei_block	pipei2_trail	0	0	0	3000	0	0	0	0	3000	0	1	匹配2.bmp	50pct	50pct	0
+011218	01:34:57	1	1	4.0.10.0	3	3	pipei_block	pipei3_trail	0	0	0	2000	0	0	0	0	2000	0	1	匹配3.bmp	50pct	50pct	0
+011218	01:34:57	1	1	4.0.10.0	4	1	zhengshi_block	chushi_trail	0	0	0	0	0	0	33	0	1699	0	1	初始界面.bmp	50pct	50pct	0
+011218	01:34:57	1	1	4.0.10.0	4	2	zhengshi_block	xuanze_trail	0	0	0	5000	0	0	Ctrl+'Q'	1	4485	0	1	您的选择是：	50pct	50pct	0
+011218	01:36:09	1	1	4.0.10.0	1	1	zhidaoyu_block	zhidaoyu_trail	0	0	0	0	0	0	57	0	965	0	1	指导语.BMP	50pct	50pct	0
+011218	01:36:09	1	1	4.0.10.0	2	1	lianxi_block	lianxi1_trail	0	0	0	0	0	0	33	1	3140	0	1	练习1.BMP	50pct	50pct	0
+011218	01:36:09	1	1	4.0.10.0	2	2	lianxi_block	lianxi2_trail	0	0	0	0	0	0	34	1	996	0	1	练习2.BMP	50pct	50pct	1
+011218	01:36:09	1	1	4.0.10.0	3	1	pipei_block	pipei1_trail	0	0	0	0	0	0	57	0	841	0	1	匹配1.bmp	50pct	50pct	0
+011218	01:36:09	1	1	4.0.10.0	3	2	pipei_block	pipei2_trail	0	0	0	5000	0	0	0	0	5000	0	1	匹配2.bmp	50pct	50pct	0
+011218	01:36:09	1	1	4.0.10.0	3	3	pipei_block	pipei3_trail	0	0	0	2000	0	0	0	0	2000	0	1	匹配3.bmp	50pct	50pct	0
+011218	01:36:09	1	1	4.0.10.0	4	1	zhengshi_block	chushi_trail	0	0	0	0	0	0	33	0	1401	0	1	初始界面.bmp	50pct	50pct	0
+011218	01:36:09	1	1	4.0.10.0	4	2	zhengshi_block	xuanze_trail	0	0	0	5000	0	0	Ctrl+'Q'	1	4214	0	1	您的选择是：	50pct	50pct	0
+011218	01:37:01	1	1	4.0.10.0	1	1	zhidaoyu_block	zhidaoyu_trail	0	0	0	0	0	0	57	0	578	0	1	指导语.BMP	50pct	50pct	0
+011218	01:37:01	1	1	4.0.10.0	2	1	lianxi_block	lianxi1_trail	0	0	0	0	0	0	33	1	400	0	1	练习1.BMP	50pct	50pct	0
+011218	01:37:01	1	1	4.0.10.0	2	2	lianxi_block	lianxi2_trail	0	0	0	0	0	0	34	1	1009	0	1	练习2.BMP	50pct	50pct	1
+011218	01:37:01	1	1	4.0.10.0	3	1	pipei_block	pipei1_trail	0	0	0	0	0	0	57	0	884	0	1	匹配1.bmp	50pct	50pct	0
+011218	01:37:01	1	1	4.0.10.0	3	2	pipei_block	pipei2_trail	0	0	0	5000	0	0	0	0	5000	0	1	匹配2.bmp	50pct	50pct	0
+011218	01:37:01	1	1	4.0.10.0	3	3	pipei_block	pipei3_trail	0	0	0	2000	0	0	0	0	2000	0	1	匹配3.bmp	50pct	50pct	0
+011218	01:37:01	1	1	4.0.10.0	4	1	zhengshi_block	chushi_trail	0	0	0	0	0	0	33	0	623	0	1	初始界面.bmp	50pct	50pct	0
+011218	01:37:01	1	1	4.0.10.0	4	2	zhengshi_block	xuanze_trail	0	0	0	5000	0	0	Ctrl+'Q'	1	4135	0	1	您的选择是：	50pct	50pct	0
+011218	01:40:02	1	1	4.0.10.0	1	1	zhidaoyu_block	zhidaoyu_trail	0	0	0	0	0	0	57	0	524	0	1	指导语.BMP	50pct	50pct	0
+011218	01:40:02	1	1	4.0.10.0	2	1	lianxi_block	lianxi1_trail	0	0	0	0	0	0	33	1	559	0	1	练习1.BMP	50pct	50pct	0
+011218	01:40:02	1	1	4.0.10.0	2	2	lianxi_block	lianxi2_trail	0	0	0	0	0	0	34	1	1176	0	1	练习2.BMP	50pct	50pct	1
+011218	01:40:02	1	1	4.0.10.0	3	1	pipei_block	pipei1_trail	0	0	0	0	0	0	57	0	649	0	1	匹配1.bmp	50pct	50pct	0
+011218	01:40:02	1	1	4.0.10.0	3	2	pipei_block	pipei2_trail	0	0	0	3000	0	0	0	0	3000	0	1	匹配2.bmp	50pct	50pct	1
+011218	01:40:02	1	1	4.0.10.0	3	3	pipei_block	pipei3_trail	0	0	0	2000	0	0	0	0	2000	0	1	匹配3.bmp	50pct	50pct	0
+011218	01:40:02	1	1	4.0.10.0	4	1	zhengshi_block	chushi_trail	0	0	0	0	0	0	33	0	2366	0	1	初始界面.bmp	50pct	50pct	0
+011218	01:40:02	1	1	4.0.10.0	4	2	zhengshi_block	xuanze_trail	0	0	0	5000	0	0	0	0	5000	0	1	您的选择是：	50pct	50pct	0
+011218	01:46:29	1	1	4.0.10.0	1	1	zhidaoyu_block	zhidaoyu_trail	0	0	0	0	0	0	57	0	877	0	1	指导语.BMP	50pct	50pct	0
+011218	01:46:29	1	1	4.0.10.0	2	1	lianxi_block	lianxi1_trail	0	0	0	0	0	0	33	1	858	0	1	练习1.BMP	50pct	50pct	0
+011218	01:46:29	1	1	4.0.10.0	2	2	lianxi_block	lianxi2_trail	0	0	0	0	0	0	34	1	831	0	1	练习2.BMP	50pct	50pct	1
+011218	01:46:29	1	1	4.0.10.0	3	1	pipei_block	pipei1_trail	0	0	0	0	0	0	57	0	780	0	1	匹配1.bmp	50pct	50pct	0
+011218	01:46:29	1	1	4.0.10.0	3	2	pipei_block	pipei2_trail	0	0	0	3000	0	0	0	0	3000	0	1	匹配2.bmp	50pct	50pct	0
+011218	01:46:29	1	1	4.0.10.0	3	3	pipei_block	pipei3_trail	0	0	0	2000	0	0	0	0	2000	0	1	匹配3.bmp	50pct	50pct	0
+011218	01:46:29	1	1	4.0.10.0	4	1	zhengshi_block	chushi_trail	0	0	0	0	0	0	33	0	295	0	1	初始界面.bmp	50pct	50pct	0
+011218	01:46:29	1	1	4.0.10.0	4	2	zhengshi_block	xuanze_trail	0	0	0	5000	0	0	Ctrl+'Q'	1	4396	0	1	您的选择是：不投资	50pct	50pct	0
+011218	09:54:25	1	1	4.0.10.0	1	1	zhidaoyu_block	zhidaoyu_trail	0	0	0	0	0	0	57	0	535	0	1	指导语.BMP	50pct	50pct	0
+011218	09:54:25	1	1	4.0.10.0	2	1	lianxi_block	lianxi1_trail	0	0	0	0	0	0	33	1	1368	0	1	练习1.BMP	50pct	50pct	0
+011218	09:54:25	1	1	4.0.10.0	2	2	lianxi_block	lianxi2_trail	0	0	0	0	0	0	34	1	649	0	1	练习2.BMP	50pct	50pct	0
+011218	09:54:25	1	1	4.0.10.0	3	1	pipei_block	pipei1_trail	0	0	0	0	0	0	57	0	855	0	1	匹配1.bmp	50pct	50pct	0
+011218	09:54:25	1	1	4.0.10.0	3	2	pipei_block	pipei2_trail	0	0	0	3000	0	0	0	0	3000	0	1	匹配2.bmp	50pct	50pct	0
+011218	09:54:25	1	1	4.0.10.0	3	3	pipei_block	pipei3_trail	0	0	0	2000	0	0	0	0	2000	0	1	匹配3.bmp	50pct	50pct	1
+011218	09:54:25	1	1	4.0.10.0	4	1	zhengshi_block	chushi_trail	0	0	0	0	0	0	33	0	8114	0	1	初始界面.bmp	50pct	50pct	0
+011218	09:54:25	1	1	4.0.10.0	4	2	zhengshi_block	xuanze_trail	0	0	0	5000	0	0	0	0	5000	0	1	您的选择是：不投资	50pct	50pct	0
+011218	09:55:35	1	1	4.0.10.0	1	1	zhidaoyu_block	zhidaoyu_trail	0	0	0	0	0	0	57	0	810	0	1	指导语.BMP	50pct	50pct	0	0	0	0	0	0
+011218	09:55:35	1	1	4.0.10.0	2	1	lianxi_block	lianxi1_trail	0	0	0	0	0	0	33	1	934	0	1	练习1.BMP	50pct	50pct	0	1	您的选择正确	50pct	50pct	949
+011218	09:55:35	1	1	4.0.10.0	2	2	lianxi_block	lianxi2_trail	0	0	0	0	0	0	34	1	870	0	1	练习2.BMP	50pct	50pct	0	1	您的选择正确	50pct	50pct	883
+011218	09:55:35	1	1	4.0.10.0	3	1	pipei_block	pipei1_trail	0	0	0	0	0	0	57	0	669	0	1	匹配1.bmp	50pct	50pct	0	0	0	0	0	0
+011218	09:55:35	1	1	4.0.10.0	3	2	pipei_block	pipei2_trail	0	0	0	5000	0	0	0	0	5000	0	1	匹配2.bmp	50pct	50pct	0	0	0	0	0	0
+011218	09:55:35	1	1	4.0.10.0	3	3	pipei_block	pipei3_trail	0	0	0	2000	0	0	0	0	2000	0	1	匹配3.bmp	50pct	50pct	0	0	0	0	0	0
+011218	09:55:35	1	1	4.0.10.0	4	1	zhengshi_block	chushi_trail	0	0	0	0	0	0	33	0	1461	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0
+011218	09:55:35	1	1	4.0.10.0	4	2	zhengshi_block	xuanze_trail	0	0	0	5000	0	0	Ctrl+'Q'	1	3995	0	1	您的选择是：不投资	50pct	50pct	4	1		80pct	50pct	4
+011218	09:58:41	1	1	4.0.10.0	1	1	zhidaoyu_block	zhidaoyu_trail	0	0	0	0	0	0	57	0	923	0	1	指导语.BMP	50pct	50pct	0	0	0	0	0	0
+011218	09:58:41	1	1	4.0.10.0	2	1	lianxi_block	lianxi1_trail	0	0	0	0	0	0	33	1	2384	0	1	练习1.BMP	50pct	50pct	0	1	您的选择正确	50pct	50pct	2399
+011218	09:58:41	1	1	4.0.10.0	2	2	lianxi_block	lianxi2_trail	0	0	0	0	0	0	34	1	2941	0	1	练习2.BMP	50pct	50pct	0	1	您的选择正确	50pct	50pct	2949
+011218	09:58:41	1	1	4.0.10.0	3	1	pipei_block	pipei1_trail	0	0	0	0	0	0	57	0	1609	0	1	匹配1.bmp	50pct	50pct	0	0	0	0	0	0
+011218	09:58:41	1	1	4.0.10.0	3	2	pipei_block	pipei2_trail	0	0	0	5000	0	0	0	0	5000	0	1	匹配2.bmp	50pct	50pct	0	0	0	0	0	0
+011218	09:58:41	1	1	4.0.10.0	3	3	pipei_block	pipei3_trail	0	0	0	2000	0	0	0	0	2000	0	1	匹配3.bmp	50pct	50pct	0	0	0	0	0	0
+011218	09:58:41	1	1	4.0.10.0	4	1	zhengshi_block	chushi_trail	0	0	0	0	0	0	33	0	1460	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0
+011218	09:58:41	1	1	4.0.10.0	4	2	zhengshi_block	xuanze_trail	0	0	0	5000	0	0	Ctrl+'Q'	1	3854	0	1	您的选择是：不投资	50pct	50pct	1	1		80pct	50pct	1
+011218	10:01:27	1	1	4.0.10.0	1	1	zhidaoyu_block	zhidaoyu_trail	0	0	0	0	0	0	57	0	936	0	1	指导语.BMP	50pct	50pct	0	0	0	0	0	0
+011218	10:01:27	1	1	4.0.10.0	2	1	lianxi_block	lianxi1_trail	0	0	0	0	0	0	33	1	1177	0	1	练习1.BMP	50pct	50pct	0	1	您的选择正确	50pct	50pct	1183
+011218	10:01:27	1	1	4.0.10.0	2	2	lianxi_block	lianxi2_trail	0	0	0	0	0	0	34	1	466	0	1	练习2.BMP	50pct	50pct	0	1	您的选择正确	50pct	50pct	483
+011218	10:01:27	1	1	4.0.10.0	3	1	pipei_block	pipei1_trail	0	0	0	0	0	0	57	0	10998	0	1	匹配1.bmp	50pct	50pct	0	0	0	0	0	0
+011218	10:01:27	1	1	4.0.10.0	3	2	pipei_block	pipei2_trail	0	0	0	5000	0	0	0	0	5000	0	1	匹配2.bmp	50pct	50pct	0	0	0	0	0	0
+011218	10:01:27	1	1	4.0.10.0	3	3	pipei_block	pipei3_trail	0	0	0	2000	0	0	0	0	2000	0	1	匹配3.bmp	50pct	50pct	0	0	0	0	0	0
+011218	10:01:27	1	1	4.0.10.0	4	1	zhengshi_block	chushi_trail	0	0	0	0	0	0	36	0	1892	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0
+011218	10:01:27	1	1	4.0.10.0	4	2	zhengshi_block	xuanze_trail	0	0	0	5000	0	0	0	0	5000	0	1	您的选择是：不投资	50pct	50pct	1	1		80pct	50pct	1
+011218	10:09:20	1	1	4.0.10.0	1	1	zhidaoyu_block	zhidaoyu_trail	0	0	0	0	0	0	57	0	765	0	1	指导语.BMP	50pct	50pct	0	0	0	0	0	0
+011218	10:09:20	1	1	4.0.10.0	2	1	lianxi_block	lianxi1_trail	0	0	0	0	0	0	33	1	1246	0	1	练习1.BMP	50pct	50pct	0	1	您的选择正确	50pct	50pct	1249
+011218	10:09:20	1	1	4.0.10.0	2	2	lianxi_block	lianxi2_trail	0	0	0	0	0	0	34	1	386	0	1	练习2.BMP	50pct	50pct	0	1	您的选择正确	50pct	50pct	400
+011218	10:09:20	1	1	4.0.10.0	3	1	pipei_block	pipei1_trail	0	0	0	0	0	0	57	0	732	0	1	匹配1.bmp	50pct	50pct	0	0	0	0	0	0
+011218	10:09:20	1	1	4.0.10.0	3	2	pipei_block	pipei2_trail	0	0	0	5000	0	0	0	0	5000	0	1	匹配2.bmp	50pct	50pct	0	0	0	0	0	0
+011218	10:09:20	1	1	4.0.10.0	3	3	pipei_block	pipei3_trail	0	0	0	2000	0	0	0	0	2000	0	1	匹配3.bmp	50pct	50pct	0	0	0	0	0	0
+011218	10:09:20	1	1	4.0.10.0	4	1	zhengshi_block	chushi_trail	0	0	0	0	0	0	33	0	3474	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0
+011218	10:09:20	1	1	4.0.10.0	4	2	zhengshi_block	xuanze_trail	0	0	0	5000	0	0	Ctrl+'Q'	1	1981	0	1	您的选择是：不投资	50pct	50pct	1	1		80pct	50pct	1
+011218	10:10:00	1	1	4.0.10.0	1	1	zhidaoyu_block	zhidaoyu_trail	0	0	0	0	0	0	57	0	922	0	1	指导语.BMP	50pct	50pct	0	0	0	0	0	0
+011218	10:10:00	1	1	4.0.10.0	2	1	lianxi_block	lianxi1_trail	0	0	0	0	0	0	33	1	904	0	1	练习1.BMP	50pct	50pct	0	1	您的选择正确	50pct	50pct	916
+011218	10:10:00	1	1	4.0.10.0	2	2	lianxi_block	lianxi2_trail	0	0	0	0	0	0	34	1	149	0	1	练习2.BMP	50pct	50pct	0	1	您的选择正确	50pct	50pct	149
+011218	10:10:00	1	1	4.0.10.0	3	1	pipei_block	pipei1_trail	0	0	0	0	0	0	57	0	195	0	1	匹配1.bmp	50pct	50pct	0	0	0	0	0	0
+011218	10:10:00	1	1	4.0.10.0	3	2	pipei_block	pipei2_trail	0	0	0	3000	0	0	0	0	3000	0	1	匹配2.bmp	50pct	50pct	0	0	0	0	0	0
+011218	10:10:00	1	1	4.0.10.0	3	3	pipei_block	pipei3_trail	0	0	0	2000	0	0	0	0	2000	0	1	匹配3.bmp	50pct	50pct	0	0	0	0	0	0
+011218	10:10:00	1	1	4.0.10.0	4	1	zhengshi_block	chushi_trail	0	0	0	0	0	0	33	0	1321	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0
+011218	10:10:00	1	1	4.0.10.0	4	2	zhengshi_block	xuanze_trail	0	0	0	5000	0	0	Ctrl+'Q'	1	1505	0	1	您的选择是：不投资	50pct	50pct	1	1		80pct	50pct	1
+011218	10:14:45	1	1	4.0.10.0	1	1	zhidaoyu_block	zhidaoyu_trail	0	0	0	0	0	0	57	0	384	0	1	指导语.BMP	50pct	50pct	0	0	0	0	0	0
+011218	10:14:45	1	1	4.0.10.0	2	1	lianxi_block	lianxi1_trail	0	0	0	0	0	0	33	1	1215	0	1	练习1.BMP	50pct	50pct	0	1	您的选择正确	50pct	50pct	1216
+011218	10:14:45	1	1	4.0.10.0	2	2	lianxi_block	lianxi2_trail	0	0	0	0	0	0	34	1	402	0	1	练习2.BMP	50pct	50pct	0	1	您的选择正确	50pct	50pct	416
+011218	10:14:45	1	1	4.0.10.0	3	1	pipei_block	pipei1_trail	0	0	0	0	0	0	57	0	734	0	1	匹配1.bmp	50pct	50pct	0	0	0	0	0	0
+011218	10:14:45	1	1	4.0.10.0	3	2	pipei_block	pipei2_trail	0	0	0	3000	0	0	0	0	3000	0	1	匹配2.bmp	50pct	50pct	0	0	0	0	0	0
+011218	10:14:45	1	1	4.0.10.0	3	3	pipei_block	pipei3_trail	0	0	0	2000	0	0	0	0	2000	0	1	匹配3.bmp	50pct	50pct	3	0	0	0	0	0
+011218	10:14:45	1	1	4.0.10.0	4	1	zhengshi_block	chushi_trail	0	0	0	0	0	0	33	0	399	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0
+011218	10:14:45	1	1	4.0.10.0	4	2	zhengshi_block	xuanze_trail	0	0	0	5000	0	0	Ctrl+'Q'	1	4067	0	1	您的选择是：不投资	50pct	50pct	1	1		80pct	50pct	1
+011218	10:15:38	1	1	4.0.10.0	1	1	zhidaoyu_block	zhidaoyu_trail	0	0	0	0	0	0	57	0	390	0	1	指导语.BMP	50pct	50pct	0	0	0	0	0	0
+011218	10:15:38	1	1	4.0.10.0	2	1	lianxi_block	lianxi1_trail	0	0	0	0	0	0	33	1	803	0	1	练习1.BMP	50pct	50pct	0	1	您的选择正确	50pct	50pct	816
+011218	10:15:38	1	1	4.0.10.0	2	2	lianxi_block	lianxi2_trail	0	0	0	0	0	0	34	1	191	0	1	练习2.BMP	50pct	50pct	0	1	您的选择正确	50pct	50pct	199
+011218	10:15:38	1	1	4.0.10.0	3	1	pipei_block	pipei1_trail	0	0	0	0	0	0	57	0	580	0	1	匹配1.bmp	50pct	50pct	0	0	0	0	0	0
+011218	10:15:38	1	1	4.0.10.0	3	2	pipei_block	pipei2_trail	0	0	0	3000	0	0	0	0	3000	0	1	匹配2.bmp	50pct	50pct	0	0	0	0	0	0
+011218	10:15:38	1	1	4.0.10.0	3	3	pipei_block	pipei3_trail	0	0	0	2000	0	0	0	0	2000	0	1	匹配3.bmp	50pct	50pct	0	0	0	0	0	0
+011218	10:15:38	1	1	4.0.10.0	4	1	zhengshi_block	chushi_trail	0	0	0	0	0	0	33	0	1075	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0
+011218	10:15:38	1	1	4.0.10.0	4	2	zhengshi_block	xuanze_trail	0	0	0	5000	0	0	Ctrl+'Q'	1	4715	0	1	您的选择是：不投资	30pct	50pct	1	1		70pct	50pct	1
+011218	10:19:41	1	1	4.0.10.0	1	1	zhidaoyu_block	zhidaoyu_trail	0	0	0	0	0	0	57	0	933	0	1	指导语.BMP	50pct	50pct	0	0	0	0	0	0
+011218	10:19:41	1	1	4.0.10.0	2	1	lianxi_block	lianxi1_trail	0	0	0	0	0	0	33	1	563	0	1	练习1.BMP	50pct	50pct	0	1	您的选择正确	50pct	50pct	566
+011218	10:19:41	1	1	4.0.10.0	2	2	lianxi_block	lianxi2_trail	0	0	0	0	0	0	34	1	954	0	1	练习2.BMP	50pct	50pct	0	1	您的选择正确	50pct	50pct	966
+011218	10:19:41	1	1	4.0.10.0	3	1	pipei_block	pipei1_trail	0	0	0	0	0	0	57	0	1199	0	1	匹配1.bmp	50pct	50pct	0	0	0	0	0	0
+011218	10:19:41	1	1	4.0.10.0	3	2	pipei_block	pipei2_trail	0	0	0	5000	0	0	0	0	5000	0	1	匹配2.bmp	50pct	50pct	0	0	0	0	0	0
+011218	10:19:41	1	1	4.0.10.0	3	3	pipei_block	pipei3_trail	0	0	0	2000	0	0	0	0	2000	0	1	匹配3.bmp	50pct	50pct	0	0	0	0	0	0
+011218	10:19:41	1	1	4.0.10.0	4	1	zhengshi_block	chushi_trail	0	0	0	0	0	0	33	1	1355	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0
+011218	10:19:41	1	1	4.0.10.0	4	2	zhengshi_block	xuanze_trail	0	0	0	5000	0	0	0	0	5000	0	1	您的选择是：投资	30pct	50pct	1	1		70pct	50pct	1
+011218	10:20:32	1	1	4.0.10.0	1	1	zhidaoyu_block	zhidaoyu_trail	0	0	0	0	0	0	57	0	1199	0	1	指导语.BMP	50pct	50pct	0	0	0	0	0	0
+011218	10:20:32	1	1	4.0.10.0	2	1	lianxi_block	lianxi1_trail	0	0	0	0	0	0	33	1	1330	0	1	练习1.BMP	50pct	50pct	0	1	您的选择正确	50pct	50pct	1333
+011218	10:20:32	1	1	4.0.10.0	2	2	lianxi_block	lianxi2_trail	0	0	0	0	0	0	34	1	431	0	1	练习2.BMP	50pct	50pct	0	1	您的选择正确	50pct	50pct	433
+011218	10:20:32	1	1	4.0.10.0	3	1	pipei_block	pipei1_trail	0	0	0	0	0	0	57	0	826	0	1	匹配1.bmp	50pct	50pct	0	0	0	0	0	0
+011218	10:20:32	1	1	4.0.10.0	3	2	pipei_block	pipei2_trail	0	0	0	5000	0	0	0	0	5000	0	1	匹配2.bmp	50pct	50pct	0	0	0	0	0	0
+011218	10:20:32	1	1	4.0.10.0	3	3	pipei_block	pipei3_trail	0	0	0	2000	0	0	0	0	2000	0	1	匹配3.bmp	50pct	50pct	0	0	0	0	0	0
+011218	10:20:32	1	1	4.0.10.0	4	1	zhengshi_block	chushi_trail	0	0	0	0	0	0	33	1	1183	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0
+011218	10:20:32	1	1	4.0.10.0	4	2	zhengshi_block	xuanze_trail	0	0	0	5000	0	0	0	0	5000	0	1	您的选择是：投资	30pct	50pct	0	1	您目前的总资金是：0	70pct	50pct	0
+011218	10:21:11	1	1	4.0.10.0	1	1	zhidaoyu_block	zhidaoyu_trail	0	0	0	0	0	0	57	0	664	0	1	指导语.BMP	50pct	50pct	0	0	0	0	0	0
+011218	10:21:11	1	1	4.0.10.0	2	1	lianxi_block	lianxi1_trail	0	0	0	0	0	0	33	1	981	0	1	练习1.BMP	50pct	50pct	0	1	您的选择正确	50pct	50pct	983
+011218	10:21:11	1	1	4.0.10.0	2	2	lianxi_block	lianxi2_trail	0	0	0	0	0	0	34	1	490	0	1	练习2.BMP	50pct	50pct	0	1	您的选择正确	50pct	50pct	499
+011218	10:21:11	1	1	4.0.10.0	3	1	pipei_block	pipei1_trail	0	0	0	0	0	0	57	0	745	0	1	匹配1.bmp	50pct	50pct	0	0	0	0	0	0
+011218	10:21:11	1	1	4.0.10.0	3	2	pipei_block	pipei2_trail	0	0	0	3000	0	0	0	0	3000	0	1	匹配2.bmp	50pct	50pct	0	0	0	0	0	0
+011218	10:21:11	1	1	4.0.10.0	3	3	pipei_block	pipei3_trail	0	0	0	2000	0	0	0	0	2000	0	1	匹配3.bmp	50pct	50pct	0	0	0	0	0	0
+011218	10:21:11	1	1	4.0.10.0	4	1	zhengshi_block	chushi_trail	0	0	0	0	0	0	33	1	529	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0
+011218	10:21:11	1	1	4.0.10.0	4	2	zhengshi_block	xuanze_trail	0	0	0	5000	0	0	0	0	5000	0	1	您的选择是：投资	40pct	50pct	0	1	您目前的总资金是：0	60pct	50pct	0
+011218	10:31:50	1	1	4.0.10.0	1	1	zhidaoyu_block	zhidaoyu_trail	0	0	0	0	0	0	Ctrl+'Q'	1	1562	0	1	指导语.BMP	50pct	50pct	0	0	0	0	0	0
+011218	10:34:14	1	1	4.0.10.0	1	1	zhidaoyu_block	zhidaoyu_trail	0	0	0	0	0	0	57	0	835	0	1	指导语.BMP	50pct	50pct	0	0	0	0	0	0
+011218	10:34:14	1	1	4.0.10.0	2	1	lianxi_block	lianxi1_trail	0	0	0	0	0	0	33	1	746	0	1	练习1.BMP	50pct	50pct	0	1	您的选择正确	50pct	50pct	749
+011218	10:34:14	1	1	4.0.10.0	2	2	lianxi_block	lianxi2_trail	0	0	0	0	0	0	34	1	548	0	1	练习2.BMP	50pct	50pct	0	1	您的选择正确	50pct	50pct	549
+011218	10:34:14	1	1	4.0.10.0	3	1	pipei_block	pipei1_trail	0	0	0	0	0	0	57	0	692	0	1	匹配1.bmp	50pct	50pct	0	0	0	0	0	0
+011218	10:34:14	1	1	4.0.10.0	3	2	pipei_block	pipei2_trail	0	0	0	3000	0	0	0	0	3000	0	1	匹配2.bmp	50pct	50pct	0	0	0	0	0	0
+011218	10:34:14	1	1	4.0.10.0	3	3	pipei_block	pipei3_trail	0	0	0	2000	0	0	0	0	2000	0	1	匹配3.bmp	50pct	50pct	0	0	0	0	0	0
+011218	10:34:14	1	1	4.0.10.0	4	1	zhengshi_block	chushi_trail	0	0	0	0	0	0	33	1	1160	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0
+011218	10:34:14	1	1	4.0.10.0	4	2	zhengshi_block	xuanze_trail	0	0	0	1000	0	0	0	0	1000	0	1	您的选择是：投资	40pct	50pct	0	1	您目前的总资金是：0	60pct	50pct	0
+011218	10:35:04	1	1	4.0.10.0	1	1	zhidaoyu_block	zhidaoyu_trail	0	0	0	0	0	0	57	0	424	0	1	指导语.BMP	50pct	50pct	0	0	0	0	0	0
+011218	10:35:04	1	1	4.0.10.0	2	1	lianxi_block	lianxi1_trail	0	0	0	0	0	0	33	1	475	0	1	练习1.BMP	50pct	50pct	0	1	您的选择正确	50pct	50pct	483
+011218	10:35:04	1	1	4.0.10.0	2	2	lianxi_block	lianxi2_trail	0	0	0	0	0	0	34	1	830	0	1	练习2.BMP	50pct	50pct	0	1	您的选择正确	50pct	50pct	833
+011218	10:35:04	1	1	4.0.10.0	3	1	pipei_block	pipei1_trail	0	0	0	0	0	0	57	0	782	0	1	匹配1.bmp	50pct	50pct	0	0	0	0	0	0
+011218	10:35:04	1	1	4.0.10.0	3	2	pipei_block	pipei2_trail	0	0	0	5000	0	0	0	0	5000	0	1	匹配2.bmp	50pct	50pct	0	0	0	0	0	0
+011218	10:35:04	1	1	4.0.10.0	3	3	pipei_block	pipei3_trail	0	0	0	2000	0	0	0	0	2000	0	1	匹配3.bmp	50pct	50pct	0	0	0	0	0	0
+011218	10:35:04	1	1	4.0.10.0	4	1	zhengshi_block	chushi_trail	0	0	0	0	0	0	36	0	853	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0
+011218	10:35:04	1	1	4.0.10.0	4	2	zhengshi_block	xuanze_trail	0	0	0	1000	0	0	0	0	1000	0	1	您的选择是：不投资	40pct	50pct	0	1	您目前的总资金是：0	60pct	50pct	0
+011218	10:35:04	1	1	4.0.10.0	4	3	zhengshi_block	dengdai_trail	0	0	0	3000	0	0	0	0	3000	0	1	等待.bmp	50pct	50pct	0	0	0	0	0	0
+011218	10:35:04	1	1	4.0.10.0	4	4	zhengshi_block	jieguo_trail	0	0	0	5000	0	0	0	0	5000	0	1	对方的选择是:不返还	50pct	50pct	0	0	0	0	0	0
+011218	10:35:51	1	1	4.0.10.0	1	1	zhidaoyu_block	zhidaoyu_trail	0	0	0	0	0	0	57	0	467	0	1	指导语.BMP	50pct	50pct	0	0	0	0	0	0
+011218	10:35:51	1	1	4.0.10.0	2	1	lianxi_block	lianxi1_trail	0	0	0	0	0	0	33	1	535	0	1	练习1.BMP	50pct	50pct	0	1	您的选择正确	50pct	50pct	549
+011218	10:35:51	1	1	4.0.10.0	2	2	lianxi_block	lianxi2_trail	0	0	0	0	0	0	34	1	406	0	1	练习2.BMP	50pct	50pct	0	1	您的选择正确	50pct	50pct	416
+011218	10:35:51	1	1	4.0.10.0	3	1	pipei_block	pipei1_trail	0	0	0	0	0	0	57	0	868	0	1	匹配1.bmp	50pct	50pct	0	0	0	0	0	0
+011218	10:35:51	1	1	4.0.10.0	3	2	pipei_block	pipei2_trail	0	0	0	3000	0	0	0	0	3000	0	1	匹配2.bmp	50pct	50pct	0	0	0	0	0	0
+011218	10:35:51	1	1	4.0.10.0	3	3	pipei_block	pipei3_trail	0	0	0	2000	0	0	0	0	2000	0	1	匹配3.bmp	50pct	50pct	0	0	0	0	0	0
+011218	10:35:51	1	1	4.0.10.0	4	1	zhengshi_block	chushi_trail	0	0	0	0	0	0	36	0	1259	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0
+011218	10:35:51	1	1	4.0.10.0	4	2	zhengshi_block	xuanze_trail	0	0	0	1000	0	0	0	0	1000	0	1	您的选择是：不投资	40pct	50pct	0	1	您目前的总资金是：0	60pct	50pct	0
+011218	10:35:51	1	1	4.0.10.0	4	3	zhengshi_block	dengdai_trail	0	0	0	0	0	0	0	0	0	0	1	等待.bmp	50pct	50pct	0	0	0	0	0	0
+011218	10:35:51	1	1	4.0.10.0	4	4	zhengshi_block	jieguo_trail	0	0	0	1000	0	0	0	0	1000	0	1	对方的选择是:不返还	50pct	50pct	0	0	0	0	0	0
+011218	10:35:51	1	1	4.0.10.0	4	5	zhengshi_block	jieguo_trail	0	0	0	1000	0	0	0	0	1000	0	2	对方的选择是:不返还	50pct	50pct	0	0	0	0	0	0
+011218	10:35:51	1	1	4.0.10.0	4	6	zhengshi_block	jieguo_trail	0	0	0	1000	0	0	0	0	1000	0	3	对方的选择是:不返还	50pct	50pct	0	0	0	0	0	0
+011218	10:35:51	1	1	4.0.10.0	4	7	zhengshi_block	jieguo_trail	0	0	0	1000	0	0	0	0	1000	0	4	对方的选择是:不返还	50pct	50pct	0	0	0	0	0	0
+011218	10:35:51	1	1	4.0.10.0	4	8	zhengshi_block	jieguo_trail	0	0	0	1000	0	0	0	0	1000	0	5	对方的选择是:不返还	50pct	50pct	0	0	0	0	0	0
+011218	10:37:46	1	1	4.0.10.0	1	1	zhidaoyu_block	zhidaoyu_trail	0	0	0	0	0	0	57	0	1637	0	1	指导语.BMP	50pct	50pct	0	0	0	0	0	0
+011218	10:37:46	1	1	4.0.10.0	2	1	lianxi_block	lianxi1_trail	0	0	0	0	0	0	33	1	1188	0	1	练习1.BMP	50pct	50pct	0	1	您的选择正确	50pct	50pct	1199
+011218	10:37:46	1	1	4.0.10.0	2	2	lianxi_block	lianxi2_trail	0	0	0	0	0	0	34	1	326	0	1	练习2.BMP	50pct	50pct	0	1	您的选择正确	50pct	50pct	333
+011218	10:37:46	1	1	4.0.10.0	3	1	pipei_block	pipei1_trail	0	0	0	0	0	0	57	0	1151	0	1	匹配1.bmp	50pct	50pct	0	0	0	0	0	0
+011218	10:37:46	1	1	4.0.10.0	3	2	pipei_block	pipei2_trail	0	0	0	3000	0	0	0	0	3000	0	1	匹配2.bmp	50pct	50pct	0	0	0	0	0	0
+011218	10:37:46	1	1	4.0.10.0	3	3	pipei_block	pipei3_trail	0	0	0	2000	0	0	0	0	2000	0	1	匹配3.bmp	50pct	50pct	0	0	0	0	0	0
+011218	10:37:46	1	1	4.0.10.0	4	1	zhengshi_block	chushi_trail	0	0	0	0	0	0	36	0	1779	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0
+011218	10:37:46	1	1	4.0.10.0	4	2	zhengshi_block	xuanze_trail	0	0	0	1000	0	0	0	0	1000	0	1	您的选择是：不投资	40pct	50pct	0	1	您目前的总资金是：0	60pct	50pct	0
+011218	10:37:46	1	1	4.0.10.0	4	3	zhengshi_block	dengdai_trail	0	0	0	0	0	0	0	0	0	0	1	等待.bmp	50pct	50pct	0	0	0	0	0	0
+011218	10:37:46	1	1	4.0.10.0	4	4	zhengshi_block	jieguo_trail	0	0	0	1000	0	0	0	0	1000	0	1	对方的选择是:返还一半	50pct	50pct	0	0	0	0	0	0
+011218	10:37:46	1	1	4.0.10.0	4	5	zhengshi_block	jieguo_trail	0	0	0	1000	0	0	0	0	1000	0	2	对方的选择是:返还一半	50pct	50pct	0	0	0	0	0	0
+011218	10:37:46	1	1	4.0.10.0	4	6	zhengshi_block	jieguo_trail	0	0	0	1000	0	0	0	0	1000	0	3	对方的选择是:返还一半	50pct	50pct	0	0	0	0	0	0
+011218	10:37:46	1	1	4.0.10.0	4	7	zhengshi_block	jieguo_trail	0	0	0	1000	0	0	0	0	1000	0	4	对方的选择是:返还一半	50pct	50pct	0	0	0	0	0	0
+011218	10:37:46	1	1	4.0.10.0	4	8	zhengshi_block	jieguo_trail	0	0	0	1000	0	0	0	0	1000	0	5	对方的选择是:返还一半	50pct	50pct	0	0	0	0	0	0
+011218	10:38:20	1	1	4.0.10.0	1	1	zhidaoyu_block	zhidaoyu_trail	0	0	0	0	0	0	57	0	46	0	1	指导语.BMP	50pct	50pct	0	0	0	0	0	0
+011218	10:38:20	1	1	4.0.10.0	2	1	lianxi_block	lianxi1_trail	0	0	0	0	0	0	33	1	36	0	1	练习1.BMP	50pct	50pct	0	1	您的选择正确	50pct	50pct	49
+011218	10:38:20	1	1	4.0.10.0	2	2	lianxi_block	lianxi2_trail	0	0	0	0	0	0	34	1	45	0	1	练习2.BMP	50pct	50pct	0	1	您的选择正确	50pct	50pct	50
+011218	10:38:20	1	1	4.0.10.0	3	1	pipei_block	pipei1_trail	0	0	0	0	0	0	57	0	49	0	1	匹配1.bmp	50pct	50pct	0	0	0	0	0	0
+011218	10:38:20	1	1	4.0.10.0	3	2	pipei_block	pipei2_trail	0	0	0	3000	0	0	0	0	3000	0	1	匹配2.bmp	50pct	50pct	0	0	0	0	0	0
+011218	10:38:20	1	1	4.0.10.0	3	3	pipei_block	pipei3_trail	0	0	0	2000	0	0	0	0	2000	0	1	匹配3.bmp	50pct	50pct	0	0	0	0	0	0
+011218	10:38:20	1	1	4.0.10.0	4	1	zhengshi_block	chushi_trail	0	0	0	0	0	0	33	1	28	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0
+011218	10:38:20	1	1	4.0.10.0	4	2	zhengshi_block	xuanze_trail	0	0	0	1000	0	0	0	0	1000	0	1	您的选择是：投资	40pct	50pct	0	1	您目前的总资金是：0	60pct	50pct	0
+011218	10:38:20	1	1	4.0.10.0	4	3	zhengshi_block	dengdai_trail	0	0	0	3000	0	0	0	0	3000	0	1	等待.bmp	50pct	50pct	0	0	0	0	0	0
+011218	10:38:20	1	1	4.0.10.0	4	4	zhengshi_block	jieguo_trail	0	0	0	1000	0	0	0	0	1000	0	1	对方的选择是:返还一半	50pct	50pct	0	0	0	0	0	0
+011218	10:38:20	1	1	4.0.10.0	4	5	zhengshi_block	jieguo_trail	0	0	0	1000	0	0	0	0	1000	0	2	对方的选择是:返还一半	50pct	50pct	0	0	0	0	0	0
+011218	10:38:20	1	1	4.0.10.0	4	6	zhengshi_block	jieguo_trail	0	0	0	1000	0	0	0	0	1000	0	3	对方的选择是:返还一半	50pct	50pct	0	0	0	0	0	0
+011218	10:38:20	1	1	4.0.10.0	4	7	zhengshi_block	jieguo_trail	0	0	0	1000	0	0	0	0	1000	0	4	对方的选择是:返还一半	50pct	50pct	0	0	0	0	0	0
+011218	10:38:20	1	1	4.0.10.0	4	8	zhengshi_block	jieguo_trail	0	0	0	1000	0	0	0	0	1000	0	5	对方的选择是:返还一半	50pct	50pct	0	0	0	0	0	0
+011218	10:40:10	1	1	4.0.10.0	1	1	zhidaoyu_block	zhidaoyu_trail	0	0	0	0	0	0	57	0	39	0	1	指导语.BMP	50pct	50pct	0	0	0	0	0	0
+011218	10:40:10	1	1	4.0.10.0	2	1	lianxi_block	lianxi1_trail	0	0	0	0	0	0	33	1	46	0	1	练习1.BMP	50pct	50pct	0	1	您的选择正确	50pct	50pct	50
+011218	10:40:10	1	1	4.0.10.0	2	2	lianxi_block	lianxi2_trail	0	0	0	0	0	0	34	1	23	0	1	练习2.BMP	50pct	50pct	0	1	您的选择正确	50pct	50pct	33
+011218	10:40:10	1	1	4.0.10.0	3	1	pipei_block	pipei1_trail	0	0	0	0	0	0	57	0	59	0	1	匹配1.bmp	50pct	50pct	0	0	0	0	0	0
+011218	10:40:10	1	1	4.0.10.0	3	2	pipei_block	pipei2_trail	0	0	0	5000	0	0	0	0	5000	0	1	匹配2.bmp	50pct	50pct	0	0	0	0	0	0
+011218	10:40:10	1	1	4.0.10.0	3	3	pipei_block	pipei3_trail	0	0	0	2000	0	0	0	0	2000	0	1	匹配3.bmp	50pct	50pct	0	0	0	0	0	0
+011218	10:40:10	1	1	4.0.10.0	4	1	zhengshi_block	chushi_trail	0	0	0	0	0	0	33	1	35	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0
+011218	10:40:10	1	1	4.0.10.0	4	2	zhengshi_block	xuanze_trail	0	0	0	1000	0	0	0	0	1000	0	1	您的选择是：投资	40pct	50pct	0	1	您目前的总资金是：0	60pct	50pct	0
+011218	10:40:10	1	1	4.0.10.0	4	3	zhengshi_block	dengdai_trail	0	0	0	0	0	0	0	0	0	0	1	等待.bmp	50pct	50pct	0	0	0	0	0	0
+011218	10:40:10	1	1	4.0.10.0	4	4	zhengshi_block	jieguo_trail	0	0	0	1000	0	0	0	0	1000	0	1	对方的选择是:不返还	50pct	50pct	0	0	0	0	0	0
+011218	10:40:10	1	1	4.0.10.0	4	5	zhengshi_block	jieguo_trail	0	0	0	1000	0	0	0	0	1000	0	2	对方的选择是:不返还	50pct	50pct	0	0	0	0	0	0
+011218	10:40:10	1	1	4.0.10.0	4	6	zhengshi_block	jieguo_trail	0	0	0	1000	0	0	0	0	1000	0	3	对方的选择是:不返还	50pct	50pct	0	0	0	0	0	0
+011218	10:40:10	1	1	4.0.10.0	4	7	zhengshi_block	jieguo_trail	0	0	0	1000	0	0	0	0	1000	0	4	对方的选择是:不返还	50pct	50pct	0	0	0	0	0	0
+011218	10:40:10	1	1	4.0.10.0	4	8	zhengshi_block	jieguo_trail	0	0	0	1000	0	0	0	0	1000	0	5	对方的选择是:不返还	50pct	50pct	0	0	0	0	0	0
+011218	10:41:38	1	1	4.0.10.0	1	1	zhidaoyu_block	zhidaoyu_trail	0	0	0	0	0	0	57	0	6	0	1	指导语.BMP	50pct	50pct	0	0	0	0	0	0
+011218	10:41:38	1	1	4.0.10.0	2	1	lianxi_block	lianxi1_trail	0	0	0	0	0	0	33	0	107	0	1	练习1.BMP	50pct	50pct	0	1	您的选择错误，请再次选择	80pct	50pct	66
+011218	10:41:38	1	1	4.0.10.0	2	2	lianxi_block	lianxi2_trail	0	0	0	0	0	0	34	1	47	0	1	练习2.BMP	50pct	50pct	0	1	您的选择正确	50pct	50pct	50
+011218	10:41:38	1	1	4.0.10.0	3	1	pipei_block	pipei1_trail	0	0	0	0	0	0	57	0	51	0	1	匹配1.bmp	50pct	50pct	0	0	0	0	0	0
+011218	10:41:38	1	1	4.0.10.0	3	2	pipei_block	pipei2_trail	0	0	0	5000	0	0	0	0	5000	0	1	匹配2.bmp	50pct	50pct	0	0	0	0	0	0
+011218	10:41:38	1	1	4.0.10.0	3	3	pipei_block	pipei3_trail	0	0	0	2000	0	0	0	0	2000	0	1	匹配3.bmp	50pct	50pct	0	0	0	0	0	0
+011218	10:41:38	1	1	4.0.10.0	4	1	zhengshi_block	chushi_trail	0	0	0	0	0	0	33	1	58	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0
+011218	10:41:38	1	1	4.0.10.0	4	2	zhengshi_block	xuanze_trail	0	0	0	1000	0	0	0	0	1000	0	1	您的选择是：投资	40pct	50pct	0	1	您目前的总资金是：0	60pct	50pct	0
+011218	10:41:38	1	1	4.0.10.0	4	3	zhengshi_block	dengdai_trail	0	0	0	0	0	0	0	0	0	0	1	等待.bmp	50pct	50pct	0	0	0	0	0	0
+011218	10:41:38	1	1	4.0.10.0	4	4	zhengshi_block	jieguo_trail	0	0	0	1000	0	0	0	0	1000	0	1	对方的选择是:不返还	50pct	50pct	0	0	0	0	0	0
+011218	10:41:38	1	1	4.0.10.0	4	5	zhengshi_block	jieguo_trail	0	0	0	1000	0	0	0	0	1000	0	2	对方的选择是:不返还	50pct	50pct	0	0	0	0	0	0
+011218	10:41:38	1	1	4.0.10.0	4	6	zhengshi_block	jieguo_trail	0	0	0	1000	0	0	0	0	1000	0	3	对方的选择是:不返还	50pct	50pct	0	0	0	0	0	0
+011218	10:41:38	1	1	4.0.10.0	4	7	zhengshi_block	jieguo_trail	0	0	0	1000	0	0	0	0	1000	0	4	对方的选择是:不返还	50pct	50pct	0	0	0	0	0	0
+011218	10:41:38	1	1	4.0.10.0	4	8	zhengshi_block	jieguo_trail	0	0	0	1000	0	0	0	0	1000	0	5	对方的选择是:不返还	50pct	50pct	0	0	0	0	0	0
+011218	10:43:28	1	1	4.0.10.0	1	1	zhidaoyu_block	zhidaoyu_trail	0	0	0	0	0	0	57	0	66	0	1	指导语.BMP	50pct	50pct	0	0	0	0	0	0
+011218	10:43:28	1	1	4.0.10.0	2	1	lianxi_block	lianxi1_trail	0	0	0	0	0	0	33	1	39	0	1	练习1.BMP	50pct	50pct	0	1	您的选择正确	50pct	50pct	49
+011218	10:43:28	1	1	4.0.10.0	2	2	lianxi_block	lianxi2_trail	0	0	0	0	0	0	34	0	110	0	1	练习2.BMP	50pct	50pct	1	1	您的选择错误，请再次选择	80pct	50pct	50
+011218	10:43:28	1	1	4.0.10.0	3	1	pipei_block	pipei1_trail	0	0	0	0	0	0	57	0	46	0	1	匹配1.bmp	50pct	50pct	0	0	0	0	0	0
+011218	10:43:28	1	1	4.0.10.0	3	2	pipei_block	pipei2_trail	0	0	0	3000	0	0	0	0	3000	0	1	匹配2.bmp	50pct	50pct	0	0	0	0	0	0
+011218	10:43:28	1	1	4.0.10.0	3	3	pipei_block	pipei3_trail	0	0	0	2000	0	0	0	0	2000	0	1	匹配3.bmp	50pct	50pct	0	0	0	0	0	0
+011218	10:43:28	1	1	4.0.10.0	4	1	zhengshi_block	chushi_trail	0	0	0	0	0	0	33	1	26	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0
+011218	10:43:28	1	1	4.0.10.0	4	2	zhengshi_block	xuanze_trail	0	0	0	1000	0	0	0	0	1000	0	1	您的选择是：投资	40pct	50pct	0	1	您目前的总资金是：0	60pct	50pct	0
+011218	10:43:28	1	1	4.0.10.0	4	3	zhengshi_block	dengdai_trail	0	0	0	0	0	0	0	0	0	0	1	等待.bmp	50pct	50pct	0	0	0	0	0	0
+011218	10:43:28	1	1	4.0.10.0	4	4	zhengshi_block	jieguo_trail	0	0	0	1000	0	0	0	0	1000	0	1	对方的选择是:不返还	50pct	50pct	0	0	0	0	0	0
+011218	10:43:28	1	1	4.0.10.0	4	5	zhengshi_block	jieguo_trail	0	0	0	1000	0	0	0	0	1000	0	2	对方的选择是:不返还	50pct	50pct	0	0	0	0	0	0
+011218	10:43:28	1	1	4.0.10.0	4	6	zhengshi_block	jieguo_trail	0	0	0	1000	0	0	0	0	1000	0	3	对方的选择是:不返还	50pct	50pct	0	0	0	0	0	0
+011218	10:43:28	1	1	4.0.10.0	4	7	zhengshi_block	jieguo_trail	0	0	0	1000	0	0	0	0	1000	0	4	对方的选择是:不返还	50pct	50pct	0	0	0	0	0	0
+011218	10:43:28	1	1	4.0.10.0	4	8	zhengshi_block	jieguo_trail	0	0	0	1000	0	0	0	0	1000	0	5	对方的选择是:不返还	50pct	50pct	0	0	0	0	0	0
+011218	10:43:28	1	1	4.0.10.0	4	9	zhengshi_block	jieguo_trail	0	0	0	1000	0	0	0	0	1000	0	6	对方的选择是:不返还	50pct	50pct	0	0	0	0	0	0
+011218	10:43:28	1	1	4.0.10.0	4	10	zhengshi_block	jieguo_trail	0	0	0	1000	0	0	0	0	1000	0	7	对方的选择是:不返还	50pct	50pct	0	0	0	0	0	0
+011218	10:44:05	1	1	4.0.10.0	1	1	zhidaoyu_block	zhidaoyu_trail	0	0	0	0	0	0	57	0	42	0	1	指导语.BMP	50pct	50pct	1	0	0	0	0	0
+011218	10:44:05	1	1	4.0.10.0	2	1	lianxi_block	lianxi1_trail	0	0	0	0	0	0	33	0	142	0	1	练习1.BMP	50pct	50pct	0	1	您的选择错误，请再次选择	80pct	50pct	49
+011218	10:44:05	1	1	4.0.10.0	2	2	lianxi_block	lianxi2_trail	0	0	0	0	0	0	34	0	97	0	1	练习2.BMP	50pct	50pct	0	1	您的选择错误，请再次选择	80pct	50pct	50
+011218	10:44:05	1	1	4.0.10.0	3	1	pipei_block	pipei1_trail	0	0	0	0	0	0	57	0	65	0	1	匹配1.bmp	50pct	50pct	0	0	0	0	0	0
+011218	10:44:05	1	1	4.0.10.0	3	2	pipei_block	pipei2_trail	0	0	0	5000	0	0	0	0	5000	0	1	匹配2.bmp	50pct	50pct	0	0	0	0	0	0
+011218	10:44:05	1	1	4.0.10.0	3	3	pipei_block	pipei3_trail	0	0	0	2000	0	0	0	0	2000	0	1	匹配3.bmp	50pct	50pct	0	0	0	0	0	0
+011218	10:44:05	1	1	4.0.10.0	4	1	zhengshi_block	chushi_trail	0	0	0	0	0	0	33	1	25	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0
+011218	10:44:05	1	1	4.0.10.0	4	2	zhengshi_block	xuanze_trail	0	0	0	1000	0	0	0	0	1000	0	1	您的选择是：投资	40pct	50pct	0	1	您目前的总资金是：0	60pct	50pct	0
+011218	10:44:05	1	1	4.0.10.0	4	3	zhengshi_block	dengdai_trail	0	0	0	0	0	0	0	0	0	0	1	等待.bmp	50pct	50pct	0	0	0	0	0	0
+011218	10:44:05	1	1	4.0.10.0	4	4	zhengshi_block	jieguo_trail	0	0	0	1000	0	0	0	0	1000	0	1	对方的选择是:不返还	50pct	50pct	0	0	0	0	0	0
+011218	10:44:05	1	1	4.0.10.0	4	5	zhengshi_block	jieguo_trail	0	0	0	1000	0	0	0	0	1000	0	2	对方的选择是:不返还	50pct	50pct	0	0	0	0	0	0
+011218	10:44:05	1	1	4.0.10.0	4	6	zhengshi_block	jieguo_trail	0	0	0	1000	0	0	0	0	1000	0	3	对方的选择是:不返还	50pct	50pct	0	0	0	0	0	0
+011218	10:44:05	1	1	4.0.10.0	4	7	zhengshi_block	jieguo_trail	0	0	0	1000	0	0	0	0	1000	0	4	对方的选择是:不返还	50pct	50pct	0	0	0	0	0	0
+011218	10:44:05	1	1	4.0.10.0	4	8	zhengshi_block	jieguo_trail	0	0	0	1000	0	0	0	0	1000	0	5	对方的选择是:不返还	50pct	50pct	0	0	0	0	0	0
+011218	10:44:05	1	1	4.0.10.0	4	9	zhengshi_block	jieguo_trail	0	0	0	1000	0	0	0	0	1000	0	6	对方的选择是:不返还	50pct	50pct	0	0	0	0	0	0
+011218	10:44:05	1	1	4.0.10.0	4	10	zhengshi_block	jieguo_trail	0	0	0	1000	0	0	0	0	1000	0	7	对方的选择是:不返还	50pct	50pct	0	0	0	0	0	0
+011218	10:44:48	1	1	4.0.10.0	1	1	zhidaoyu_block	zhidaoyu_trail	0	0	0	0	0	0	57	0	32	0	1	指导语.BMP	50pct	50pct	0	0	0	0	0	0
+011218	10:44:48	1	1	4.0.10.0	2	1	lianxi_block	lianxi1_trail	0	0	0	0	0	0	33	1	53	0	1	练习1.BMP	50pct	50pct	0	1	您的选择正确	50pct	50pct	66
+011218	10:44:48	1	1	4.0.10.0	2	2	lianxi_block	lianxi2_trail	0	0	0	0	0	0	34	0	92	0	1	练习2.BMP	50pct	50pct	0	1	您的选择错误，请再次选择	80pct	50pct	49
+011218	10:44:48	1	1	4.0.10.0	3	1	pipei_block	pipei1_trail	0	0	0	0	0	0	57	0	29	0	1	匹配1.bmp	50pct	50pct	0	0	0	0	0	0
+011218	10:44:48	1	1	4.0.10.0	3	2	pipei_block	pipei2_trail	0	0	0	3000	0	0	0	0	3000	0	1	匹配2.bmp	50pct	50pct	0	0	0	0	0	0
+011218	10:44:48	1	1	4.0.10.0	3	3	pipei_block	pipei3_trail	0	0	0	2000	0	0	0	0	2000	0	1	匹配3.bmp	50pct	50pct	0	0	0	0	0	0
+011218	10:44:48	1	1	4.0.10.0	4	1	zhengshi_block	chushi_trail	0	0	0	0	0	0	36	0	41	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0
+011218	10:44:48	1	1	4.0.10.0	4	2	zhengshi_block	xuanze_trail	0	0	0	1000	0	0	0	0	1000	0	1	您的选择是：不投资	40pct	50pct	0	1	您目前的总资金是：0	60pct	50pct	0
+011218	10:44:48	1	1	4.0.10.0	4	3	zhengshi_block	dengdai_trail	0	0	0	0	0	0	0	0	0	0	1	等待.bmp	50pct	50pct	0	0	0	0	0	0
+011218	10:44:48	1	1	4.0.10.0	4	4	zhengshi_block	jieguo_trail	0	0	0	1000	0	0	0	0	1000	0	1	对方的选择是:不返还	50pct	50pct	0	0	0	0	0	0
+011218	10:44:48	1	1	4.0.10.0	4	5	zhengshi_block	jieguo_trail	0	0	0	1000	0	0	0	0	1000	0	2	对方的选择是:不返还	50pct	50pct	0	0	0	0	0	0
+011218	10:44:48	1	1	4.0.10.0	4	6	zhengshi_block	jieguo_trail	0	0	0	1000	0	0	0	0	1000	0	3	对方的选择是:不返还	50pct	50pct	0	0	0	0	0	0
+011218	10:44:48	1	1	4.0.10.0	4	7	zhengshi_block	jieguo_trail	0	0	0	1000	0	0	0	0	1000	0	4	对方的选择是:不返还	50pct	50pct	0	0	0	0	0	0
+011218	10:44:48	1	1	4.0.10.0	4	8	zhengshi_block	jieguo_trail	0	0	0	1000	0	0	0	0	1000	0	5	对方的选择是:不返还	50pct	50pct	0	0	0	0	0	0
+011218	10:44:48	1	1	4.0.10.0	4	9	zhengshi_block	jieguo_trail	0	0	0	1000	0	0	0	0	1000	0	6	对方的选择是:不返还	50pct	50pct	0	0	0	0	0	0
+011218	10:44:48	1	1	4.0.10.0	4	10	zhengshi_block	jieguo_trail	0	0	0	1000	0	0	0	0	1000	0	7	对方的选择是:不返还	50pct	50pct	0	0	0	0	0	0
+011218	10:47:19	1	1	4.0.10.0	1	1	zhidaoyu_block	zhidaoyu_trail	0	0	0	0	0	0	57	0	389	0	1	指导语.BMP	50pct	50pct	0	0	0	0	0	0
+011218	10:47:19	1	1	4.0.10.0	2	1	lianxi_block	lianxi1_trail	0	0	0	0	0	0	33	1	593	0	1	练习1.BMP	50pct	50pct	0	1	您的选择正确	50pct	50pct	599
+011218	10:47:19	1	1	4.0.10.0	2	2	lianxi_block	lianxi2_trail	0	0	0	0	0	0	34	1	375	0	1	练习2.BMP	50pct	50pct	0	1	您的选择正确	50pct	50pct	383
+011218	10:47:19	1	1	4.0.10.0	3	1	pipei_block	pipei1_trail	0	0	0	0	0	0	57	0	261	0	1	匹配1.bmp	50pct	50pct	0	0	0	0	0	0
+011218	10:47:19	1	1	4.0.10.0	3	2	pipei_block	pipei2_trail	0	0	0	3000	0	0	0	0	3000	0	1	匹配2.bmp	50pct	50pct	0	0	0	0	0	0
+011218	10:47:19	1	1	4.0.10.0	3	3	pipei_block	pipei3_trail	0	0	0	2000	0	0	0	0	2000	0	1	匹配3.bmp	50pct	50pct	0	0	0	0	0	0
+011218	10:47:19	1	1	4.0.10.0	4	1	zhengshi_block	chushi_trail	0	0	0	0	0	0	33	1	879	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0
+011218	10:47:19	1	1	4.0.10.0	4	2	zhengshi_block	xuanze_trail	0	0	0	1000	0	0	0	0	1000	0	1	您的选择是：投资	40pct	50pct	0	1	您目前的总资金是：0	60pct	50pct	0
+011218	10:47:19	1	1	4.0.10.0	4	3	zhengshi_block	dengdai_trail	0	0	0	0	0	0	0	0	0	0	1	等待.bmp	50pct	50pct	0	0	0	0	0	0
+011218	10:47:19	1	1	4.0.10.0	4	4	zhengshi_block	jieguo_trail	0	0	0	1000	0	0	0	0	1000	0	1	对方的选择是:返还一半	50pct	50pct	0	0	0	0	0	0
+011218	10:47:19	1	1	4.0.10.0	4	5	zhengshi_block	jieguo_trail	0	0	0	1000	0	0	0	0	1000	0	2	对方的选择是:不返还	50pct	50pct	0	0	0	0	0	0
+011218	10:47:19	1	1	4.0.10.0	4	6	zhengshi_block	jieguo_trail	0	0	0	1000	0	0	0	0	1000	0	3	对方的选择是:返还一半	50pct	50pct	0	0	0	0	0	0
+011218	10:47:19	1	1	4.0.10.0	4	7	zhengshi_block	jieguo_trail	0	0	0	1000	0	0	0	0	1000	0	4	对方的选择是:返还一半	50pct	50pct	0	0	0	0	0	0
+011218	10:47:19	1	1	4.0.10.0	4	8	zhengshi_block	jieguo_trail	0	0	0	1000	0	0	0	0	1000	0	5	对方的选择是:返还一半	50pct	50pct	0	0	0	0	0	0
+011218	10:47:19	1	1	4.0.10.0	4	9	zhengshi_block	jieguo_trail	0	0	0	1000	0	0	0	0	1000	0	6	对方的选择是:不返还	50pct	50pct	0	0	0	0	0	0
+011218	10:47:19	1	1	4.0.10.0	4	10	zhengshi_block	jieguo_trail	0	0	0	1000	0	0	0	0	1000	0	7	对方的选择是:返还一半	50pct	50pct	0	0	0	0	0	0
+011218	10:51:17	1	1	4.0.10.0	1	1	zhidaoyu_block	zhidaoyu_trail	0	0	0	0	0	0	57	0	1048	0	1	指导语.BMP	50pct	50pct	0	0	0	0	0	0
+011218	10:51:17	1	1	4.0.10.0	2	1	lianxi_block	lianxi1_trail	0	0	0	0	0	0	33	1	8942	0	1	练习1.BMP	50pct	50pct	0	1	您的选择正确	50pct	50pct	8949
+011218	10:51:17	1	1	4.0.10.0	2	2	lianxi_block	lianxi2_trail	0	0	0	0	0	0	34	1	325	0	1	练习2.BMP	50pct	50pct	1	1	您的选择正确	50pct	50pct	333
+011218	10:51:17	1	1	4.0.10.0	3	1	pipei_block	pipei1_trail	0	0	0	0	0	0	57	0	944	0	1	匹配1.bmp	50pct	50pct	0	0	0	0	0	0
+011218	10:51:17	1	1	4.0.10.0	3	2	pipei_block	pipei2_trail	0	0	0	3000	0	0	0	0	3000	0	1	匹配2.bmp	50pct	50pct	0	0	0	0	0	0
+011218	10:51:17	1	1	4.0.10.0	3	3	pipei_block	pipei3_trail	0	0	0	2000	0	0	0	0	2000	0	1	匹配3.bmp	50pct	50pct	0	0	0	0	0	0
+011218	10:51:17	1	1	4.0.10.0	4	1	zhengshi_block	chushi_trail	0	0	0	0	0	0	33	1	749	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0
+011218	10:51:17	1	1	4.0.10.0	4	2	zhengshi_block	xuanze_trail	0	0	0	1000	0	0	0	0	1000	0	1	您的选择是：投资	40pct	50pct	0	1	您目前的总资金是：0	60pct	50pct	0
+011218	10:51:17	1	1	4.0.10.0	4	3	zhengshi_block	dengdai_trail	0	0	0	3000	0	0	0	0	3000	0	1	等待.bmp	50pct	50pct	0	0	0	0	0	0
+011218	10:51:17	1	1	4.0.10.0	4	4	zhengshi_block	jieguo_trail	0	0	0	1000	0	0	0	0	1000	0	1	对方的选择是:不返还	40pct	50pct	0	0	0	0	0	0
+011218	10:51:17	1	1	4.0.10.0	4	5	zhengshi_block	jieguo_trail	0	0	0	1000	0	0	Ctrl+'Q'	1	300	0	2	对方的选择是:返还一半	40pct	50pct	0	0	0	0	0	0
+011218	10:55:46	1	1	4.0.10.0	1	1	zhidaoyu_block	zhidaoyu_trail	0	0	0	0	0	0	57	0	47	0	1	指导语.BMP	50pct	50pct	0	0	0	0	0	0
+011218	10:55:46	1	1	4.0.10.0	2	1	lianxi_block	lianxi1_trail	0	0	0	0	0	0	33	1	37	0	1	练习1.BMP	50pct	50pct	0	1	您的选择正确	50pct	50pct	50
+011218	10:55:46	1	1	4.0.10.0	2	2	lianxi_block	lianxi2_trail	0	0	0	0	0	0	34	1	46	0	1	练习2.BMP	50pct	50pct	1	1	您的选择正确	50pct	50pct	50
+011218	10:55:46	1	1	4.0.10.0	3	1	pipei_block	pipei1_trail	0	0	0	0	0	0	57	0	49	0	1	匹配1.bmp	50pct	50pct	0	0	0	0	0	0
+011218	10:55:46	1	1	4.0.10.0	3	2	pipei_block	pipei2_trail	0	0	0	5000	0	0	0	0	5000	0	1	匹配2.bmp	50pct	50pct	0	0	0	0	0	0
+011218	10:55:46	1	1	4.0.10.0	3	3	pipei_block	pipei3_trail	0	0	0	2000	0	0	0	0	2000	0	1	匹配3.bmp	50pct	50pct	4	0	0	0	0	0
+011218	10:55:46	1	1	4.0.10.0	4	1	zhengshi_block	chushi_trail	0	0	0	0	0	0	33	1	42	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0
+011218	10:55:46	1	1	4.0.10.0	4	2	zhengshi_block	xuanze_trail	0	0	0	1000	0	0	0	0	1000	0	1	您的选择是：投资	40pct	50pct	0	1	您目前的总资金是：0	60pct	50pct	0
+011218	10:55:46	1	1	4.0.10.0	4	3	zhengshi_block	dengdai_trail	0	0	0	0	0	0	0	0	0	0	1	等待.bmp	50pct	50pct	0	0	0	0	0	0
+011218	10:55:46	1	1	4.0.10.0	4	4	zhengshi_block	jieguo_trail	0	0	0	1000	0	0	0	0	1000	0	1	对方的选择是:不返还	40pct	50pct	1	1		60pct	50pct	1
+011218	10:55:46	1	1	4.0.10.0	4	5	zhengshi_block	jieguo_trail	0	0	0	1000	0	0	0	0	1000	0	2	对方的选择是:不返还	40pct	50pct	0	1		60pct	50pct	0
+011218	10:55:46	1	1	4.0.10.0	4	6	zhengshi_block	jieguo_trail	0	0	0	1000	0	0	0	0	1000	0	3	对方的选择是:不返还	40pct	50pct	0	1		60pct	50pct	0
+011218	10:55:46	1	1	4.0.10.0	4	7	zhengshi_block	jieguo_trail	0	0	0	1000	0	0	0	0	1000	0	4	对方的选择是:不返还	40pct	50pct	0	1		60pct	50pct	0
+011218	10:55:46	1	1	4.0.10.0	4	8	zhengshi_block	jieguo_trail	0	0	0	1000	0	0	0	0	1000	0	5	对方的选择是:返还一半	40pct	50pct	0	1		60pct	50pct	0
+011218	10:55:46	1	1	4.0.10.0	4	9	zhengshi_block	jieguo_trail	0	0	0	1000	0	0	0	0	1000	0	6	对方的选择是:不返还	40pct	50pct	0	1		60pct	50pct	0
+011218	10:55:46	1	1	4.0.10.0	4	10	zhengshi_block	jieguo_trail	0	0	0	1000	0	0	0	0	1000	0	7	对方的选择是:返还一半	40pct	50pct	0	1		60pct	50pct	0
+011218	10:57:35	1	1	4.0.10.0	1	1	zhidaoyu_block	zhidaoyu_trail	0	0	0	0	0	0	57	0	65	0	1	指导语.BMP	50pct	50pct	0	0	0	0	0	0
+011218	10:57:35	1	1	4.0.10.0	2	1	lianxi_block	lianxi1_trail	0	0	0	0	0	0	33	0	101	0	1	练习1.BMP	50pct	50pct	0	1	您的选择错误，请再次选择	80pct	50pct	66
+011218	10:57:35	1	1	4.0.10.0	2	2	lianxi_block	lianxi2_trail	0	0	0	0	0	0	34	1	57	0	1	练习2.BMP	50pct	50pct	0	1	您的选择正确	50pct	50pct	66
+011218	10:57:35	1	1	4.0.10.0	3	1	pipei_block	pipei1_trail	0	0	0	0	0	0	57	0	29	0	1	匹配1.bmp	50pct	50pct	0	0	0	0	0	0
+011218	10:57:35	1	1	4.0.10.0	3	2	pipei_block	pipei2_trail	0	0	0	3000	0	0	0	0	3000	0	1	匹配2.bmp	50pct	50pct	0	0	0	0	0	0
+011218	10:57:35	1	1	4.0.10.0	3	3	pipei_block	pipei3_trail	0	0	0	2000	0	0	0	0	2000	0	1	匹配3.bmp	50pct	50pct	0	0	0	0	0	0
+011218	10:57:35	1	1	4.0.10.0	4	1	zhengshi_block	chushi_trail	0	0	0	0	0	0	33	1	41	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0
+011218	10:57:35	1	1	4.0.10.0	4	2	zhengshi_block	xuanze_trail	0	0	0	1000	0	0	0	0	1000	0	1	您的选择是：投资	40pct	50pct	0	1	您目前的总资金是：0	60pct	50pct	0
+011218	10:57:35	1	1	4.0.10.0	4	3	zhengshi_block	dengdai_trail	0	0	0	0	0	0	0	0	0	0	1	等待.bmp	50pct	50pct	0	0	0	0	0	0
+011218	10:57:35	1	1	4.0.10.0	4	4	zhengshi_block	jieguo_trail	0	0	0	1000	0	0	0	0	1000	0	1	对方的选择是:不返还	40pct	50pct	0	1	您目前的资金是：0	60pct	50pct	0
+011218	10:57:35	1	1	4.0.10.0	4	5	zhengshi_block	jieguo_trail	0	0	0	1000	0	0	0	0	1000	0	2	对方的选择是:返还一半	40pct	50pct	0	2	您目前的资金是：15	60pct	50pct	0
+011218	10:57:35	1	1	4.0.10.0	4	6	zhengshi_block	jieguo_trail	0	0	0	1000	0	0	0	0	1000	0	3	对方的选择是:不返还	40pct	50pct	0	3	您目前的资金是：15	60pct	50pct	0
+011218	10:57:35	1	1	4.0.10.0	4	7	zhengshi_block	jieguo_trail	0	0	0	1000	0	0	0	0	1000	0	4	对方的选择是:返还一半	40pct	50pct	0	4	您目前的资金是：30	60pct	50pct	0
+011218	10:57:35	1	1	4.0.10.0	4	8	zhengshi_block	jieguo_trail	0	0	0	1000	0	0	0	0	1000	0	5	对方的选择是:返还一半	40pct	50pct	0	5	您目前的资金是：45	60pct	50pct	0
+011218	10:57:35	1	1	4.0.10.0	4	9	zhengshi_block	jieguo_trail	0	0	0	1000	0	0	0	0	1000	0	6	对方的选择是:不返还	40pct	50pct	0	6	您目前的资金是：45	60pct	50pct	0
+011218	10:57:35	1	1	4.0.10.0	4	10	zhengshi_block	jieguo_trail	0	0	0	1000	0	0	0	0	1000	0	7	对方的选择是:返还一半	40pct	50pct	0	7	您目前的资金是：60	60pct	50pct	0
+011218	12:00:39	1	1	4.0.10.0	1	1	zhidaoyu_block	zhidaoyu_trial	0	0	0	0	0	0	57	0	638	0	1	指导语.BMP	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	12:00:39	1	1	4.0.10.0	2	1	lianxi_block	lianxi1_trial	0	0	0	0	0	0	33	1	1231	0	1	练习1.BMP	50pct	50pct	0	1	您的选择正确	50pct	50pct	1233	0	0	0	0	0
+011218	12:00:39	1	1	4.0.10.0	2	2	lianxi_block	lianxi2_trial	0	0	0	0	0	0	34	1	755	0	1	练习2.BMP	50pct	50pct	1	1	您的选择正确	50pct	50pct	766	0	0	0	0	0
+011218	12:00:39	1	1	4.0.10.0	3	1	pipei_block	pipei1_trial	0	0	0	0	0	0	57	0	750	0	1	匹配1.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	12:00:39	1	1	4.0.10.0	3	2	pipei_block	pipei2_trial	0	0	0	3000	0	0	0	0	3000	0	1	匹配2.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	12:00:39	1	1	4.0.10.0	3	3	pipei_block	pipei3_trial	0	0	0	2000	0	0	0	0	2000	0	1	匹配3.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	12:00:39	1	1	4.0.10.0	4	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	36	0	570	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	12:00:39	1	1	4.0.10.0	4	2	zhengshi_block	xuanze_trial	0	0	0	1000	0	0	0	0	0	0	1	您的选择是：不投资	40pct	50pct	0	1	您目前的总资金是：0	60pct	50pct	0	1	等待.bmp	50pct	50pct	999
+011218	12:00:39	1	1	4.0.10.0	4	3	zhengshi_block	jieguo2_trial	0	0	0	1000	0	0	0	0	1000	0	1	您的选择是：不返还	40pct	50pct	0	1	您目前的资金是：0	60pct	50pct	0	0	0	0	0	0
+011218	12:03:22	1	1	4.0.10.0	1	1	zhidaoyu_block	zhidaoyu_trial	0	0	0	0	0	0	57	0	997	0	1	指导语.BMP	50pct	50pct	2	0	0	0	0	0	0	0	0	0	0
+011218	12:03:22	1	1	4.0.10.0	2	1	lianxi_block	lianxi1_trial	0	0	0	0	0	0	33	1	705	0	1	练习1.BMP	50pct	50pct	0	1	您的选择正确	50pct	50pct	716	0	0	0	0	0
+011218	12:03:22	1	1	4.0.10.0	2	2	lianxi_block	lianxi2_trial	0	0	0	0	0	0	34	1	615	0	1	练习2.BMP	50pct	50pct	0	1	您的选择正确	50pct	50pct	616	0	0	0	0	0
+011218	12:03:22	1	1	4.0.10.0	3	1	pipei_block	pipei1_trial	0	0	0	0	0	0	57	0	752	0	1	匹配1.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	12:03:22	1	1	4.0.10.0	3	2	pipei_block	pipei2_trial	0	0	0	3000	0	0	0	0	3000	0	1	匹配2.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	12:03:22	1	1	4.0.10.0	3	3	pipei_block	pipei3_trial	0	0	0	2000	0	0	0	0	2000	0	1	匹配3.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	12:03:22	1	1	4.0.10.0	4	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	33	1	2245	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	12:03:22	1	1	4.0.10.0	4	2	zhengshi_block	xuanze_trial	0	0	0	4000	0	0	0	0	3000	0	1	您的选择是：投资	40pct	50pct	0	1	您目前的总资金是：0	60pct	50pct	0	1	等待.bmp	50pct	50pct	999
+011218	12:03:22	1	1	4.0.10.0	4	3	zhengshi_block	jieguo1_trial	0	0	0	1000	0	0	0	0	1000	0	1	对方的选择是:不返还	40pct	50pct	0	1	您目前的资金是：0	60pct	50pct	0	0	0	0	0	0
+011218	12:03:58	1	1	4.0.10.0	1	1	zhidaoyu_block	zhidaoyu_trial	0	0	0	0	0	0	57	0	1296	0	1	指导语.BMP	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	12:03:58	1	1	4.0.10.0	2	1	lianxi_block	lianxi1_trial	0	0	0	0	0	0	33	1	1020	0	1	练习1.BMP	50pct	50pct	0	1	您的选择正确	50pct	50pct	1033	0	0	0	0	0
+011218	12:03:58	1	1	4.0.10.0	2	2	lianxi_block	lianxi2_trial	0	0	0	0	0	0	34	1	349	0	1	练习2.BMP	50pct	50pct	0	1	您的选择正确	50pct	50pct	349	0	0	0	0	0
+011218	12:03:58	1	1	4.0.10.0	3	1	pipei_block	pipei1_trial	0	0	0	0	0	0	57	0	711	0	1	匹配1.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	12:03:58	1	1	4.0.10.0	3	2	pipei_block	pipei2_trial	0	0	0	3000	0	0	0	0	3000	0	1	匹配2.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	12:03:58	1	1	4.0.10.0	3	3	pipei_block	pipei3_trial	0	0	0	2000	0	0	0	0	2000	0	1	匹配3.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	12:03:58	1	1	4.0.10.0	4	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	36	0	590	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	12:03:58	1	1	4.0.10.0	4	2	zhengshi_block	xuanze_trial	0	0	0	1000	0	0	0	0	0	0	1	您的选择是：不投资	40pct	50pct	0	1	您目前的总资金是：0	60pct	50pct	0	1	等待.bmp	50pct	50pct	999
+011218	12:03:58	1	1	4.0.10.0	4	3	zhengshi_block	jieguo2_trial	0	0	0	1000	0	0	0	0	1000	0	1	您的选择是：不返还	40pct	50pct	0	1	您目前的资金是：0	60pct	50pct	0	0	0	0	0	0
+011218	12:03:58	1	1	4.0.10.0	5	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	33	1	3250	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	12:03:58	1	1	4.0.10.0	5	2	zhengshi_block	xuanze_trial	0	0	0	4000	0	0	0	0	3000	0	2	您的选择是：投资	40pct	50pct	0	2	您目前的总资金是：0	60pct	50pct	0	1	等待.bmp	50pct	50pct	999
+011218	12:03:58	1	1	4.0.10.0	5	3	zhengshi_block	jieguo1_trial	0	0	0	1000	0	0	0	0	1000	0	1	对方的选择是:不返还	40pct	50pct	0	1	您目前的资金是：0	60pct	50pct	0	0	0	0	0	0
+011218	12:03:58	1	1	4.0.10.0	6	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	33	1	2903	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	12:03:58	1	1	4.0.10.0	6	2	zhengshi_block	xuanze_trial	0	0	0	1000	0	0	0	0	0	0	3	您的选择是：投资	40pct	50pct	0	3	您目前的总资金是：0	60pct	50pct	0	1	等待.bmp	50pct	50pct	999
+011218	12:03:58	1	1	4.0.10.0	6	3	zhengshi_block	jieguo1_trial	0	0	0	1000	0	0	0	0	1000	0	2	对方的选择是:不返还	40pct	50pct	0	2	您目前的资金是：0	60pct	50pct	0	0	0	0	0	0
+011218	12:03:58	1	1	4.0.10.0	7	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	33	1	453	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	12:03:58	1	1	4.0.10.0	7	2	zhengshi_block	xuanze_trial	0	0	0	1000	0	0	0	0	0	0	4	您的选择是：投资	40pct	50pct	0	4	您目前的总资金是：0	60pct	50pct	0	1	等待.bmp	50pct	50pct	999
+011218	12:03:58	1	1	4.0.10.0	7	3	zhengshi_block	jieguo1_trial	0	0	0	1000	0	0	0	0	1000	0	3	对方的选择是:不返还	40pct	50pct	0	3	您目前的资金是：0	60pct	50pct	0	0	0	0	0	0
+011218	12:03:58	1	1	4.0.10.0	8	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	33	1	344	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	12:03:58	1	1	4.0.10.0	8	2	zhengshi_block	xuanze_trial	0	0	0	4000	0	0	0	0	3000	0	5	您的选择是：投资	40pct	50pct	0	5	您目前的总资金是：0	60pct	50pct	0	1	等待.bmp	50pct	50pct	999
+011218	12:03:58	1	1	4.0.10.0	8	3	zhengshi_block	jieguo1_trial	0	0	0	1000	0	0	0	0	1000	0	4	对方的选择是:不返还	40pct	50pct	0	4	您目前的资金是：0	60pct	50pct	0	0	0	0	0	0
+011218	12:03:58	1	1	4.0.10.0	9	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	33	1	5	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	12:03:58	1	1	4.0.10.0	9	2	zhengshi_block	xuanze_trial	0	0	0	1000	0	0	0	0	0	0	6	您的选择是：投资	40pct	50pct	0	6	您目前的总资金是：0	60pct	50pct	0	1	等待.bmp	50pct	50pct	999
+011218	12:03:58	1	1	4.0.10.0	9	3	zhengshi_block	jieguo1_trial	0	0	0	1000	0	0	0	0	1000	0	5	对方的选择是:不返还	40pct	50pct	0	5	您目前的资金是：0	60pct	50pct	0	0	0	0	0	0
+011218	12:03:58	1	1	4.0.10.0	10	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	33	1	1149	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	12:03:58	1	1	4.0.10.0	10	2	zhengshi_block	xuanze_trial	0	0	0	1000	0	0	0	0	0	0	7	您的选择是：投资	40pct	50pct	0	7	您目前的总资金是：0	60pct	50pct	0	1	等待.bmp	50pct	50pct	999
+011218	12:03:58	1	1	4.0.10.0	10	3	zhengshi_block	jieguo1_trial	0	0	0	1000	0	0	0	0	1000	0	6	对方的选择是:返还一半	40pct	50pct	0	6	您目前的资金是：15	60pct	50pct	0	0	0	0	0	0
+011218	12:05:00	1	1	4.0.10.0	1	1	zhidaoyu_block	zhidaoyu_trial	0	0	0	0	0	0	57	0	845	0	1	指导语.BMP	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	12:05:00	1	1	4.0.10.0	2	1	lianxi_block	lianxi1_trial	0	0	0	0	0	0	33	1	779	0	1	练习1.BMP	50pct	50pct	0	1	您的选择正确	50pct	50pct	783	0	0	0	0	0
+011218	12:05:00	1	1	4.0.10.0	2	2	lianxi_block	lianxi2_trial	0	0	0	0	0	0	34	1	317	0	1	练习2.BMP	50pct	50pct	0	1	您的选择正确	50pct	50pct	333	0	0	0	0	0
+011218	12:05:00	1	1	4.0.10.0	3	1	pipei_block	pipei1_trial	0	0	0	0	0	0	57	0	623	0	1	匹配1.bmp	50pct	50pct	5	0	0	0	0	0	0	0	0	0	0
+011218	12:05:00	1	1	4.0.10.0	3	2	pipei_block	pipei2_trial	0	0	0	5000	0	0	0	0	5000	0	1	匹配2.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	12:05:00	1	1	4.0.10.0	3	3	pipei_block	pipei3_trial	0	0	0	2000	0	0	0	0	2000	0	1	匹配3.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	12:05:00	1	1	4.0.10.0	4	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	33	1	894	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	12:05:00	1	1	4.0.10.0	4	2	zhengshi_block	xuanze_trial	0	0	0	4000	0	0	0	0	3000	0	1	您的选择是：投资	40pct	50pct	0	1	您目前的总资金是：0	60pct	50pct	0	1	等待.bmp	50pct	50pct	999
+011218	12:05:00	1	1	4.0.10.0	4	3	zhengshi_block	jieguo1_trial	0	0	0	1000	0	0	0	0	1000	0	1	对方的选择是:不返还	40pct	50pct	0	1	您目前的资金是：0	60pct	50pct	0	0	0	0	0	0
+011218	12:05:00	1	1	4.0.10.0	5	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	33	1	608	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	12:05:00	1	1	4.0.10.0	5	2	zhengshi_block	xuanze_trial	0	0	0	2000	0	0	0	0	1000	0	2	您的选择是：投资	40pct	50pct	0	2	您目前的总资金是：0	60pct	50pct	0	1	等待.bmp	50pct	50pct	999
+011218	12:05:00	1	1	4.0.10.0	5	3	zhengshi_block	jieguo1_trial	0	0	0	1000	0	0	0	0	1000	0	2	对方的选择是:不返还	40pct	50pct	0	2	您目前的资金是：0	60pct	50pct	0	0	0	0	0	0
+011218	12:05:00	1	1	4.0.10.0	6	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	36	0	649	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	12:05:00	1	1	4.0.10.0	6	2	zhengshi_block	xuanze_trial	0	0	0	4000	0	0	0	0	3000	0	3	您的选择是：不投资	40pct	50pct	0	3	您目前的总资金是：0	60pct	50pct	0	1	等待.bmp	50pct	50pct	999
+011218	12:05:00	1	1	4.0.10.0	6	3	zhengshi_block	jieguo2_trial	0	0	0	1000	0	0	0	0	1000	0	1	您的选择是：不返还	40pct	50pct	0	1	您目前的资金是：0	60pct	50pct	0	0	0	0	0	0
+011218	12:05:00	1	1	4.0.10.0	7	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	33	1	12753	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	12:05:00	1	1	4.0.10.0	7	2	zhengshi_block	xuanze_trial	0	0	0	4000	0	0	0	0	3000	0	4	您的选择是：投资	40pct	50pct	0	4	您目前的总资金是：0	60pct	50pct	0	1	等待.bmp	50pct	50pct	999
+011218	12:05:00	1	1	4.0.10.0	7	3	zhengshi_block	jieguo1_trial	0	0	0	1000	0	0	0	0	1000	0	3	对方的选择是:返还一半	40pct	50pct	1	3	您目前的资金是：15	60pct	50pct	1	0	0	0	0	0
+011218	12:05:00	1	1	4.0.10.0	8	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	33	1	129	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	12:05:00	1	1	4.0.10.0	8	2	zhengshi_block	xuanze_trial	0	0	0	4000	0	0	0	0	3000	0	5	您的选择是：投资	40pct	50pct	0	5	您目前的总资金是：15	60pct	50pct	0	1	等待.bmp	50pct	50pct	999
+011218	12:05:00	1	1	4.0.10.0	8	3	zhengshi_block	jieguo1_trial	0	0	0	1000	0	0	0	0	1000	0	4	对方的选择是:不返还	40pct	50pct	0	4	您目前的资金是：15	60pct	50pct	0	0	0	0	0	0
+011218	12:05:00	1	1	4.0.10.0	9	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	33	1	2880	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	12:05:00	1	1	4.0.10.0	9	2	zhengshi_block	xuanze_trial	0	0	0	2000	0	0	0	0	1000	0	6	您的选择是：投资	40pct	50pct	0	6	您目前的总资金是：15	60pct	50pct	0	1	等待.bmp	50pct	50pct	999
+011218	12:05:00	1	1	4.0.10.0	9	3	zhengshi_block	jieguo1_trial	0	0	0	1000	0	0	0	0	1000	0	5	对方的选择是:返还一半	40pct	50pct	0	5	您目前的资金是：30	60pct	50pct	0	0	0	0	0	0
+011218	12:05:00	1	1	4.0.10.0	10	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	33	1	1171	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	12:05:00	1	1	4.0.10.0	10	2	zhengshi_block	xuanze_trial	0	0	0	2000	0	0	0	0	1000	0	7	您的选择是：投资	40pct	50pct	0	7	您目前的总资金是：30	60pct	50pct	0	1	等待.bmp	50pct	50pct	999
+011218	12:05:00	1	1	4.0.10.0	10	3	zhengshi_block	jieguo1_trial	0	0	0	1000	0	0	0	0	1000	0	6	对方的选择是:不返还	40pct	50pct	0	6	您目前的资金是：30	60pct	50pct	0	0	0	0	0	0
+011218	12:21:19	1	1	4.0.10.0	1	1	zhidaoyu_block	zhidaoyu_trial	0	0	0	0	0	0	57	0	749	0	1	指导语.BMP	50pct	50pct	0	0	0	0	0	0
+011218	12:21:19	1	1	4.0.10.0	2	1	lianxi_block	lianxi1_trial	0	0	0	0	0	0	33	1	864	0	1	练习1.BMP	50pct	50pct	0	1	您的选择正确	50pct	50pct	866
+011218	12:21:19	1	1	4.0.10.0	2	2	lianxi_block	lianxi2_trial	0	0	0	0	0	0	34	1	977	0	1	练习2.BMP	50pct	50pct	1	1	您的选择正确	50pct	50pct	983
+011218	12:21:19	1	1	4.0.10.0	3	1	pipei_block	pipei1_trial	0	0	0	0	0	0	57	0	837	0	1	匹配1.bmp	50pct	50pct	0	0	0	0	0	0
+011218	12:21:19	1	1	4.0.10.0	3	2	pipei_block	pipei2_trial	0	0	0	5000	0	0	0	0	5000	0	1	匹配2.bmp	50pct	50pct	0	0	0	0	0	0
+011218	12:21:19	1	1	4.0.10.0	3	3	pipei_block	pipei3_trial	0	0	0	2000	0	0	0	0	2000	0	1	匹配3.bmp	50pct	50pct	0	0	0	0	0	0
+011218	12:21:19	1	1	4.0.10.0	4	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	33	1	1415	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0
+011218	12:21:19	1	1	4.0.10.0	4	2	zhengshi_block	jieguo1_trial	0	0	0	6000	0	0	0	0	2000	0	1	您的选择是：投资	40pct	50pct	0	1	您目前的总资金是：0	60pct	50pct	0
+011218	12:21:19	1	1	4.0.10.0	5	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	36	0	2786	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0
+011218	12:21:19	1	1	4.0.10.0	5	2	zhengshi_block	jieguo2_trial	0	0	0	1000	0	0	0	0	1000	0	1	您的选择是：不返还	40pct	50pct	0	1	您目前的资金是：15	60pct	50pct	0
+011218	12:21:19	1	1	4.0.10.0	6	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	Ctrl+'Q'	1	2277	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0
+011218	12:25:50	1	1	4.0.10.0	1	1	zhidaoyu_block	zhidaoyu_trial	0	0	0	0	0	0	57	0	895	0	1	指导语.BMP	50pct	50pct	0	0	0	0	0	0
+011218	12:25:50	1	1	4.0.10.0	2	1	lianxi_block	lianxi1_trial	0	0	0	0	0	0	33	1	719	0	1	练习1.BMP	50pct	50pct	0	1	您的选择正确	50pct	50pct	733
+011218	12:25:50	1	1	4.0.10.0	2	2	lianxi_block	lianxi2_trial	0	0	0	0	0	0	34	1	593	0	1	练习2.BMP	50pct	50pct	0	1	您的选择正确	50pct	50pct	599
+011218	12:25:50	1	1	4.0.10.0	3	1	pipei_block	pipei1_trial	0	0	0	0	0	0	57	0	888	0	1	匹配1.bmp	50pct	50pct	0	0	0	0	0	0
+011218	12:25:50	1	1	4.0.10.0	3	2	pipei_block	pipei2_trial	0	0	0	3000	0	0	0	0	3000	0	1	匹配2.bmp	50pct	50pct	0	0	0	0	0	0
+011218	12:25:50	1	1	4.0.10.0	3	3	pipei_block	pipei3_trial	0	0	0	2000	0	0	0	0	2000	0	1	匹配3.bmp	50pct	50pct	0	0	0	0	0	0
+011218	12:25:50	1	1	4.0.10.0	4	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	36	0	5973	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0
+011218	12:25:50	1	1	4.0.10.0	4	2	zhengshi_block	jieguo2_trial	0	0	0	1000	0	0	0	0	1000	0	1	您的选择是：不返还	40pct	50pct	0	1	您目前的资金是：0	60pct	50pct	0
+011218	12:25:50	1	1	4.0.10.0	5	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	33	1	1644	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0
+011218	12:25:50	1	1	4.0.10.0	5	2	zhengshi_block	jieguo1_trial	0	0	0	4000	0	0	0	0	2000	0	1	您的选择是：投资	40pct	50pct	0	1	您目前的总资金是：0	60pct	50pct	0
+011218	12:25:50	1	1	4.0.10.0	6	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	33	1	779	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0
+011218	12:25:50	1	1	4.0.10.0	6	2	zhengshi_block	jieguo1_trial	0	0	0	4000	0	0	0	0	2000	0	2	您的选择是：投资	40pct	50pct	0	2	您目前的总资金是：15	60pct	50pct	0
+011218	12:25:50	1	1	4.0.10.0	7	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	36	0	1770	0	1	初始界面.bmp	50pct	50pct	1	0	0	0	0	0
+011218	12:25:50	1	1	4.0.10.0	7	2	zhengshi_block	jieguo2_trial	0	0	0	1000	0	0	0	0	1000	0	1	您的选择是：不返还	40pct	50pct	0	2	您目前的资金是：15	60pct	50pct	0
+011218	12:25:50	1	1	4.0.10.0	8	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	33	1	1292	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0
+011218	12:25:50	1	1	4.0.10.0	8	2	zhengshi_block	jieguo1_trial	0	0	0	4000	0	0	0	0	2000	0	3	您的选择是：投资	40pct	50pct	0	3	您目前的总资金是：15	60pct	50pct	0
+011218	12:25:50	1	1	4.0.10.0	9	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	Ctrl+'Q'	1	485	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0
+011218	12:32:53	1	1	4.0.10.0	1	1	zhidaoyu_block	zhidaoyu_trial	0	0	0	0	0	0	57	0	679	0	1	指导语.BMP	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	12:32:53	1	1	4.0.10.0	2	1	lianxi_block	lianxi1_trial	0	0	0	0	0	0	33	1	765	0	1	练习1.BMP	50pct	50pct	0	1	您的选择正确	50pct	50pct	766	0	0	0	0	0
+011218	12:32:53	1	1	4.0.10.0	2	2	lianxi_block	lianxi2_trial	0	0	0	0	0	0	34	1	442	0	1	练习2.BMP	50pct	50pct	0	1	您的选择正确	50pct	50pct	449	0	0	0	0	0
+011218	12:32:53	1	1	4.0.10.0	3	1	pipei_block	pipei1_trial	0	0	0	0	0	0	57	0	612	0	1	匹配1.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	12:32:53	1	1	4.0.10.0	3	2	pipei_block	pipei2_trial	0	0	0	5000	0	0	0	0	5000	0	1	匹配2.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	12:32:53	1	1	4.0.10.0	3	3	pipei_block	pipei3_trial	0	0	0	2000	0	0	0	0	2000	0	1	匹配3.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	12:32:53	1	1	4.0.10.0	4	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	33	1	1257	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	12:32:53	1	1	4.0.10.0	4	2	zhengshi_block	jieguo1_trial	0	0	0	4000	0	0	0	0	2000	0	1	您的选择是：投资	40pct	50pct	0	1	您目前的总资金是：0	60pct	50pct	0	1	等待.bmp	50pct	50pct	999
+011218	12:32:53	1	1	4.0.10.0	5	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	36	0	1151	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	12:32:53	1	1	4.0.10.0	5	2	zhengshi_block	jieguo2_trial	0	0	0	1000	0	0	0	0	1000	0	1	您的选择是：不返还	40pct	50pct	0	1	您目前的资金是：15	60pct	50pct	0	2	第2轮游戏结束	80pct	50pct	0
+011218	12:32:53	1	1	4.0.10.0	6	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	Ctrl+'Q'	1	878	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	12:33:43	1	1	4.0.10.0	1	1	zhidaoyu_block	zhidaoyu_trial	0	0	0	0	0	0	57	0	557	0	1	指导语.BMP	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	12:33:43	1	1	4.0.10.0	2	1	lianxi_block	lianxi1_trial	0	0	0	0	0	0	33	1	479	0	1	练习1.BMP	50pct	50pct	0	1	您的选择正确	50pct	50pct	483	0	0	0	0	0
+011218	12:33:43	1	1	4.0.10.0	2	2	lianxi_block	lianxi2_trial	0	0	0	0	0	0	34	1	394	0	1	练习2.BMP	50pct	50pct	1	1	您的选择正确	50pct	50pct	399	0	0	0	0	0
+011218	12:33:43	1	1	4.0.10.0	3	1	pipei_block	pipei1_trial	0	0	0	0	0	0	57	0	723	0	1	匹配1.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	12:33:43	1	1	4.0.10.0	3	2	pipei_block	pipei2_trial	0	0	0	5000	0	0	0	0	5000	0	1	匹配2.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	12:33:43	1	1	4.0.10.0	3	3	pipei_block	pipei3_trial	0	0	0	2000	0	0	0	0	2000	0	1	匹配3.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	12:33:43	1	1	4.0.10.0	4	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	33	1	4165	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	12:33:43	1	1	4.0.10.0	4	2	zhengshi_block	jieguo1_trial	0	0	0	4000	0	0	0	0	2000	0	1	您的选择是：投资	40pct	50pct	0	1	您目前的总资金是：0	60pct	50pct	0	1	等待.bmp	50pct	50pct	999
+011218	12:33:43	1	1	4.0.10.0	5	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	36	0	606	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	12:33:43	1	1	4.0.10.0	5	2	zhengshi_block	jieguo2_trial	0	0	0	1000	0	0	0	0	1000	0	1	您的选择是：不返还	40pct	50pct	0	1	您目前的资金是：0	60pct	50pct	0	2	第2轮游戏结束	80pct	50pct	0
+011218	12:33:43	1	1	4.0.10.0	6	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	33	1	488	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	12:33:43	1	1	4.0.10.0	6	2	zhengshi_block	jieguo1_trial	0	0	0	6000	0	0	Ctrl+'Q'	1	0	0	2	您的选择是：投资	40pct	50pct	0	2	您目前的总资金是：0	60pct	50pct	0	2	您的选择是：投资	40pct	50pct	0
+011218	13:23:51	1	1	4.0.10.0	1	1	zhidaoyu_block	zhidaoyu_trial	0	0	0	0	0	0	57	0	1107	0	1	指导语.BMP	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:23:51	1	1	4.0.10.0	2	1	lianxi_block	lianxi1_trial	0	0	0	0	0	0	33	1	908	0	1	练习1.BMP	50pct	50pct	0	1	您的选择正确	50pct	50pct	916	0	0	0	0	0
+011218	13:23:51	1	1	4.0.10.0	2	2	lianxi_block	lianxi2_trial	0	0	0	0	0	0	34	1	484	0	1	练习2.BMP	50pct	50pct	0	1	您的选择正确	50pct	50pct	500	0	0	0	0	0
+011218	13:23:51	1	1	4.0.10.0	3	1	pipei_block	pipei1_trial	0	0	0	0	0	0	57	0	1243	0	1	匹配1.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:23:51	1	1	4.0.10.0	3	2	pipei_block	pipei2_trial	0	0	0	3000	0	0	0	0	3000	0	1	匹配2.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:23:51	1	1	4.0.10.0	3	3	pipei_block	pipei3_trial	0	0	0	2000	0	0	0	0	2000	0	1	匹配3.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:23:51	1	1	4.0.10.0	4	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	36	0	1664	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:23:51	1	1	4.0.10.0	4	2	zhengshi_block	jieguo2_trial	0	0	0	1000	0	0	0	0	1000	0	1	您的选择是：不返还	40pct	50pct	1	1	您目前的资金是：0	60pct	50pct	1	1	第1轮游戏结束	80pct	50pct	1
+011218	13:23:51	1	1	4.0.10.0	5	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	33	1	4723	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:23:51	1	1	4.0.10.0	5	2	zhengshi_block	jieguo1_trial	0	0	0	6000	0	0	0	0	2000	0	1	您的选择是：投资	40pct	50pct	0	1	您目前的总资金是：0	60pct	50pct	0	1	等待.bmp	50pct	50pct	999
+011218	13:23:51	1	1	4.0.10.0	6	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	Ctrl+'Q'	1	6691	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:26:12	1	1	4.0.10.0	1	1	zhidaoyu_block	zhidaoyu_trial	0	0	0	0	0	0	57	0	652	0	1	指导语.BMP	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:26:12	1	1	4.0.10.0	2	1	lianxi_block	lianxi1_trial	0	0	0	0	0	0	33	1	862	0	1	练习1.BMP	50pct	50pct	0	1	您的选择正确	50pct	50pct	866	0	0	0	0	0
+011218	13:26:12	1	1	4.0.10.0	2	2	lianxi_block	lianxi2_trial	0	0	0	0	0	0	34	1	542	0	1	练习2.BMP	50pct	50pct	0	1	您的选择正确	50pct	50pct	549	0	0	0	0	0
+011218	13:26:12	1	1	4.0.10.0	3	1	pipei_block	pipei1_trial	0	0	0	0	0	0	57	0	579	0	1	匹配1.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:26:12	1	1	4.0.10.0	3	2	pipei_block	pipei2_trial	0	0	0	5000	0	0	0	0	5000	0	1	匹配2.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:26:12	1	1	4.0.10.0	3	3	pipei_block	pipei3_trial	0	0	0	2000	0	0	0	0	2000	0	1	匹配3.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:26:12	1	1	4.0.10.0	4	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	33	1	1068	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:26:12	1	1	4.0.10.0	4	2	zhengshi_block	jieguo1_trial	0	0	0	6000	0	0	0	0	2000	0	1	您的选择是：投资	40pct	50pct	0	1	您目前的总资金是：10	60pct	50pct	0	1	等待.bmp	50pct	50pct	999
+011218	13:26:12	1	1	4.0.10.0	5	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	Ctrl+'Q'	1	277	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:27:05	1	1	4.0.10.0	1	1	zhidaoyu_block	zhidaoyu_trial	0	0	0	0	0	0	57	0	940	0	1	指导语.BMP	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:27:05	1	1	4.0.10.0	2	1	lianxi_block	lianxi1_trial	0	0	0	0	0	0	33	1	680	0	1	练习1.BMP	50pct	50pct	0	1	您的选择正确	50pct	50pct	683	0	0	0	0	0
+011218	13:27:05	1	1	4.0.10.0	2	2	lianxi_block	lianxi2_trial	0	0	0	0	0	0	34	0	1072	0	1	练习2.BMP	50pct	50pct	1	1	您的选择错误，请再次选择	80pct	50pct	616	0	0	0	0	0
+011218	13:27:05	1	1	4.0.10.0	3	1	pipei_block	pipei1_trial	0	0	0	0	0	0	57	0	717	0	1	匹配1.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:27:05	1	1	4.0.10.0	3	2	pipei_block	pipei2_trial	0	0	0	5000	0	0	0	0	5000	0	1	匹配2.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:27:05	1	1	4.0.10.0	3	3	pipei_block	pipei3_trial	0	0	0	2000	0	0	0	0	2000	0	1	匹配3.bmp	50pct	50pct	2	0	0	0	0	0	0	0	0	0	0
+011218	13:27:05	1	1	4.0.10.0	4	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	33	1	1451	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:27:05	1	1	4.0.10.0	4	2	zhengshi_block	jieguo1_trial	0	0	0	4000	0	0	0	0	2000	0	1	您的选择是：投资	40pct	50pct	0	1	您目前的总资金是：10	60pct	50pct	0	1	等待.bmp	50pct	50pct	999
+011218	13:27:05	1	1	4.0.10.0	5	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	36	0	1082	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:27:05	1	1	4.0.10.0	5	2	zhengshi_block	jieguo2_trial	0	0	0	1000	0	0	0	0	1000	0	1	您的选择是：不返还	40pct	50pct	0	1	您目前的资金是：10	60pct	50pct	0	2	第2轮游戏结束	80pct	50pct	0
+011218	13:27:05	1	1	4.0.10.0	6	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	33	1	824	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:27:05	1	1	4.0.10.0	6	2	zhengshi_block	jieguo1_trial	0	0	0	4000	0	0	0	0	2000	0	2	您的选择是：投资	40pct	50pct	0	2	您目前的总资金是：20	60pct	50pct	0	2	您的选择是：投资	40pct	50pct	0
+011218	13:27:05	1	1	4.0.10.0	7	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	33	1	71	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:27:05	1	1	4.0.10.0	7	2	zhengshi_block	jieguo1_trial	0	0	0	6000	0	0	0	0	2000	0	3	您的选择是：投资	40pct	50pct	0	3	您目前的总资金是：35	60pct	50pct	0	3	您的选择是：投资	40pct	50pct	0
+011218	13:27:05	1	1	4.0.10.0	8	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	33	1	527	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:27:05	1	1	4.0.10.0	8	2	zhengshi_block	jieguo1_trial	0	0	0	4000	0	0	0	0	0	0	4	您的选择是：投资	40pct	50pct	0	4	您目前的总资金是：50	60pct	50pct	0	4	您的选择是：投资	40pct	50pct	0
+011218	13:27:05	1	1	4.0.10.0	9	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	36	0	1351	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:27:05	1	1	4.0.10.0	9	2	zhengshi_block	jieguo2_trial	0	0	0	1000	0	0	0	0	1000	0	1	您的选择是：不返还	40pct	50pct	0	2	您目前的资金是：50	60pct	50pct	0	6	第6轮游戏结束	80pct	50pct	0
+011218	13:27:05	1	1	4.0.10.0	10	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	33	1	7564	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:27:05	1	1	4.0.10.0	10	2	zhengshi_block	jieguo1_trial	0	0	0	6000	0	0	Ctrl+'Q'	1	0	0	5	您的选择是：投资	40pct	50pct	0	5	您目前的总资金是：60	60pct	50pct	0	5	您的选择是：投资	40pct	50pct	0
+011218	13:29:57	1	1	4.0.10.0	1	1	zhidaoyu_block	zhidaoyu_trial	0	0	0	0	0	0	57	0	790	0	1	指导语.BMP	50pct	50pct	1	0	0	0	0	0	0	0	0	0	0
+011218	13:29:57	1	1	4.0.10.0	2	1	lianxi_block	lianxi1_trial	0	0	0	0	0	0	33	1	839	0	1	练习1.BMP	50pct	50pct	0	1	您的选择正确	50pct	50pct	849	0	0	0	0	0
+011218	13:29:57	1	1	4.0.10.0	2	2	lianxi_block	lianxi2_trial	0	0	0	0	0	0	34	1	343	0	1	练习2.BMP	50pct	50pct	0	1	您的选择正确	50pct	50pct	349	0	0	0	0	0
+011218	13:29:57	1	1	4.0.10.0	3	1	pipei_block	pipei1_trial	0	0	0	0	0	0	57	0	878	0	1	匹配1.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:29:57	1	1	4.0.10.0	3	2	pipei_block	pipei2_trial	0	0	0	3000	0	0	0	0	3000	0	1	匹配2.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:29:57	1	1	4.0.10.0	3	3	pipei_block	pipei3_trial	0	0	0	2000	0	0	0	0	2000	0	1	匹配3.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:29:57	1	1	4.0.10.0	4	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	33	1	1229	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:29:57	1	1	4.0.10.0	4	2	zhengshi_block	jieguo1_trial	0	0	0	6000	0	0	0	0	2000	0	1	您的选择是：投资	40pct	50pct	0	1	您目前的总资金是：0	60pct	50pct	0	1	等待.bmp	50pct	50pct	999
+011218	13:29:57	1	1	4.0.10.0	5	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	36	0	945	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:29:57	1	1	4.0.10.0	5	2	zhengshi_block	jieguo2_trial	0	0	0	1000	0	0	0	0	1000	0	1	您的选择是：不返还	40pct	50pct	0	1	您目前的资金是：10	60pct	50pct	0	2	第2轮游戏结束	80pct	50pct	0
+011218	13:29:57	1	1	4.0.10.0	6	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	33	1	879	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:29:57	1	1	4.0.10.0	6	2	zhengshi_block	jieguo1_trial	0	0	0	6000	0	0	0	0	2000	0	2	您的选择是：投资	40pct	50pct	0	2	您目前的总资金是：10	60pct	50pct	0	2	您的选择是：投资	40pct	50pct	0
+011218	13:29:57	1	1	4.0.10.0	7	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	33	1	1557	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:29:57	1	1	4.0.10.0	7	2	zhengshi_block	jieguo1_trial	0	0	0	4000	0	0	0	0	0	0	3	您的选择是：投资	40pct	50pct	0	3	您目前的总资金是：10	60pct	50pct	0	3	您的选择是：投资	40pct	50pct	0
+011218	13:29:57	1	1	4.0.10.0	8	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	33	1	3120	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:29:57	1	1	4.0.10.0	8	2	zhengshi_block	jieguo1_trial	0	0	0	4000	0	0	0	0	0	0	4	您的选择是：投资	40pct	50pct	0	4	您目前的总资金是：10	60pct	50pct	0	4	您的选择是：投资	40pct	50pct	0
+011218	13:29:57	1	1	4.0.10.0	9	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	36	0	649	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:29:57	1	1	4.0.10.0	9	2	zhengshi_block	jieguo2_trial	0	0	0	1000	0	0	0	0	1000	0	1	您的选择是：不返还	40pct	50pct	0	2	您目前的资金是：35	60pct	50pct	0	6	第6轮游戏结束	80pct	50pct	0
+011218	13:29:57	1	1	4.0.10.0	10	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	33	1	646	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:29:57	1	1	4.0.10.0	10	2	zhengshi_block	jieguo1_trial	0	0	0	4000	0	0	Ctrl+'Q'	1	0	0	5	您的选择是：投资	40pct	50pct	0	5	您目前的总资金是：35	60pct	50pct	0	5	您的选择是：投资	40pct	50pct	0
+011218	13:32:06	1	1	4.0.10.0	1	1	zhidaoyu_block	zhidaoyu_trial	0	0	0	0	0	0	57	0	48	0	1	指导语.BMP	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:32:06	1	1	4.0.10.0	2	1	lianxi_block	lianxi1_trial	0	0	0	0	0	0	33	1	38	0	1	练习1.BMP	50pct	50pct	0	1	您的选择正确	50pct	50pct	50	0	0	0	0	0
+011218	13:32:06	1	1	4.0.10.0	2	2	lianxi_block	lianxi2_trial	0	0	0	0	0	0	34	1	47	0	1	练习2.BMP	50pct	50pct	1	1	您的选择正确	50pct	50pct	49	0	0	0	0	0
+011218	13:32:06	1	1	4.0.10.0	3	1	pipei_block	pipei1_trial	0	0	0	0	0	0	57	0	50	0	1	匹配1.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:32:06	1	1	4.0.10.0	3	2	pipei_block	pipei2_trial	0	0	0	3000	0	0	0	0	3000	0	1	匹配2.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:32:06	1	1	4.0.10.0	3	3	pipei_block	pipei3_trial	0	0	0	2000	0	0	0	0	2000	0	1	匹配3.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:32:06	1	1	4.0.10.0	4	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	33	1	60	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:32:06	1	1	4.0.10.0	4	2	zhengshi_block	jieguo1_trial	0	0	0	9000	0	0	0	0	4000	0	1	您的选择是：投资	40pct	50pct	0	1	您目前的总资金是：0	60pct	50pct	0	1	等待.bmp	50pct	50pct	1999
+011218	13:32:06	1	1	4.0.10.0	5	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	33	1	46	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:32:06	1	1	4.0.10.0	5	2	zhengshi_block	jieguo1_trial	0	0	0	7000	0	0	0	0	2000	0	2	您的选择是：投资	40pct	50pct	0	2	您目前的总资金是：0	60pct	50pct	0	2	您的选择是：投资	40pct	50pct	0
+011218	13:32:06	1	1	4.0.10.0	6	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	33	1	36	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:32:06	1	1	4.0.10.0	6	2	zhengshi_block	jieguo1_trial	0	0	0	7000	0	0	0	0	2000	0	3	您的选择是：投资	40pct	50pct	0	3	您目前的总资金是：0	60pct	50pct	0	3	您的选择是：投资	40pct	50pct	0
+011218	13:32:06	1	1	4.0.10.0	7	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	33	1	43	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:32:06	1	1	4.0.10.0	7	2	zhengshi_block	jieguo1_trial	0	0	0	7000	0	0	0	0	2000	0	4	您的选择是：投资	40pct	50pct	0	4	您目前的总资金是：0	60pct	50pct	0	4	您的选择是：投资	40pct	50pct	0
+011218	13:32:06	1	1	4.0.10.0	8	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	33	1	50	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:32:06	1	1	4.0.10.0	8	2	zhengshi_block	jieguo1_trial	0	0	0	7000	0	0	0	0	2000	0	5	您的选择是：投资	40pct	50pct	0	5	您目前的总资金是：15	60pct	50pct	0	5	您的选择是：投资	40pct	50pct	0
+011218	13:32:06	1	1	4.0.10.0	9	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	33	1	39	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:32:06	1	1	4.0.10.0	9	2	zhengshi_block	jieguo1_trial	0	0	0	9000	0	0	0	0	4000	0	6	您的选择是：投资	40pct	50pct	0	6	您目前的总资金是：30	60pct	50pct	0	6	您的选择是：投资	40pct	50pct	0
+011218	13:32:06	1	1	4.0.10.0	10	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	33	1	42	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:32:06	1	1	4.0.10.0	10	2	zhengshi_block	jieguo1_trial	0	0	0	9000	0	0	0	0	4000	0	7	您的选择是：投资	40pct	50pct	0	7	您目前的总资金是：30	60pct	50pct	0	7	您的选择是：投资	40pct	50pct	0
+011218	13:32:06	1	1	4.0.10.0	11	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	33	1	29	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:32:06	1	1	4.0.10.0	11	2	zhengshi_block	jieguo1_trial	0	0	0	9000	0	0	0	0	4000	0	8	您的选择是：投资	40pct	50pct	0	8	您目前的总资金是：45	60pct	50pct	0	8	您的选择是：投资	40pct	50pct	0
+011218	13:32:06	1	1	4.0.10.0	12	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	36	0	65	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:32:06	1	1	4.0.10.0	12	2	zhengshi_block	jieguo2_trial	0	0	0	2000	0	0	0	0	2000	0	1	您的选择是：不返还	40pct	50pct	0	1	您目前的资金是：70	60pct	50pct	0	9	第9轮游戏结束	80pct	50pct	0
+011218	13:32:06	1	1	4.0.10.0	13	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	33	1	51	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:32:06	1	1	4.0.10.0	13	2	zhengshi_block	jieguo1_trial	0	0	0	7000	0	0	0	0	2000	0	9	您的选择是：投资	40pct	50pct	0	9	您目前的总资金是：70	60pct	50pct	0	9	您的选择是：投资	40pct	50pct	0
+011218	13:32:06	1	1	4.0.10.0	14	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	33	1	40	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:32:06	1	1	4.0.10.0	14	2	zhengshi_block	jieguo1_trial	0	0	0	9000	0	0	0	0	4000	0	10	您的选择是：投资	40pct	50pct	0	10	您目前的总资金是：70	60pct	50pct	0	10	您的选择是：投资	40pct	50pct	0
+011218	13:32:06	1	1	4.0.10.0	15	1	diergepipei_block	diergepipei_trial	0	0	0	0	0	0	57	0	44	0	1	第二个匹配.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:32:06	1	1	4.0.10.0	15	2	diergepipei_block	pipei2_trial	0	0	0	3000	0	0	Ctrl+'Q'	1	1755	0	1	匹配2.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:36:17	1	1	4.0.10.0	1	1	zhidaoyu_block	zhidaoyu_trial	0	0	0	0	0	0	57	0	59	0	1	指导语.BMP	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:36:17	1	1	4.0.10.0	2	1	lianxi_block	lianxi1_trial	0	0	0	0	0	0	33	1	32	0	1	练习1.BMP	50pct	50pct	0	1	您的选择正确	50pct	50pct	49	0	0	0	0	0
+011218	13:36:17	1	1	4.0.10.0	2	2	lianxi_block	lianxi2_trial	0	0	0	0	0	0	34	1	58	0	1	练习2.BMP	50pct	50pct	0	1	您的选择正确	50pct	50pct	66	0	0	0	0	0
+011218	13:36:17	1	1	4.0.10.0	3	1	pipei_block	pipei1_trial	0	0	0	0	0	0	57	0	29	0	1	匹配1.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:36:17	1	1	4.0.10.0	3	2	pipei_block	pipei2_trial	0	0	0	3000	0	0	0	0	3000	0	1	匹配2.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:36:17	1	1	4.0.10.0	3	3	pipei_block	pipei3_trial	0	0	0	2000	0	0	0	0	2000	0	1	匹配3.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:36:17	1	1	4.0.10.0	4	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	33	1	26	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:36:17	1	1	4.0.10.0	4	2	zhengshi_block	jieguo1_trial	0	0	0	5500	0	0	0	0	3000	0	1	您的选择是：投资	40pct	50pct	0	1	您目前的总资金是：0	60pct	50pct	0	1	等待.bmp	50pct	50pct	1499
+011218	13:36:17	1	1	4.0.10.0	5	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	33	1	35	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:36:17	1	1	4.0.10.0	5	2	zhengshi_block	jieguo1_trial	0	0	0	5500	0	0	0	0	3000	0	2	您的选择是：投资	40pct	50pct	0	2	您目前的总资金是：15	60pct	50pct	0	2	您的选择是：投资	40pct	50pct	0
+011218	13:36:17	1	1	4.0.10.0	6	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	33	1	44	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:36:17	1	1	4.0.10.0	6	2	zhengshi_block	jieguo1_trial	0	0	0	5500	0	0	0	0	3000	0	3	您的选择是：投资	40pct	50pct	0	3	您目前的总资金是：15	60pct	50pct	0	3	您的选择是：投资	40pct	50pct	0
+011218	13:36:17	1	1	4.0.10.0	7	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	33	1	52	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:36:17	1	1	4.0.10.0	7	2	zhengshi_block	jieguo1_trial	0	0	0	7500	0	0	0	0	3000	0	4	您的选择是：投资	40pct	50pct	0	4	您目前的总资金是：30	60pct	50pct	0	4	您的选择是：投资	40pct	50pct	0
+011218	13:36:17	1	1	4.0.10.0	8	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	33	1	26	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:36:17	1	1	4.0.10.0	8	2	zhengshi_block	jieguo1_trial	0	0	0	5500	0	0	0	0	1000	0	5	您的选择是：投资	40pct	50pct	0	5	您目前的总资金是：30	60pct	50pct	0	5	您的选择是：投资	40pct	50pct	0
+011218	13:36:17	1	1	4.0.10.0	9	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	33	1	52	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:36:17	1	1	4.0.10.0	9	2	zhengshi_block	jieguo1_trial	0	0	0	5500	0	0	0	0	1000	0	6	您的选择是：投资	40pct	50pct	0	6	您目前的总资金是：30	60pct	50pct	0	6	您的选择是：投资	40pct	50pct	0
+011218	13:36:17	1	1	4.0.10.0	10	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	36	0	45	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:36:17	1	1	4.0.10.0	10	2	zhengshi_block	jieguo2_trial	0	0	0	1500	0	0	0	0	1500	0	1	您的选择是：不返还	40pct	50pct	0	1	您目前的资金是：40	60pct	50pct	0	7	第7轮游戏结束	80pct	50pct	0
+011218	13:36:17	1	1	4.0.10.0	11	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	33	1	48	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:36:17	1	1	4.0.10.0	11	2	zhengshi_block	jieguo1_trial	0	0	0	5500	0	0	0	0	1000	0	7	您的选择是：投资	40pct	50pct	0	7	您目前的总资金是：40	60pct	50pct	0	7	您的选择是：投资	40pct	50pct	0
+011218	13:36:17	1	1	4.0.10.0	12	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	33	1	57	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:36:17	1	1	4.0.10.0	12	2	zhengshi_block	jieguo1_trial	0	0	0	5500	0	0	Ctrl+'Q'	1	0	0	8	您的选择是：投资	40pct	50pct	0	8	您目前的总资金是：40	60pct	50pct	0	8	您的选择是：投资	40pct	50pct	0
+011218	13:37:18	1	1	4.0.10.0	1	1	zhidaoyu_block	zhidaoyu_trial	0	0	0	0	0	0	57	0	434	0	1	指导语.BMP	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:37:18	1	1	4.0.10.0	2	1	lianxi_block	lianxi1_trial	0	0	0	0	0	0	33	1	840	0	1	练习1.BMP	50pct	50pct	0	1	您的选择正确	50pct	50pct	850	0	0	0	0	0
+011218	13:37:18	1	1	4.0.10.0	2	2	lianxi_block	lianxi2_trial	0	0	0	0	0	0	34	1	14415	0	1	练习2.BMP	50pct	50pct	0	1	您的选择正确	50pct	50pct	14416	0	0	0	0	0
+011218	13:37:18	1	1	4.0.10.0	3	1	pipei_block	pipei1_trial	0	0	0	0	0	0	57	0	453	0	1	匹配1.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:37:18	1	1	4.0.10.0	3	2	pipei_block	pipei2_trial	0	0	0	5000	0	0	0	0	5000	0	1	匹配2.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:37:18	1	1	4.0.10.0	3	3	pipei_block	pipei3_trial	0	0	0	2000	0	0	0	0	2000	0	1	匹配3.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:37:18	1	1	4.0.10.0	4	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	33	1	1327	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:37:18	1	1	4.0.10.0	4	2	zhengshi_block	jieguo1_trial	0	0	0	5500	0	0	0	0	3000	0	1	您的选择是：投资	40pct	50pct	0	1	您目前的总资金是：0	60pct	50pct	0	1	等待.bmp	50pct	50pct	1499
+011218	13:37:18	1	1	4.0.10.0	5	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	36	0	769	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:37:18	1	1	4.0.10.0	5	2	zhengshi_block	jieguo2_trial	0	0	0	1500	0	0	0	0	1500	0	1	您的选择是：不返还	40pct	50pct	0	1	您目前的资金是：10	60pct	50pct	0	2	第2轮游戏结束	80pct	50pct	0
+011218	13:37:18	1	1	4.0.10.0	6	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	Ctrl+'Q'	1	1102	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:38:23	1	1	4.0.10.0	1	1	zhidaoyu_block	zhidaoyu_trial	0	0	0	0	0	0	57	0	798	0	1	指导语.BMP	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:38:23	1	1	4.0.10.0	2	1	lianxi_block	lianxi1_trial	0	0	0	0	0	0	33	1	1143	0	1	练习1.BMP	50pct	50pct	0	1	您的选择正确	50pct	50pct	1149	0	0	0	0	0
+011218	13:38:23	1	1	4.0.10.0	2	2	lianxi_block	lianxi2_trial	0	0	0	0	0	0	34	1	793	0	1	练习2.BMP	50pct	50pct	1	1	您的选择正确	50pct	50pct	800	0	0	0	0	0
+011218	13:38:23	1	1	4.0.10.0	3	1	pipei_block	pipei1_trial	0	0	0	0	0	0	57	0	12988	0	1	匹配1.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:38:23	1	1	4.0.10.0	3	2	pipei_block	pipei2_trial	0	0	0	5000	0	0	0	0	5000	0	1	匹配2.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:38:23	1	1	4.0.10.0	3	3	pipei_block	pipei3_trial	0	0	0	2000	0	0	0	0	2000	0	1	匹配3.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:38:23	1	1	4.0.10.0	4	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	33	1	1075	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:38:23	1	1	4.0.10.0	4	2	zhengshi_block	jieguo1_trial	0	0	0	5500	0	0	0	0	3000	0	1	您的选择是：投资	40pct	50pct	0	1	您目前的总资金是：0	60pct	50pct	0	1	等待.bmp	50pct	50pct	1499
+011218	13:38:23	1	1	4.0.10.0	5	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	36	0	563	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:38:23	1	1	4.0.10.0	5	2	zhengshi_block	jieguo2_trial	0	0	0	1500	0	0	0	0	1500	0	1	您的选择是：不投资	40pct	50pct	0	1	您目前的资金是：25	60pct	50pct	0	2	第2轮游戏结束	80pct	50pct	0
+011218	13:38:23	1	1	4.0.10.0	6	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	33	1	707	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:38:23	1	1	4.0.10.0	6	2	zhengshi_block	jieguo1_trial	0	0	0	7500	0	0	0	0	3000	0	2	您的选择是：投资	40pct	50pct	0	2	您目前的总资金是：25	60pct	50pct	0	2	您的选择是：投资	40pct	50pct	0
+011218	13:38:23	1	1	4.0.10.0	7	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	33	1	366	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:38:23	1	1	4.0.10.0	7	2	zhengshi_block	jieguo1_trial	0	0	0	5500	0	0	0	0	1000	0	3	您的选择是：投资	40pct	50pct	0	3	您目前的总资金是：25	60pct	50pct	0	3	您的选择是：投资	40pct	50pct	0
+011218	13:38:23	1	1	4.0.10.0	8	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	33	1	1507	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:38:23	1	1	4.0.10.0	8	2	zhengshi_block	jieguo1_trial	0	0	0	5500	0	0	0	0	1000	0	4	您的选择是：投资	40pct	50pct	0	4	您目前的总资金是：40	60pct	50pct	0	4	您的选择是：投资	40pct	50pct	0
+011218	13:38:23	1	1	4.0.10.0	9	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	36	0	1090	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:38:23	1	1	4.0.10.0	9	2	zhengshi_block	jieguo2_trial	0	0	0	1500	0	0	0	0	1500	0	1	您的选择是：不投资	40pct	50pct	0	2	您目前的资金是：50	60pct	50pct	0	6	第6轮游戏结束	80pct	50pct	0
+011218	13:38:23	1	1	4.0.10.0	10	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	33	1	1437	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:38:23	1	1	4.0.10.0	10	2	zhengshi_block	jieguo1_trial	0	0	0	7500	0	0	0	0	3000	0	5	您的选择是：投资	40pct	50pct	0	5	您目前的总资金是：50	60pct	50pct	0	5	您的选择是：投资	40pct	50pct	0
+011218	13:38:23	1	1	4.0.10.0	11	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	Ctrl+'Q'	1	963	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:42:07	1	1	4.0.10.0	1	1	zhidaoyu_block	zhidaoyu_trial	0	0	0	0	0	0	57	0	1325	0	1	指导语.BMP	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:42:07	1	1	4.0.10.0	2	1	lianxi_block	lianxi1_trial	0	0	0	0	0	0	33	1	723	0	1	练习1.BMP	50pct	50pct	0	1	您的选择正确	50pct	50pct	733	0	0	0	0	0
+011218	13:42:07	1	1	4.0.10.0	2	2	lianxi_block	lianxi2_trial	0	0	0	0	0	0	34	1	434	0	1	练习2.BMP	50pct	50pct	1	1	您的选择正确	50pct	50pct	450	0	0	0	0	0
+011218	13:42:07	1	1	4.0.10.0	3	1	pipei_block	pipei1_trial	0	0	0	0	0	0	57	0	902	0	1	匹配1.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:42:07	1	1	4.0.10.0	3	2	pipei_block	pipei2_trial	0	0	0	3000	0	0	0	0	3000	0	1	匹配2.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:42:07	1	1	4.0.10.0	3	3	pipei_block	pipei3_trial	0	0	0	2000	0	0	0	0	2000	0	1	匹配3.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:42:07	1	1	4.0.10.0	4	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	33	1	1011	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:42:07	1	1	4.0.10.0	4	2	zhengshi_block	jieguo1_trial	0	0	0	6000	0	0	0	0	1500	0	1	您的选择是：投资	40pct	50pct	0	1	您目前的总资金是：0	60pct	50pct	0	1	等待.bmp	50pct	50pct	1499
+011218	13:42:07	1	1	4.0.10.0	5	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	33	1	1022	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:42:07	1	1	4.0.10.0	5	2	zhengshi_block	jieguo1_trial	0	0	0	6000	0	0	0	0	1500	0	2	您的选择是：投资	40pct	50pct	0	2	您目前的总资金是：0	60pct	50pct	0	2	您的选择是：投资	40pct	50pct	0
+011218	13:42:07	1	1	4.0.10.0	6	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	33	1	17564	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:42:07	1	1	4.0.10.0	6	2	zhengshi_block	jieguo1_trial	0	0	0	6000	0	0	0	0	1500	0	3	您的选择是：投资	40pct	50pct	0	3	您目前的总资金是：15	60pct	50pct	0	3	您的选择是：投资	40pct	50pct	0
+011218	13:42:07	1	1	4.0.10.0	7	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	33	1	1820	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:42:07	1	1	4.0.10.0	7	2	zhengshi_block	jieguo1_trial	0	0	0	6000	0	0	0	0	1500	0	4	您的选择是：投资	40pct	50pct	0	4	您目前的总资金是：30	60pct	50pct	0	4	您的选择是：投资	40pct	50pct	0
+011218	13:42:07	1	1	4.0.10.0	8	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	33	1	1876	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:42:07	1	1	4.0.10.0	8	2	zhengshi_block	jieguo1_trial	0	0	0	6000	0	0	0	0	1500	0	5	您的选择是：投资	40pct	50pct	0	5	您目前的总资金是：30	60pct	50pct	0	5	您的选择是：投资	40pct	50pct	0
+011218	13:42:07	1	1	4.0.10.0	9	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	36	0	637	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:42:07	1	1	4.0.10.0	9	2	zhengshi_block	jieguo2_trial	0	0	0	1500	0	0	0	0	1500	0	1	您的选择是：不投资	40pct	50pct	0	1	您目前的资金是：40	60pct	50pct	0	6	第6轮游戏结束	80pct	50pct	0
+011218	13:42:07	1	1	4.0.10.0	10	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	36	0	310	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:42:07	1	1	4.0.10.0	10	2	zhengshi_block	jieguo2_trial	0	0	0	1500	0	0	0	0	1500	0	1	您的选择是：不投资	40pct	50pct	0	2	您目前的资金是：50	60pct	50pct	0	7	第7轮游戏结束	80pct	50pct	0
+011218	13:42:07	1	1	4.0.10.0	11	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	36	0	624	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:42:07	1	1	4.0.10.0	11	2	zhengshi_block	jieguo2_trial	0	0	0	1500	0	0	0	0	1500	0	1	您的选择是：不投资	40pct	50pct	0	3	您目前的资金是：60	60pct	50pct	0	8	第8轮游戏结束	80pct	50pct	0
+011218	13:42:07	1	1	4.0.10.0	12	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	36	0	339	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:42:07	1	1	4.0.10.0	12	2	zhengshi_block	jieguo2_trial	0	0	0	1500	0	0	0	0	1500	0	1	您的选择是：不投资	40pct	50pct	0	4	您目前的资金是：70	60pct	50pct	0	9	第9轮游戏结束	80pct	50pct	0
+011218	13:42:07	1	1	4.0.10.0	13	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	36	0	336	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:42:07	1	1	4.0.10.0	13	2	zhengshi_block	jieguo2_trial	0	0	0	1500	0	0	0	0	1500	0	1	您的选择是：不投资	40pct	50pct	0	5	您目前的资金是：80	60pct	50pct	0	10	第10轮游戏结束	80pct	50pct	0
+011218	13:42:07	1	1	4.0.10.0	14	1	diergepipei_block	diergepipei_trial	0	0	0	0	0	0	Ctrl+'Q'	1	5527	0	1	第二个匹配.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:44:43	1	1	4.0.10.0	1	1	zhidaoyu_block	zhidaoyu_trial	0	0	0	0	0	0	57	0	505	0	1	指导语.BMP	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:44:43	1	1	4.0.10.0	2	1	lianxi_block	lianxi1_trial	0	0	0	0	0	0	33	1	415	0	1	练习1.BMP	50pct	50pct	0	1	您的选择正确	50pct	50pct	416	0	0	0	0	0
+011218	13:44:43	1	1	4.0.10.0	2	2	lianxi_block	lianxi2_trial	0	0	0	0	0	0	34	1	53	0	1	练习2.BMP	50pct	50pct	1	1	您的选择正确	50pct	50pct	66	0	0	0	0	0
+011218	13:44:43	1	1	4.0.10.0	3	1	pipei_block	pipei1_trial	0	0	0	0	0	0	57	0	434	0	1	匹配1.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:44:43	1	1	4.0.10.0	3	2	pipei_block	pipei2_trial	0	0	0	5000	0	0	0	0	5000	0	1	匹配2.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:44:43	1	1	4.0.10.0	3	3	pipei_block	pipei3_trial	0	0	0	2000	0	0	0	0	2000	0	1	匹配3.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:44:43	1	1	4.0.10.0	4	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	33	1	781	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:44:43	1	1	4.0.10.0	4	2	zhengshi_block	jieguo1_trial	0	0	0	6000	0	0	0	0	1500	0	1	您的选择是：投资	40pct	50pct	0	1	您目前的总资金是：0	60pct	50pct	0	1	等待.bmp	50pct	50pct	1499
+011218	13:44:43	1	1	4.0.10.0	5	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	36	0	65	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:44:43	1	1	4.0.10.0	5	2	zhengshi_block	jieguo2_trial	0	0	0	1500	0	0	0	0	1500	0	1	您的选择是：不投资	40pct	50pct	0	1	您目前的资金是：10	60pct	50pct	0	2	第2轮游戏结束	80pct	50pct	0
+011218	13:44:43	1	1	4.0.10.0	6	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	36	0	57	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:44:43	1	1	4.0.10.0	6	2	zhengshi_block	jieguo2_trial	0	0	0	1500	0	0	0	0	1500	0	1	您的选择是：不投资	40pct	50pct	1	2	您目前的资金是：20	60pct	50pct	1	3	第3轮游戏结束	80pct	50pct	1
+011218	13:44:43	1	1	4.0.10.0	7	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	36	0	75	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:44:43	1	1	4.0.10.0	7	2	zhengshi_block	jieguo2_trial	0	0	0	1500	0	0	0	0	1500	0	1	您的选择是：不投资	40pct	50pct	0	3	您目前的资金是：30	60pct	50pct	0	4	第4轮游戏结束	80pct	50pct	0
+011218	13:44:43	1	1	4.0.10.0	8	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	36	0	49	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:44:43	1	1	4.0.10.0	8	2	zhengshi_block	jieguo2_trial	0	0	0	1500	0	0	0	0	1500	0	1	您的选择是：不投资	40pct	50pct	0	4	您目前的资金是：40	60pct	50pct	0	5	第5轮游戏结束	80pct	50pct	0
+011218	13:44:43	1	1	4.0.10.0	9	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	36	0	143	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:44:43	1	1	4.0.10.0	9	2	zhengshi_block	jieguo2_trial	0	0	0	1500	0	0	0	0	1500	0	1	您的选择是：不投资	40pct	50pct	0	5	您目前的资金是：50	60pct	50pct	0	6	第6轮游戏结束	80pct	50pct	0
+011218	13:44:43	1	1	4.0.10.0	10	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	36	0	150	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:44:43	1	1	4.0.10.0	10	2	zhengshi_block	jieguo2_trial	0	0	0	1500	0	0	0	0	1500	0	1	您的选择是：不投资	40pct	50pct	0	6	您目前的资金是：60	60pct	50pct	0	7	第7轮游戏结束	80pct	50pct	0
+011218	13:44:43	1	1	4.0.10.0	11	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	36	0	29	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:44:43	1	1	4.0.10.0	11	2	zhengshi_block	jieguo2_trial	0	0	0	1500	0	0	0	0	1500	0	1	您的选择是：不投资	40pct	50pct	0	7	您目前的资金是：70	60pct	50pct	0	8	第8轮游戏结束	80pct	50pct	0
+011218	13:44:43	1	1	4.0.10.0	12	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	36	0	73	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:44:43	1	1	4.0.10.0	12	2	zhengshi_block	jieguo2_trial	0	0	0	1500	0	0	0	0	1500	0	1	您的选择是：不投资	40pct	50pct	0	8	您目前的资金是：80	60pct	50pct	0	9	第9轮游戏结束	80pct	50pct	0
+011218	13:44:43	1	1	4.0.10.0	13	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	36	0	5	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:44:43	1	1	4.0.10.0	13	2	zhengshi_block	jieguo2_trial	0	0	0	1500	0	0	0	0	1500	0	1	您的选择是：不投资	40pct	50pct	0	9	您目前的资金是：90	60pct	50pct	0	10	第10轮游戏结束	80pct	50pct	0
+011218	13:44:43	1	1	4.0.10.0	14	1	diergepipei_block	diergepipei_trial	0	0	0	0	0	0	57	0	4297	0	1	第二个匹配.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:44:43	1	1	4.0.10.0	14	2	diergepipei_block	pipei2_trial	0	0	0	5000	0	0	0	0	5000	0	1	匹配2.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:44:43	1	1	4.0.10.0	14	3	diergepipei_block	pipei3_trial	0	0	0	2000	0	0	0	0	2000	0	1	匹配3.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:44:43	1	1	4.0.10.0	15	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	36	0	397	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:44:43	1	1	4.0.10.0	15	2	zhengshi_block	jieguo2_trial	0	0	0	1500	0	0	0	0	1500	0	1	您的选择是：不投资	40pct	50pct	0	10	您目前的资金是：100	60pct	50pct	0	11	第11轮游戏结束	80pct	50pct	0
+011218	13:44:43	1	1	4.0.10.0	16	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	36	0	450	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:44:43	1	1	4.0.10.0	16	2	zhengshi_block	jieguo2_trial	0	0	0	1500	0	0	0	0	1500	0	1	您的选择是：不投资	40pct	50pct	0	11	您目前的资金是：110	60pct	50pct	0	12	第12轮游戏结束	80pct	50pct	0
+011218	13:44:43	1	1	4.0.10.0	17	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	36	0	205	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:44:43	1	1	4.0.10.0	17	2	zhengshi_block	jieguo2_trial	0	0	0	1500	0	0	0	0	1500	0	1	您的选择是：不投资	40pct	50pct	0	12	您目前的资金是：120	60pct	50pct	0	13	第13轮游戏结束	80pct	50pct	0
+011218	13:44:43	1	1	4.0.10.0	18	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	36	0	2345	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:44:43	1	1	4.0.10.0	18	2	zhengshi_block	jieguo2_trial	0	0	0	1500	0	0	0	0	1500	0	1	您的选择是：不投资	40pct	50pct	0	13	您目前的资金是：130	60pct	50pct	0	14	第14轮游戏结束	80pct	50pct	0
+011218	13:44:43	1	1	4.0.10.0	19	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	36	0	378	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:44:43	1	1	4.0.10.0	19	2	zhengshi_block	jieguo2_trial	0	0	0	1500	0	0	0	0	1500	0	1	您的选择是：不投资	40pct	50pct	0	14	您目前的资金是：140	60pct	50pct	0	15	第15轮游戏结束	80pct	50pct	0
+011218	13:44:43	1	1	4.0.10.0	20	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	36	0	143	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:44:43	1	1	4.0.10.0	20	2	zhengshi_block	jieguo2_trial	0	0	0	1500	0	0	0	0	1500	0	1	您的选择是：不投资	40pct	50pct	0	15	您目前的资金是：150	60pct	50pct	0	16	第16轮游戏结束	80pct	50pct	0
+011218	13:44:43	1	1	4.0.10.0	21	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	36	0	70	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:44:43	1	1	4.0.10.0	21	2	zhengshi_block	jieguo2_trial	0	0	0	1500	0	0	0	0	1500	0	1	您的选择是：不投资	40pct	50pct	0	16	您目前的资金是：160	60pct	50pct	0	17	第17轮游戏结束	80pct	50pct	0
+011218	13:44:43	1	1	4.0.10.0	22	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	36	0	126	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:44:43	1	1	4.0.10.0	22	2	zhengshi_block	jieguo2_trial	0	0	0	1500	0	0	0	0	1500	0	1	您的选择是：不投资	40pct	50pct	0	17	您目前的资金是：170	60pct	50pct	0	18	第18轮游戏结束	80pct	50pct	0
+011218	13:44:43	1	1	4.0.10.0	23	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	36	0	153	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:44:43	1	1	4.0.10.0	23	2	zhengshi_block	jieguo2_trial	0	0	0	1500	0	0	0	0	1500	0	1	您的选择是：不投资	40pct	50pct	0	18	您目前的资金是：180	60pct	50pct	0	19	第19轮游戏结束	80pct	50pct	0
+011218	13:44:43	1	1	4.0.10.0	24	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	36	0	66	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:44:43	1	1	4.0.10.0	24	2	zhengshi_block	jieguo2_trial	0	0	0	1500	0	0	0	0	1500	0	1	您的选择是：不投资	40pct	50pct	0	19	您目前的资金是：190	60pct	50pct	0	20	第20轮游戏结束	80pct	50pct	0
+011218	13:44:43	1	1	4.0.10.0	25	1	disangepipei_block	disangepipei_trial	0	0	0	0	0	0	57	0	2210	0	1	第三个匹配.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:44:43	1	1	4.0.10.0	25	2	disangepipei_block	pipei2_trial	0	0	0	3000	0	0	0	0	3000	0	1	匹配2.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:44:43	1	1	4.0.10.0	25	3	disangepipei_block	pipei3_trial	0	0	0	2000	0	0	0	0	2000	0	1	匹配3.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:44:43	1	1	4.0.10.0	26	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	36	0	181	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:44:43	1	1	4.0.10.0	26	2	zhengshi_block	jieguo2_trial	0	0	0	1500	0	0	0	0	1500	0	1	您的选择是：不投资	40pct	50pct	0	20	您目前的资金是：200	60pct	50pct	0	21	第21轮游戏结束	80pct	50pct	0
+011218	13:44:43	1	1	4.0.10.0	27	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	36	0	73	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:44:43	1	1	4.0.10.0	27	2	zhengshi_block	jieguo2_trial	0	0	0	1500	0	0	0	0	1500	0	1	您的选择是：不投资	40pct	50pct	0	21	您目前的资金是：210	60pct	50pct	0	22	第22轮游戏结束	80pct	50pct	0
+011218	13:44:43	1	1	4.0.10.0	28	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	36	0	487	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:44:43	1	1	4.0.10.0	28	2	zhengshi_block	jieguo2_trial	0	0	0	1500	0	0	0	0	1500	0	1	您的选择是：不投资	40pct	50pct	0	22	您目前的资金是：220	60pct	50pct	0	23	第23轮游戏结束	80pct	50pct	0
+011218	13:44:43	1	1	4.0.10.0	29	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	36	0	1687	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:44:43	1	1	4.0.10.0	29	2	zhengshi_block	jieguo2_trial	0	0	0	1500	0	0	0	0	1500	0	1	您的选择是：不投资	40pct	50pct	0	23	您目前的资金是：230	60pct	50pct	0	24	第24轮游戏结束	80pct	50pct	0
+011218	13:44:43	1	1	4.0.10.0	30	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	36	0	44	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:44:43	1	1	4.0.10.0	30	2	zhengshi_block	jieguo2_trial	0	0	0	1500	0	0	0	0	1500	0	1	您的选择是：不投资	40pct	50pct	0	24	您目前的资金是：240	60pct	50pct	0	25	第25轮游戏结束	80pct	50pct	0
+011218	13:44:43	1	1	4.0.10.0	31	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	36	0	87	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:44:43	1	1	4.0.10.0	31	2	zhengshi_block	jieguo2_trial	0	0	0	1500	0	0	0	0	1500	0	1	您的选择是：不投资	40pct	50pct	0	25	您目前的资金是：250	60pct	50pct	0	26	第26轮游戏结束	80pct	50pct	0
+011218	13:44:43	1	1	4.0.10.0	32	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	36	0	186	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:44:43	1	1	4.0.10.0	32	2	zhengshi_block	jieguo2_trial	0	0	0	1500	0	0	0	0	1500	0	1	您的选择是：不投资	40pct	50pct	0	26	您目前的资金是：260	60pct	50pct	0	27	第27轮游戏结束	80pct	50pct	0
+011218	13:44:43	1	1	4.0.10.0	33	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	36	0	685	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:44:43	1	1	4.0.10.0	33	2	zhengshi_block	jieguo2_trial	0	0	0	1500	0	0	0	0	1500	0	1	您的选择是：不投资	40pct	50pct	0	27	您目前的资金是：270	60pct	50pct	0	28	第28轮游戏结束	80pct	50pct	0
+011218	13:44:43	1	1	4.0.10.0	34	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	36	0	352	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:44:43	1	1	4.0.10.0	34	2	zhengshi_block	jieguo2_trial	0	0	0	1500	0	0	0	0	1500	0	1	您的选择是：不投资	40pct	50pct	0	28	您目前的资金是：280	60pct	50pct	0	29	第29轮游戏结束	80pct	50pct	0
+011218	13:44:43	1	1	4.0.10.0	35	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	36	0	584	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:44:43	1	1	4.0.10.0	35	2	zhengshi_block	jieguo2_trial	0	0	0	1500	0	0	0	0	1500	0	1	您的选择是：不投资	40pct	50pct	0	29	您目前的资金是：290	60pct	50pct	0	30	第30轮游戏结束	80pct	50pct	0
+011218	13:44:43	1	1	4.0.10.0	36	1	zuihoujieshu_block	zuihoujieshu_trial	0	0	0	2000	0	0	0	0	2000	0	1	最后结束.bmp	50pct	50pct	0	1		50pct	50pct	0	0	0	0	0	0
+011218	13:44:43	1	1	4.0.10.0	37	1	byebye_block	byebye_trial	0	0	0	0	0	0	Ctrl+'Q'	1	2765	0	1	byebye.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:47:02	1	1	4.0.10.0	1	1	zhidaoyu_block	zhidaoyu_trial	0	0	0	0	0	0	57	0	980	0	1	指导语.BMP	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:47:02	1	1	4.0.10.0	2	1	lianxi_block	lianxi1_trial	0	0	0	0	0	0	33	0	2052	0	1	练习1.BMP	50pct	50pct	0	1	您的选择错误，请再次选择	80pct	50pct	716	0	0	0	0	0
+011218	13:47:02	1	1	4.0.10.0	2	2	lianxi_block	lianxi2_trial	0	0	0	0	0	0	34	1	378	0	1	练习2.BMP	50pct	50pct	1	1	您的选择正确	50pct	50pct	383	0	0	0	0	0
+011218	13:47:02	1	1	4.0.10.0	3	1	pipei_block	pipei1_trial	0	0	0	0	0	0	57	0	1145	0	1	匹配1.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:47:02	1	1	4.0.10.0	3	2	pipei_block	pipei2_trial	0	0	0	5000	0	0	0	0	5000	0	1	匹配2.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:47:02	1	1	4.0.10.0	3	3	pipei_block	pipei3_trial	0	0	0	2000	0	0	0	0	2000	0	1	匹配3.bmp	50pct	50pct	1	0	0	0	0	0	0	0	0	0	0
+011218	13:47:02	1	1	4.0.10.0	4	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	36	0	1380	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:47:02	1	1	4.0.10.0	4	2	zhengshi_block	jieguo2_trial	0	0	0	1500	0	0	0	0	1500	0	1	您的选择是：不投资	40pct	50pct	0	1	您目前的资金是：10	60pct	50pct	0	1	第1轮游戏结束	80pct	50pct	0
+011218	13:47:02	1	1	4.0.10.0	5	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	36	0	158	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:47:02	1	1	4.0.10.0	5	2	zhengshi_block	jieguo2_trial	0	0	0	1500	0	0	0	0	1500	0	1	您的选择是：不投资	40pct	50pct	0	2	您目前的资金是：20	60pct	50pct	0	2	第2轮游戏结束	80pct	50pct	0
+011218	13:47:02	1	1	4.0.10.0	6	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	36	0	103	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:47:02	1	1	4.0.10.0	6	2	zhengshi_block	jieguo2_trial	0	0	0	1500	0	0	0	0	1500	0	1	您的选择是：不投资	40pct	50pct	0	3	您目前的资金是：30	60pct	50pct	0	3	第3轮游戏结束	80pct	50pct	0
+011218	13:47:02	1	1	4.0.10.0	7	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	36	0	7881	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:47:02	1	1	4.0.10.0	7	2	zhengshi_block	jieguo2_trial	0	0	0	1500	0	0	0	0	1500	0	1	您的选择是：不投资	40pct	50pct	0	4	您目前的资金是：40	60pct	50pct	0	4	第4轮游戏结束	80pct	50pct	0
+011218	13:47:02	1	1	4.0.10.0	8	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	36	0	373	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:47:02	1	1	4.0.10.0	8	2	zhengshi_block	jieguo2_trial	0	0	0	1500	0	0	0	0	1500	0	1	您的选择是：不投资	40pct	50pct	0	5	您目前的资金是：50	60pct	50pct	0	5	第5轮游戏结束	80pct	50pct	0
+011218	13:47:02	1	1	4.0.10.0	9	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	36	0	338	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:47:02	1	1	4.0.10.0	9	2	zhengshi_block	jieguo2_trial	0	0	0	1500	0	0	0	0	1500	0	1	您的选择是：不投资	40pct	50pct	0	6	您目前的资金是：60	60pct	50pct	0	6	第6轮游戏结束	80pct	50pct	0
+011218	13:47:02	1	1	4.0.10.0	10	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	36	0	373	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:47:02	1	1	4.0.10.0	10	2	zhengshi_block	jieguo2_trial	0	0	0	1500	0	0	0	0	1500	0	1	您的选择是：不投资	40pct	50pct	0	7	您目前的资金是：70	60pct	50pct	0	7	第7轮游戏结束	80pct	50pct	0
+011218	13:47:02	1	1	4.0.10.0	11	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	36	0	707	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:47:02	1	1	4.0.10.0	11	2	zhengshi_block	jieguo2_trial	0	0	0	1500	0	0	0	0	1500	0	1	您的选择是：不投资	40pct	50pct	0	8	您目前的资金是：80	60pct	50pct	0	8	第8轮游戏结束	80pct	50pct	0
+011218	13:47:02	1	1	4.0.10.0	12	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	36	0	445	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:47:02	1	1	4.0.10.0	12	2	zhengshi_block	jieguo2_trial	0	0	0	1500	0	0	0	0	1500	0	1	您的选择是：不投资	40pct	50pct	0	9	您目前的资金是：90	60pct	50pct	0	9	第9轮游戏结束	80pct	50pct	0
+011218	13:47:02	1	1	4.0.10.0	13	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	36	0	122	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:47:02	1	1	4.0.10.0	13	2	zhengshi_block	jieguo2_trial	0	0	0	1500	0	0	0	0	1500	0	1	您的选择是：不投资	40pct	50pct	0	10	您目前的资金是：100	60pct	50pct	0	10	第10轮游戏结束	80pct	50pct	0
+011218	13:47:02	1	1	4.0.10.0	14	1	diergepipei_block	diergepipei_trial	0	0	0	0	0	0	57	0	1845	0	1	第二个匹配.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:47:02	1	1	4.0.10.0	14	2	diergepipei_block	pipei2_trial	0	0	0	3000	0	0	0	0	3000	0	1	匹配2.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:47:02	1	1	4.0.10.0	14	3	diergepipei_block	pipei3_trial	0	0	0	2000	0	0	0	0	2000	0	1	匹配3.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:47:02	1	1	4.0.10.0	15	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	36	0	2015	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:47:02	1	1	4.0.10.0	15	2	zhengshi_block	jieguo2_trial	0	0	0	1500	0	0	0	0	1500	0	1	您的选择是：不投资	40pct	50pct	0	11	您目前的资金是：110	60pct	50pct	0	11	第11轮游戏结束	80pct	50pct	0
+011218	13:47:02	1	1	4.0.10.0	16	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	36	0	13	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:47:02	1	1	4.0.10.0	16	2	zhengshi_block	jieguo2_trial	0	0	0	1500	0	0	0	0	1500	0	1	您的选择是：不投资	40pct	50pct	0	12	您目前的资金是：120	60pct	50pct	0	12	第12轮游戏结束	80pct	50pct	0
+011218	13:47:02	1	1	4.0.10.0	17	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	36	0	132	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:47:02	1	1	4.0.10.0	17	2	zhengshi_block	jieguo2_trial	0	0	0	1500	0	0	0	0	1500	0	1	您的选择是：不投资	40pct	50pct	0	13	您目前的资金是：130	60pct	50pct	0	13	第13轮游戏结束	80pct	50pct	0
+011218	13:47:02	1	1	4.0.10.0	18	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	36	0	119	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:47:02	1	1	4.0.10.0	18	2	zhengshi_block	jieguo2_trial	0	0	0	1500	0	0	0	0	1500	0	1	您的选择是：不投资	40pct	50pct	0	14	您目前的资金是：140	60pct	50pct	0	14	第14轮游戏结束	80pct	50pct	0
+011218	13:47:02	1	1	4.0.10.0	19	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	36	0	149	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:47:02	1	1	4.0.10.0	19	2	zhengshi_block	jieguo2_trial	0	0	0	1500	0	0	0	0	1500	0	1	您的选择是：不投资	40pct	50pct	0	15	您目前的资金是：150	60pct	50pct	0	15	第15轮游戏结束	80pct	50pct	0
+011218	13:47:02	1	1	4.0.10.0	20	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	36	0	203	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:47:02	1	1	4.0.10.0	20	2	zhengshi_block	jieguo2_trial	0	0	0	1500	0	0	0	0	1500	0	1	您的选择是：不投资	40pct	50pct	0	16	您目前的资金是：160	60pct	50pct	0	16	第16轮游戏结束	80pct	50pct	0
+011218	13:47:02	1	1	4.0.10.0	21	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	36	0	127	0	1	初始界面.bmp	50pct	50pct	5	0	0	0	0	0	0	0	0	0	0
+011218	13:47:02	1	1	4.0.10.0	21	2	zhengshi_block	jieguo2_trial	0	0	0	1500	0	0	0	0	1500	0	1	您的选择是：不投资	40pct	50pct	0	17	您目前的资金是：170	60pct	50pct	0	17	第17轮游戏结束	80pct	50pct	0
+011218	13:47:02	1	1	4.0.10.0	22	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	36	0	90	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:47:02	1	1	4.0.10.0	22	2	zhengshi_block	jieguo2_trial	0	0	0	1500	0	0	0	0	1500	0	1	您的选择是：不投资	40pct	50pct	0	18	您目前的资金是：180	60pct	50pct	0	18	第18轮游戏结束	80pct	50pct	0
+011218	13:47:02	1	1	4.0.10.0	23	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	36	0	107	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:47:02	1	1	4.0.10.0	23	2	zhengshi_block	jieguo2_trial	0	0	0	1500	0	0	0	0	1500	0	1	您的选择是：不投资	40pct	50pct	0	19	您目前的资金是：190	60pct	50pct	0	19	第19轮游戏结束	80pct	50pct	0
+011218	13:47:02	1	1	4.0.10.0	24	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	36	0	61	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:47:02	1	1	4.0.10.0	24	2	zhengshi_block	jieguo2_trial	0	0	0	1500	0	0	0	0	1500	0	1	您的选择是：不投资	40pct	50pct	0	20	您目前的资金是：200	60pct	50pct	0	20	第20轮游戏结束	80pct	50pct	0
+011218	13:47:02	1	1	4.0.10.0	25	1	disangepipei_block	disangepipei_trial	0	0	0	0	0	0	57	0	1236	0	1	第三个匹配.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:47:02	1	1	4.0.10.0	25	2	disangepipei_block	pipei2_trial	0	0	0	3000	0	0	0	0	3000	0	1	匹配2.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:47:02	1	1	4.0.10.0	25	3	disangepipei_block	pipei3_trial	0	0	0	2000	0	0	0	0	2000	0	1	匹配3.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:47:02	1	1	4.0.10.0	26	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	36	0	50	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:47:02	1	1	4.0.10.0	26	2	zhengshi_block	jieguo2_trial	0	0	0	1500	0	0	0	0	1500	0	1	您的选择是：不投资	40pct	50pct	0	21	您目前的资金是：210	60pct	50pct	0	21	第21轮游戏结束	80pct	50pct	0
+011218	13:47:02	1	1	4.0.10.0	27	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	36	0	241	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:47:02	1	1	4.0.10.0	27	2	zhengshi_block	jieguo2_trial	0	0	0	1500	0	0	0	0	1500	0	1	您的选择是：不投资	40pct	50pct	0	22	您目前的资金是：220	60pct	50pct	0	22	第22轮游戏结束	80pct	50pct	0
+011218	13:47:02	1	1	4.0.10.0	28	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	36	0	52	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:47:02	1	1	4.0.10.0	28	2	zhengshi_block	jieguo2_trial	0	0	0	1500	0	0	0	0	1500	0	1	您的选择是：不投资	40pct	50pct	0	23	您目前的资金是：230	60pct	50pct	0	23	第23轮游戏结束	80pct	50pct	0
+011218	13:47:02	1	1	4.0.10.0	29	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	36	0	137	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:47:02	1	1	4.0.10.0	29	2	zhengshi_block	jieguo2_trial	0	0	0	1500	0	0	0	0	1500	0	1	您的选择是：不投资	40pct	50pct	0	24	您目前的资金是：240	60pct	50pct	0	24	第24轮游戏结束	80pct	50pct	0
+011218	13:47:02	1	1	4.0.10.0	30	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	36	0	114	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:47:02	1	1	4.0.10.0	30	2	zhengshi_block	jieguo2_trial	0	0	0	1500	0	0	0	0	1500	0	1	您的选择是：不投资	40pct	50pct	0	25	您目前的资金是：250	60pct	50pct	0	25	第25轮游戏结束	80pct	50pct	0
+011218	13:47:02	1	1	4.0.10.0	31	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	36	0	121	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:47:02	1	1	4.0.10.0	31	2	zhengshi_block	jieguo2_trial	0	0	0	1500	0	0	0	0	1500	0	1	您的选择是：不投资	40pct	50pct	0	26	您目前的资金是：260	60pct	50pct	0	26	第26轮游戏结束	80pct	50pct	0
+011218	13:47:02	1	1	4.0.10.0	32	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	36	0	98	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:47:02	1	1	4.0.10.0	32	2	zhengshi_block	jieguo2_trial	0	0	0	1500	0	0	0	0	1500	0	1	您的选择是：不投资	40pct	50pct	0	27	您目前的资金是：270	60pct	50pct	0	27	第27轮游戏结束	80pct	50pct	0
+011218	13:47:02	1	1	4.0.10.0	33	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	36	0	43	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:47:02	1	1	4.0.10.0	33	2	zhengshi_block	jieguo2_trial	0	0	0	1500	0	0	0	0	1500	0	1	您的选择是：不投资	40pct	50pct	0	28	您目前的资金是：280	60pct	50pct	0	28	第28轮游戏结束	80pct	50pct	0
+011218	13:47:02	1	1	4.0.10.0	34	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	36	0	130	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:47:02	1	1	4.0.10.0	34	2	zhengshi_block	jieguo2_trial	0	0	0	1500	0	0	0	0	1500	0	1	您的选择是：不投资	40pct	50pct	0	29	您目前的资金是：290	60pct	50pct	0	29	第29轮游戏结束	80pct	50pct	0
+011218	13:47:02	1	1	4.0.10.0	35	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	36	0	95	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:47:02	1	1	4.0.10.0	35	2	zhengshi_block	jieguo2_trial	0	0	0	1500	0	0	0	0	1500	0	1	您的选择是：不投资	40pct	50pct	0	30	您目前的资金是：300	60pct	50pct	0	30	第30轮游戏结束	80pct	50pct	0
+011218	13:47:02	1	1	4.0.10.0	36	1	zuihoujieshu_block	zuihoujieshu_trial	0	0	0	2000	0	0	0	0	2000	0	1	最后结束.bmp	50pct	50pct	0	1		50pct	50pct	0	0	0	0	0	0
+011218	13:47:02	1	1	4.0.10.0	37	1	byebye_block	byebye_trial	0	0	0	0	0	0	57	0	2322	0	1	byebye.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:52:24	1	1	4.0.10.0	1	1	zhidaoyu_block	zhidaoyu_trial	0	0	0	0	0	0	57	0	653	0	1	指导语.BMP	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:52:24	1	1	4.0.10.0	2	1	lianxi_block	lianxi1_trial	0	0	0	0	0	0	33	1	558	0	1	练习1.BMP	50pct	50pct	0	1	您的选择正确	50pct	50pct	566	0	0	0	0	0
+011218	13:52:24	1	1	4.0.10.0	2	2	lianxi_block	lianxi2_trial	0	0	0	0	0	0	34	1	23	0	1	练习2.BMP	50pct	50pct	1	1	您的选择正确	50pct	50pct	33	0	0	0	0	0
+011218	13:52:24	1	1	4.0.10.0	3	1	pipei_block	pipei1_trial	0	0	0	0	0	0	57	0	589	0	1	匹配1.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:52:24	1	1	4.0.10.0	3	2	pipei_block	pipei2_trial	0	0	0	3000	0	0	0	0	3000	0	1	匹配2.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:52:24	1	1	4.0.10.0	3	3	pipei_block	pipei3_trial	0	0	0	2000	0	0	0	0	2000	0	1	匹配3.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:52:24	1	1	4.0.10.0	4	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	36	0	1017	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:52:24	1	1	4.0.10.0	4	2	zhengshi_block	jieguo2_trial	0	0	0	1500	0	0	0	0	1500	0	1	您的选择是：不投资	40pct	50pct	1	1	您目前的资金是：10	60pct	50pct	1	1	第1轮游戏结束	80pct	50pct	1
+011218	13:52:24	1	1	4.0.10.0	5	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	36	0	673	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:52:24	1	1	4.0.10.0	5	2	zhengshi_block	jieguo2_trial	0	0	0	1500	0	0	0	0	1500	0	1	您的选择是：不投资	40pct	50pct	0	2	您目前的资金是：20	60pct	50pct	0	2	第2轮游戏结束	80pct	50pct	0
+011218	13:52:24	1	1	4.0.10.0	6	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	36	0	25	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:52:24	1	1	4.0.10.0	6	2	zhengshi_block	jieguo2_trial	0	0	0	1500	0	0	0	0	1500	0	1	您的选择是：不投资	40pct	50pct	0	3	您目前的资金是：30	60pct	50pct	0	3	第3轮游戏结束	80pct	50pct	0
+011218	13:52:24	1	1	4.0.10.0	7	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	36	0	126	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:52:24	1	1	4.0.10.0	7	2	zhengshi_block	jieguo2_trial	0	0	0	1500	0	0	0	0	1500	0	1	您的选择是：不投资	40pct	50pct	0	4	您目前的资金是：40	60pct	50pct	0	4	第4轮游戏结束	80pct	50pct	0
+011218	13:52:24	1	1	4.0.10.0	8	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	36	0	182	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:52:24	1	1	4.0.10.0	8	2	zhengshi_block	jieguo2_trial	0	0	0	1500	0	0	0	0	1500	0	1	您的选择是：不投资	40pct	50pct	0	5	您目前的资金是：50	60pct	50pct	0	5	第5轮游戏结束	80pct	50pct	0
+011218	13:52:24	1	1	4.0.10.0	9	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	36	0	17	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:52:24	1	1	4.0.10.0	9	2	zhengshi_block	jieguo2_trial	0	0	0	1500	0	0	0	0	1500	0	1	您的选择是：不投资	40pct	50pct	0	6	您目前的资金是：60	60pct	50pct	0	6	第6轮游戏结束	80pct	50pct	0
+011218	13:52:24	1	1	4.0.10.0	10	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	36	0	142	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:52:24	1	1	4.0.10.0	10	2	zhengshi_block	jieguo2_trial	0	0	0	1500	0	0	0	0	1500	0	1	您的选择是：不投资	40pct	50pct	0	7	您目前的资金是：70	60pct	50pct	0	7	第7轮游戏结束	80pct	50pct	0
+011218	13:52:24	1	1	4.0.10.0	11	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	36	0	139	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:52:24	1	1	4.0.10.0	11	2	zhengshi_block	jieguo2_trial	0	0	0	1500	0	0	0	0	1500	0	1	您的选择是：不投资	40pct	50pct	0	8	您目前的资金是：80	60pct	50pct	0	8	第8轮游戏结束	80pct	50pct	0
+011218	13:52:24	1	1	4.0.10.0	12	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	36	0	165	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:52:24	1	1	4.0.10.0	12	2	zhengshi_block	jieguo2_trial	0	0	0	1500	0	0	0	0	1500	0	1	您的选择是：不投资	40pct	50pct	0	9	您目前的资金是：90	60pct	50pct	0	9	第9轮游戏结束	80pct	50pct	0
+011218	13:52:24	1	1	4.0.10.0	13	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	36	0	87	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:52:24	1	1	4.0.10.0	13	2	zhengshi_block	jieguo2_trial	0	0	0	1500	0	0	0	0	1500	0	1	您的选择是：不投资	40pct	50pct	0	10	您目前的资金是：100	60pct	50pct	0	10	第10轮游戏结束	80pct	50pct	0
+011218	13:52:24	1	1	4.0.10.0	14	1	diergepipei_block	diergepipei_trial	0	0	0	0	0	0	57	0	1068	0	1	第二个匹配.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:52:24	1	1	4.0.10.0	14	2	diergepipei_block	pipei2_trial	0	0	0	3000	0	0	0	0	3000	0	1	匹配2.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:52:24	1	1	4.0.10.0	14	3	diergepipei_block	pipei3_trial	0	0	0	2000	0	0	0	0	2000	0	1	匹配3.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:52:24	1	1	4.0.10.0	15	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	36	0	31	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:52:24	1	1	4.0.10.0	15	2	zhengshi_block	jieguo2_trial	0	0	0	1500	0	0	0	0	1500	0	1	您的选择是：不投资	40pct	50pct	0	11	您目前的资金是：110	60pct	50pct	0	11	第11轮游戏结束	80pct	50pct	0
+011218	13:52:24	1	1	4.0.10.0	16	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	36	0	54	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:52:24	1	1	4.0.10.0	16	2	zhengshi_block	jieguo2_trial	0	0	0	1500	0	0	0	0	1500	0	1	您的选择是：不投资	40pct	50pct	0	12	您目前的资金是：120	60pct	50pct	0	12	第12轮游戏结束	80pct	50pct	0
+011218	13:52:24	1	1	4.0.10.0	17	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	36	0	156	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:52:24	1	1	4.0.10.0	17	2	zhengshi_block	jieguo2_trial	0	0	0	1500	0	0	0	0	1500	0	1	您的选择是：不投资	40pct	50pct	0	13	您目前的资金是：130	60pct	50pct	0	13	第13轮游戏结束	80pct	50pct	0
+011218	13:52:24	1	1	4.0.10.0	18	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	36	0	186	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:52:24	1	1	4.0.10.0	18	2	zhengshi_block	jieguo2_trial	0	0	0	1500	0	0	0	0	1500	0	1	您的选择是：不投资	40pct	50pct	0	14	您目前的资金是：140	60pct	50pct	0	14	第14轮游戏结束	80pct	50pct	0
+011218	13:52:24	1	1	4.0.10.0	19	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	36	0	125	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:52:24	1	1	4.0.10.0	19	2	zhengshi_block	jieguo2_trial	0	0	0	1500	0	0	0	0	1500	0	1	您的选择是：不投资	40pct	50pct	0	15	您目前的资金是：150	60pct	50pct	0	15	第15轮游戏结束	80pct	50pct	0
+011218	13:52:24	1	1	4.0.10.0	20	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	36	0	34	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:52:24	1	1	4.0.10.0	20	2	zhengshi_block	jieguo2_trial	0	0	0	1500	0	0	0	0	1500	0	1	您的选择是：不投资	40pct	50pct	0	16	您目前的资金是：160	60pct	50pct	0	16	第16轮游戏结束	80pct	50pct	0
+011218	13:52:24	1	1	4.0.10.0	21	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	36	0	109	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:52:24	1	1	4.0.10.0	21	2	zhengshi_block	jieguo2_trial	0	0	0	1500	0	0	0	0	1500	0	1	您的选择是：不投资	40pct	50pct	0	17	您目前的资金是：170	60pct	50pct	0	17	第17轮游戏结束	80pct	50pct	0
+011218	13:52:24	1	1	4.0.10.0	22	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	36	0	187	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:52:24	1	1	4.0.10.0	22	2	zhengshi_block	jieguo2_trial	0	0	0	1500	0	0	0	0	1500	0	1	您的选择是：不投资	40pct	50pct	0	18	您目前的资金是：180	60pct	50pct	0	18	第18轮游戏结束	80pct	50pct	0
+011218	13:52:24	1	1	4.0.10.0	23	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	36	0	84	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:52:24	1	1	4.0.10.0	23	2	zhengshi_block	jieguo2_trial	0	0	0	1500	0	0	0	0	1500	0	1	您的选择是：不投资	40pct	50pct	0	19	您目前的资金是：190	60pct	50pct	0	19	第19轮游戏结束	80pct	50pct	0
+011218	13:52:24	1	1	4.0.10.0	24	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	36	0	88	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:52:24	1	1	4.0.10.0	24	2	zhengshi_block	jieguo2_trial	0	0	0	1500	0	0	0	0	1500	0	1	您的选择是：不投资	40pct	50pct	0	20	您目前的资金是：200	60pct	50pct	0	20	第20轮游戏结束	80pct	50pct	0
+011218	13:52:24	1	1	4.0.10.0	25	1	disangepipei_block	disangepipei_trial	0	0	0	0	0	0	57	0	1205	0	1	第三个匹配.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:52:24	1	1	4.0.10.0	25	2	disangepipei_block	pipei2_trial	0	0	0	3000	0	0	0	0	3000	0	1	匹配2.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:52:24	1	1	4.0.10.0	25	3	disangepipei_block	pipei3_trial	0	0	0	2000	0	0	0	0	2000	0	1	匹配3.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:52:24	1	1	4.0.10.0	26	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	36	0	221	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:52:24	1	1	4.0.10.0	26	2	zhengshi_block	jieguo2_trial	0	0	0	1500	0	0	0	0	1500	0	1	您的选择是：不投资	40pct	50pct	0	21	您目前的资金是：210	60pct	50pct	0	21	第21轮游戏结束	80pct	50pct	0
+011218	13:52:24	1	1	4.0.10.0	27	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	36	0	1732	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:52:24	1	1	4.0.10.0	27	2	zhengshi_block	jieguo2_trial	0	0	0	1500	0	0	0	0	1500	0	1	您的选择是：不投资	40pct	50pct	0	22	您目前的资金是：220	60pct	50pct	0	22	第22轮游戏结束	80pct	50pct	0
+011218	13:52:24	1	1	4.0.10.0	28	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	36	0	42	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:52:24	1	1	4.0.10.0	28	2	zhengshi_block	jieguo2_trial	0	0	0	1500	0	0	0	0	1500	0	1	您的选择是：不投资	40pct	50pct	0	23	您目前的资金是：230	60pct	50pct	0	23	第23轮游戏结束	80pct	50pct	0
+011218	13:52:24	1	1	4.0.10.0	29	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	36	0	874	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:52:24	1	1	4.0.10.0	29	2	zhengshi_block	jieguo2_trial	0	0	0	1500	0	0	0	0	1500	0	1	您的选择是：不投资	40pct	50pct	0	24	您目前的资金是：240	60pct	50pct	0	24	第24轮游戏结束	80pct	50pct	0
+011218	13:52:24	1	1	4.0.10.0	30	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	36	0	77	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:52:24	1	1	4.0.10.0	30	2	zhengshi_block	jieguo2_trial	0	0	0	1500	0	0	0	0	1500	0	1	您的选择是：不投资	40pct	50pct	0	25	您目前的资金是：250	60pct	50pct	0	25	第25轮游戏结束	80pct	50pct	0
+011218	13:52:24	1	1	4.0.10.0	31	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	36	0	1749	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:52:24	1	1	4.0.10.0	31	2	zhengshi_block	jieguo2_trial	0	0	0	1500	0	0	0	0	1500	0	1	您的选择是：不投资	40pct	50pct	0	26	您目前的资金是：260	60pct	50pct	0	26	第26轮游戏结束	80pct	50pct	0
+011218	13:52:24	1	1	4.0.10.0	32	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	36	0	545	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:52:24	1	1	4.0.10.0	32	2	zhengshi_block	jieguo2_trial	0	0	0	1500	0	0	0	0	1500	0	1	您的选择是：不投资	40pct	50pct	0	27	您目前的资金是：270	60pct	50pct	0	27	第27轮游戏结束	80pct	50pct	0
+011218	13:52:24	1	1	4.0.10.0	33	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	36	0	340	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:52:24	1	1	4.0.10.0	33	2	zhengshi_block	jieguo2_trial	0	0	0	1500	0	0	0	0	1500	0	1	您的选择是：不投资	40pct	50pct	0	28	您目前的资金是：280	60pct	50pct	0	28	第28轮游戏结束	80pct	50pct	0
+011218	13:52:24	1	1	4.0.10.0	34	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	36	0	585	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:52:24	1	1	4.0.10.0	34	2	zhengshi_block	jieguo2_trial	0	0	0	1500	0	0	0	0	1500	0	1	您的选择是：不投资	40pct	50pct	0	29	您目前的资金是：290	60pct	50pct	0	29	第29轮游戏结束	80pct	50pct	0
+011218	13:52:24	1	1	4.0.10.0	35	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	36	0	447	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	13:52:24	1	1	4.0.10.0	35	2	zhengshi_block	jieguo2_trial	0	0	0	1500	0	0	0	0	1500	0	1	您的选择是：不投资	40pct	50pct	0	30	您目前的资金是：300	60pct	50pct	0	30	第30轮游戏结束	80pct	50pct	0
+011218	13:52:24	1	1	4.0.10.0	36	1	zuihoujieshu_block	zuihoujieshu_trial	0	0	0	2000	0	0	0	0	2000	0	1	最后结束.bmp	50pct	50pct	0	1	您最后所得总金额为：300	50pct	50pct	0	0	0	0	0	0
+011218	13:52:24	1	1	4.0.10.0	37	1	byebye_block	byebye_trial	0	0	0	0	0	0	57	0	1343	0	1	byebye.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	21:50:02	1	1	4.0.10.0	1	1	zhidaoyu_block	zhidaoyu_trial	0	0	0	0	0	0	57	0	1262	0	1	指导语.BMP	50pct	50pct	1	0	0	0	0	0	0	0	0	0	0
+011218	21:50:02	1	1	4.0.10.0	2	1	lianxi_block	lianxi1_trial	0	0	0	0	0	0	33	1	4527	0	1	练习1.BMP	50pct	50pct	0	1	您的选择正确	50pct	50pct	4529	0	0	0	0	0
+011218	21:50:02	1	1	4.0.10.0	2	2	lianxi_block	lianxi2_trial	0	0	0	0	0	0	34	1	2013	0	1	练习2.BMP	50pct	50pct	0	1	您的选择正确	50pct	50pct	2014	0	0	0	0	0
+011218	21:50:02	1	1	4.0.10.0	3	1	pipei_block	pipei1_trial	0	0	0	0	0	0	57	0	1835	0	1	匹配1.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	21:50:02	1	1	4.0.10.0	3	2	pipei_block	pipei2_trial	0	0	0	3000	0	0	0	0	3000	0	1	匹配2.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	21:50:02	1	1	4.0.10.0	3	3	pipei_block	pipei3_trial	0	0	0	2000	0	0	0	0	2000	0	1	匹配3.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	21:50:02	1	1	4.0.10.0	4	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	33	1	8391	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	21:50:02	1	1	4.0.10.0	4	2	zhengshi_block	jieguo1_trial	0	0	0	4000	0	0	0	0	1500	0	1	您的选择是：投资	40pct	50pct	0	1	您目前的总资金是：0	60pct	50pct	0	1	等待.bmp	50pct	50pct	1499
+011218	21:50:02	1	1	4.0.10.0	5	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	33	1	7410	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	21:50:02	1	1	4.0.10.0	5	2	zhengshi_block	jieguo1_trial	0	0	0	6000	0	0	0	0	1500	0	2	您的选择是：投资	40pct	50pct	0	2	您目前的总资金是：0	60pct	50pct	0	2	您的选择是：投资	40pct	50pct	0
+011218	21:50:02	1	1	4.0.10.0	6	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	36	0	4294	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	21:50:02	1	1	4.0.10.0	6	2	zhengshi_block	jieguo2_trial	0	0	0	1500	0	0	0	0	1500	0	1	您的选择是：不投资	40pct	50pct	2	1	您目前的资金是：25	60pct	50pct	2	3	第3轮游戏结束	80pct	50pct	2
+011218	21:50:02	1	1	4.0.10.0	7	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	33	1	3381	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	21:50:02	1	1	4.0.10.0	7	2	zhengshi_block	jieguo1_trial	0	0	0	4000	0	0	0	0	0	0	3	您的选择是：投资	40pct	50pct	0	3	您目前的总资金是：25	60pct	50pct	0	3	您的选择是：投资	40pct	50pct	0
+011218	21:50:02	1	1	4.0.10.0	8	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	33	1	5308	0	1	初始界面.bmp	50pct	50pct	1	0	0	0	0	0	0	0	0	0	0
+011218	21:50:02	1	1	4.0.10.0	8	2	zhengshi_block	jieguo1_trial	0	0	0	6000	0	0	0	0	1500	0	4	您的选择是：投资	40pct	50pct	0	4	您目前的总资金是：40	60pct	50pct	0	4	您的选择是：投资	40pct	50pct	0
+011218	21:50:02	1	1	4.0.10.0	9	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	33	1	2703	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	21:50:02	1	1	4.0.10.0	9	2	zhengshi_block	jieguo1_trial	0	0	0	6000	0	0	0	0	1500	0	5	您的选择是：投资	40pct	50pct	0	5	您目前的总资金是：55	60pct	50pct	0	5	您的选择是：投资	40pct	50pct	0
+011218	21:50:02	1	1	4.0.10.0	10	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	33	1	1678	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	21:50:02	1	1	4.0.10.0	10	2	zhengshi_block	jieguo1_trial	0	0	0	6000	0	0	0	0	1500	0	6	您的选择是：投资	40pct	50pct	0	6	您目前的总资金是：70	60pct	50pct	0	6	您的选择是：投资	40pct	50pct	0
+011218	21:50:02	1	1	4.0.10.0	11	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	33	1	2229	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	21:50:02	1	1	4.0.10.0	11	2	zhengshi_block	jieguo1_trial	0	0	0	6000	0	0	0	0	1500	0	7	您的选择是：投资	40pct	50pct	0	7	您目前的总资金是：85	60pct	50pct	0	7	您的选择是：投资	40pct	50pct	0
+011218	21:50:02	1	1	4.0.10.0	12	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	33	1	2417	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	21:50:02	1	1	4.0.10.0	12	2	zhengshi_block	jieguo1_trial	0	0	0	4000	0	0	0	0	0	0	8	您的选择是：投资	40pct	50pct	0	8	您目前的总资金是：100	60pct	50pct	0	8	您的选择是：投资	40pct	50pct	0
+011218	21:50:02	1	1	4.0.10.0	13	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	33	1	1667	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	21:50:02	1	1	4.0.10.0	13	2	zhengshi_block	jieguo1_trial	0	0	0	4000	0	0	0	0	0	0	9	您的选择是：投资	40pct	50pct	0	9	您目前的总资金是：115	60pct	50pct	0	9	您的选择是：投资	40pct	50pct	0
+011218	21:50:02	1	1	4.0.10.0	14	1	diergepipei_block	diergepipei_trial	0	0	0	0	0	0	Ctrl+'Q'	1	4334	0	1	第二个匹配.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	21:58:15	1	1	4.0.10.0	1	1	zhidaoyu_block	zhidaoyu_trial	0	0	0	0	0	0	57	0	41	0	1	指导语.BMP	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	21:58:15	1	1	4.0.10.0	2	1	lianxi_block	lianxi1_trial	0	0	0	0	0	0	33	1	19	0	1	练习1.BMP	50pct	50pct	0	1	您的选择正确	50pct	50pct	34	0	0	0	0	0
+011218	21:58:15	1	1	4.0.10.0	2	2	lianxi_block	lianxi2_trial	0	0	0	0	0	0	34	1	53	0	1	练习2.BMP	50pct	50pct	0	1	您的选择正确	50pct	50pct	66	0	0	0	0	0
+011218	21:58:15	1	1	4.0.10.0	3	1	pipei_block	pipei1_trial	0	0	0	0	0	0	57	0	41	0	1	匹配1.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	21:58:15	1	1	4.0.10.0	3	2	pipei_block	pipei2_trial	0	0	0	3000	0	0	0	0	3000	0	1	匹配2.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	21:58:15	1	1	4.0.10.0	3	3	pipei_block	pipei3_trial	0	0	0	2000	0	0	0	0	2000	0	1	匹配3.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	21:58:15	1	1	4.0.10.0	4	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	33	1	27	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	21:58:15	1	1	4.0.10.0	4	2	zhengshi_block	jieguo1_trial	0	0	0	6000	0	0	0	0	1500	0	1	您的选择是：投资	40pct	50pct	0	1	您目前的总资金是：0	60pct	50pct	0	1	等待.bmp	50pct	50pct	1501
+011218	21:58:15	1	1	4.0.10.0	5	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	33	1	36	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	21:58:15	1	1	4.0.10.0	5	2	zhengshi_block	jieguo1_trial	0	0	0	4000	0	0	0	0	0	0	2	您的选择是：投资	40pct	50pct	0	2	您目前的总资金是：0	60pct	50pct	0	2	您的选择是：投资	40pct	50pct	0
+011218	21:58:15	1	1	4.0.10.0	6	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	33	1	11	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	21:58:15	1	1	4.0.10.0	6	2	zhengshi_block	jieguo1_trial	0	0	0	4000	0	0	0	0	0	0	3	您的选择是：投资	40pct	50pct	0	3	您目前的总资金是：0	60pct	50pct	0	3	您的选择是：投资	40pct	50pct	0
+011218	21:58:15	1	1	4.0.10.0	7	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	33	1	31	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	21:58:15	1	1	4.0.10.0	7	2	zhengshi_block	jieguo1_trial	0	0	0	6000	0	0	0	0	1500	0	4	您的选择是：投资	40pct	50pct	0	4	您目前的总资金是：15	60pct	50pct	0	4	您的选择是：投资	40pct	50pct	0
+011218	21:58:15	1	1	4.0.10.0	8	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	33	1	35	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	21:58:15	1	1	4.0.10.0	8	2	zhengshi_block	jieguo1_trial	0	0	0	6000	0	0	0	0	1500	0	5	您的选择是：投资	40pct	50pct	0	5	您目前的总资金是：15	60pct	50pct	0	5	您的选择是：投资	40pct	50pct	0
+011218	21:58:15	1	1	4.0.10.0	9	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	33	1	41	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	21:58:15	1	1	4.0.10.0	9	2	zhengshi_block	jieguo1_trial	0	0	0	4000	0	0	0	0	0	0	6	您的选择是：投资	40pct	50pct	0	6	您目前的总资金是：30	60pct	50pct	0	6	您的选择是：投资	40pct	50pct	0
+011218	21:58:15	1	1	4.0.10.0	10	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	33	1	46	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	21:58:15	1	1	4.0.10.0	10	2	zhengshi_block	jieguo1_trial	0	0	0	6000	0	0	0	0	1500	0	7	您的选择是：投资	40pct	50pct	0	7	您目前的总资金是：45	60pct	50pct	0	7	您的选择是：投资	40pct	50pct	0
+011218	21:58:15	1	1	4.0.10.0	11	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	33	1	36	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	21:58:15	1	1	4.0.10.0	11	2	zhengshi_block	jieguo1_trial	0	0	0	4000	0	0	0	0	0	0	8	您的选择是：投资	40pct	50pct	0	8	您目前的总资金是：60	60pct	50pct	0	8	您的选择是：投资	40pct	50pct	0
+011218	21:58:15	1	1	4.0.10.0	12	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	33	1	55	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	21:58:15	1	1	4.0.10.0	12	2	zhengshi_block	jieguo1_trial	0	0	0	4000	0	0	0	0	0	0	9	您的选择是：投资	40pct	50pct	0	9	您目前的总资金是：75	60pct	50pct	0	9	您的选择是：投资	40pct	50pct	0
+011218	21:58:15	1	1	4.0.10.0	13	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	33	1	38	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	21:58:15	1	1	4.0.10.0	13	2	zhengshi_block	jieguo1_trial	0	0	0	6000	0	0	0	0	1500	0	10	您的选择是：投资	40pct	50pct	0	10	您目前的总资金是：75	60pct	50pct	0	10	您的选择是：投资	40pct	50pct	0
+011218	21:58:15	1	1	4.0.10.0	14	1	diergepipei_block	diergepipei_trial	0	0	0	0	0	0	57	0	52	0	1	第二个匹配.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	21:58:15	1	1	4.0.10.0	14	2	diergepipei_block	pipei2_trial	0	0	0	3000	0	0	0	0	3000	0	1	匹配2.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	21:58:15	1	1	4.0.10.0	14	3	diergepipei_block	pipei3_trial	0	0	0	2000	0	0	0	0	2000	0	1	匹配3.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	21:58:15	1	1	4.0.10.0	15	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	33	1	45	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	21:58:15	1	1	4.0.10.0	15	2	zhengshi_block	jieguo1_trial	0	0	0	6000	0	0	0	0	1500	0	11	您的选择是：投资	40pct	50pct	0	11	您目前的总资金是：90	60pct	50pct	0	11	您的选择是：投资	40pct	50pct	0
+011218	21:58:15	1	1	4.0.10.0	16	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	33	1	32	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	21:58:15	1	1	4.0.10.0	16	2	zhengshi_block	jieguo1_trial	0	0	0	6000	0	0	0	0	1500	0	12	您的选择是：投资	40pct	50pct	0	12	您目前的总资金是：90	60pct	50pct	0	12	您的选择是：投资	40pct	50pct	0
+011218	21:58:15	1	1	4.0.10.0	17	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	33	1	49	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	21:58:15	1	1	4.0.10.0	17	2	zhengshi_block	jieguo1_trial	0	0	0	6000	0	0	0	0	1500	0	13	您的选择是：投资	40pct	50pct	0	13	您目前的总资金是：90	60pct	50pct	0	13	您的选择是：投资	40pct	50pct	0
+011218	21:58:15	1	1	4.0.10.0	18	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	36	0	44	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	21:58:15	1	1	4.0.10.0	18	2	zhengshi_block	jieguo2_trial	0	0	0	1500	0	0	0	0	1500	0	1	您的选择是：不投资	40pct	50pct	0	1	您目前的资金是：100	60pct	50pct	0	14	第14轮游戏结束	80pct	50pct	0
+011218	21:58:15	1	1	4.0.10.0	19	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	33	1	46	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	21:58:15	1	1	4.0.10.0	19	2	zhengshi_block	jieguo1_trial	0	0	0	6000	0	0	0	0	1500	0	14	您的选择是：投资	40pct	50pct	0	14	您目前的总资金是：100	60pct	50pct	0	14	您的选择是：投资	40pct	50pct	0
+011218	21:58:15	1	1	4.0.10.0	20	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	33	1	47	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	21:58:15	1	1	4.0.10.0	20	2	zhengshi_block	jieguo1_trial	0	0	0	6000	0	0	0	0	1500	0	15	您的选择是：投资	40pct	50pct	0	15	您目前的总资金是：100	60pct	50pct	0	15	您的选择是：投资	40pct	50pct	0
+011218	21:58:15	1	1	4.0.10.0	21	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	33	1	22	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	21:58:15	1	1	4.0.10.0	21	2	zhengshi_block	jieguo1_trial	0	0	0	6000	0	0	0	0	1500	0	16	您的选择是：投资	40pct	50pct	0	16	您目前的总资金是：115	60pct	50pct	0	16	您的选择是：投资	40pct	50pct	0
+011218	21:58:15	1	1	4.0.10.0	22	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	33	1	40	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	21:58:15	1	1	4.0.10.0	22	2	zhengshi_block	jieguo1_trial	0	0	0	6000	0	0	0	0	1500	0	17	您的选择是：投资	40pct	50pct	0	17	您目前的总资金是：115	60pct	50pct	0	17	您的选择是：投资	40pct	50pct	0
+011218	21:58:15	1	1	4.0.10.0	23	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	36	0	34	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	21:58:15	1	1	4.0.10.0	23	2	zhengshi_block	jieguo2_trial	0	0	0	1500	0	0	0	0	1500	0	1	您的选择是：不投资	40pct	50pct	0	2	您目前的资金是：125	60pct	50pct	0	19	第19轮游戏结束	80pct	50pct	0
+011218	21:58:15	1	1	4.0.10.0	24	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	33	1	33	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	21:58:15	1	1	4.0.10.0	24	2	zhengshi_block	jieguo1_trial	0	0	0	4000	0	0	0	0	0	0	18	您的选择是：投资	40pct	50pct	0	18	您目前的总资金是：125	60pct	50pct	0	18	您的选择是：投资	40pct	50pct	0
+011218	21:58:15	1	1	4.0.10.0	25	1	disangepipei_block	disangepipei_trial	0	0	0	0	0	0	57	0	36	0	1	第三个匹配.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	21:58:15	1	1	4.0.10.0	25	2	disangepipei_block	pipei2_trial	0	0	0	5000	0	0	0	0	5000	0	1	匹配2.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	21:58:15	1	1	4.0.10.0	25	3	disangepipei_block	pipei3_trial	0	0	0	2000	0	0	0	0	2000	0	1	匹配3.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	21:58:15	1	1	4.0.10.0	26	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	36	0	39	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	21:58:15	1	1	4.0.10.0	26	2	zhengshi_block	jieguo2_trial	0	0	0	1500	0	0	0	0	1500	0	1	您的选择是：不投资	40pct	50pct	0	3	您目前的资金是：150	60pct	50pct	0	21	第21轮游戏结束	80pct	50pct	0
+011218	21:58:15	1	1	4.0.10.0	27	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	33	1	28	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	21:58:15	1	1	4.0.10.0	27	2	zhengshi_block	jieguo1_trial	0	0	0	4000	0	0	Ctrl+'Q'	1	0	0	19	您的选择是：投资	40pct	50pct	0	19	您目前的总资金是：150	60pct	50pct	0	19	您的选择是：投资	40pct	50pct	0
+011218	22:01:35	1	1	4.0.10.0	1	1	zhidaoyu_block	zhidaoyu_trial	0	0	0	0	0	0	57	0	978	0	1	指导语.BMP	50pct	50pct	1	0	0	0	0	0	0	0	0	0	0
+011218	22:01:35	1	1	4.0.10.0	2	1	lianxi_block	lianxi1_trial	0	0	0	0	0	0	33	1	1481	0	1	练习1.BMP	50pct	50pct	0	1	您的选择正确	50pct	50pct	1498	0	0	0	0	0
+011218	22:01:35	1	1	4.0.10.0	2	2	lianxi_block	lianxi2_trial	0	0	0	0	0	0	34	1	1327	0	1	练习2.BMP	50pct	50pct	0	1	您的选择正确	50pct	50pct	1332	0	0	0	0	0
+011218	22:01:35	1	1	4.0.10.0	3	1	pipei_block	pipei1_trial	0	0	0	0	0	0	57	0	1822	0	1	匹配1.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	22:01:35	1	1	4.0.10.0	3	2	pipei_block	pipei2_trial	0	0	0	5000	0	0	0	0	5000	0	1	匹配2.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	22:01:35	1	1	4.0.10.0	3	3	pipei_block	pipei3_trial	0	0	0	2000	0	0	0	0	2000	0	1	匹配3.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	22:01:35	1	1	4.0.10.0	4	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	33	1	3495	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	22:01:35	1	1	4.0.10.0	4	2	zhengshi_block	jieguo1_trial	0	0	0	6000	0	0	0	0	1500	0	1	您的选择是：投资	40pct	50pct	0	1	您目前的总资金是：0	60pct	50pct	0	1	等待.bmp	50pct	50pct	1499
+011218	22:01:35	1	1	4.0.10.0	5	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	33	1	2372	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	22:01:35	1	1	4.0.10.0	5	2	zhengshi_block	jieguo1_trial	0	0	0	4000	0	0	0	0	0	0	2	您的选择是：投资	40pct	50pct	0	2	您目前的总资金是：0	60pct	50pct	0	2	您的选择是：投资	40pct	50pct	0
+011218	22:01:35	1	1	4.0.10.0	6	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	33	1	482	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	22:01:35	1	1	4.0.10.0	6	2	zhengshi_block	jieguo1_trial	0	0	0	4000	0	0	0	0	0	0	3	您的选择是：投资	40pct	50pct	0	3	您目前的总资金是：0	60pct	50pct	0	3	您的选择是：投资	40pct	50pct	0
+011218	22:01:35	1	1	4.0.10.0	7	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	33	1	446	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	22:01:35	1	1	4.0.10.0	7	2	zhengshi_block	jieguo1_trial	0	0	0	6000	0	0	0	0	1500	0	4	您的选择是：投资	40pct	50pct	0	4	您目前的总资金是：15	60pct	50pct	0	4	您的选择是：投资	40pct	50pct	0
+011218	22:01:35	1	1	4.0.10.0	8	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	33	1	662	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	22:01:35	1	1	4.0.10.0	8	2	zhengshi_block	jieguo1_trial	0	0	0	6000	0	0	0	0	1500	0	5	您的选择是：投资	40pct	50pct	0	5	您目前的总资金是：30	60pct	50pct	0	5	您的选择是：投资	40pct	50pct	0
+011218	22:01:35	1	1	4.0.10.0	9	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	33	1	848	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	22:01:35	1	1	4.0.10.0	9	2	zhengshi_block	jieguo1_trial	0	0	0	4000	0	0	0	0	0	0	6	您的选择是：投资	40pct	50pct	0	6	您目前的总资金是：30	60pct	50pct	0	6	您的选择是：投资	40pct	50pct	0
+011218	22:01:35	1	1	4.0.10.0	10	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	33	1	1080	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	22:01:35	1	1	4.0.10.0	10	2	zhengshi_block	jieguo1_trial	0	0	0	4000	0	0	0	0	0	0	7	您的选择是：投资	40pct	50pct	0	7	您目前的总资金是：45	60pct	50pct	0	7	您的选择是：投资	40pct	50pct	0
+011218	22:01:35	1	1	4.0.10.0	11	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	33	1	514	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	22:01:35	1	1	4.0.10.0	11	2	zhengshi_block	jieguo1_trial	0	0	0	6000	0	0	0	0	1500	0	8	您的选择是：投资	40pct	50pct	2	8	您目前的总资金是：60	60pct	50pct	2	8	您的选择是：投资	40pct	50pct	2
+011218	22:01:35	1	1	4.0.10.0	12	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	33	1	655	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	22:01:35	1	1	4.0.10.0	12	2	zhengshi_block	jieguo1_trial	0	0	0	4000	0	0	0	0	0	0	9	您的选择是：投资	40pct	50pct	0	9	您目前的总资金是：60	60pct	50pct	0	9	您的选择是：投资	40pct	50pct	0
+011218	22:01:35	1	1	4.0.10.0	13	1	zhengshi_block	chushi_trial	0	0	0	0	0	0	33	1	425	0	1	初始界面.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0
+011218	22:01:35	1	1	4.0.10.0	13	2	zhengshi_block	jieguo1_trial	0	0	0	4000	0	0	0	0	0	0	10	您的选择是：投资	40pct	50pct	0	10	您目前的总资金是：60	60pct	50pct	0	10	您的选择是：投资	40pct	50pct	0
+011218	22:01:35	1	1	4.0.10.0	14	1	diergepipei_block	diergepipei_trial	0	0	0	0	0	0	Ctrl+'Q'	1	2467	0	1	第二个匹配.bmp	50pct	50pct	0	0	0	0	0	0	0	0	0	0	0

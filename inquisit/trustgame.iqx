@@ -1,0 +1,415 @@
+﻿===============================================================================================
+定义变量部分
+========================================================================================
+<values>
+/money=0
+/randomnum=1
+/randomdurationtime=0
+/countnum=0
+</values>
+
+<expressions>
+/random=ceil(random(2500,4500))
+/qian=values.money=values.money+10
+/response1=if(trial.chushi_trial.correct)item.xuanze_item="您的选择是：投资" else item.xuanze_item="您的选择是：不投资"
+/sum1=item.zijin_item=concat("您目前的总资金是：",values.money)
+/random2=round(random(0,1))
+/response2=if(values.randomnum==1)item.jieguo1_item="对方的选择是:返还一半"   else item.jieguo1_item="对方的选择是:不返还"
+/zijin=if(values.randomnum==1)values.money=values.money+15 else values.money=values.money
+/sum2=item.jine1_item=concat("您目前的资金是：",values.money)
+/sum3=item.jine2_item=concat("您目前的资金是：",values.money)
+/count=values.countnum=values.countnum+1
+/youxijieshu=item.youxijieshu_item=concat(concat("第",values.countnum),"轮游戏结束")
+/zuihoujine=item.zuihoujine_item=concat("您最后所得总金额为：",values.money)
+</expressions>
+
+
+
+
+==================================================================================================================================
+item
+==================================================================================================================================
+-------------------------------------------------------------
+指导语部分
+------------------------------------------------------------
+<item zhidaoyu_item>
+/1="指导语.BMP"
+</item>
+
+----------------------------------------------------------
+练习部分
+---------------------------------------------------------
+
+<item lianxi1_item>
+/1="练习1.BMP"
+</item>
+
+<item lianxi2_item>
+/1="练习2.BMP"
+</item>
+
+<item zhengque_item>
+/1="您的选择正确"
+</item>
+
+<item cuowu_item>
+/1="您的选择错误，请再次选择"
+</item>
+---------------------------------------------------------
+匹配部分
+------------------------------------------------------------
+<item pipei1_item>
+/1="匹配1.bmp"
+</item>
+
+<item pipei2_item>
+/1="匹配2.bmp"
+</item>
+
+<item pipei3_item>
+/1="匹配3.bmp"
+</item>
+------------------------------------------------------------
+正式实验
+-------------------------------------------------------------
+<item chushi_item>
+/1="初始界面.bmp"
+</item>
+
+<item xuanze_item>
+</item>
+
+<item zijin_item>
+
+</item>
+
+<item dengdai_item>
+/1="等待.bmp"
+</item>
+<item yanbi_item>
+/1="掩蔽.bmp"
+</item>
+
+<item jieguo1_item>
+
+</item>
+<item jine1_item>
+
+</item>
+
+<item jieguo2_item>
+/1="您的选择是：不投资"
+</item>
+<item jine2_item>
+
+</item>
+<item youxijieshu_item>
+
+</item>
+<item diergepipei_item>
+/1="第二个匹配.bmp"
+</item>
+
+<item disangepipei_item>
+/1="第三个匹配.bmp"
+</item>
+<item zuihoujieshu_item>
+/1="最后结束.bmp"
+</item>
+<item zuihoujine_item>
+
+</item>
+<item byebye_item>
+/1="byebye.bmp"
+</item>
+
+===========================================================================================
+picture
+=============================================================================================
+-------------------------------------------------------------
+指导语部分
+------------------------------------------------------------
+<picture zhidaoyu_pic>
+/items =zhidaoyu_item 
+
+</picture>
+
+----------------------------------------------------------
+练习部分
+---------------------------------------------------------
+
+<picture lianxi1_pic>
+/items =lianxi1_item 
+</picture>
+
+
+<picture lianxi2_pic>
+/items =lianxi2_item 
+</picture>
+
+<text zhengque_text>
+/items = zhengque_item
+/ fontstyle = ("Adobe Arabic", 8%, true, false, false, false, 5, 1)
+/ txcolor = (0, 128, 0)
+/txbgcolor = (transparent)
+/position = (50%,50%)
+</text>
+
+<text cuowu_text>
+/items = cuowu_item
+/ fontstyle = ("宋体", 5.56%, true, false, false, false, 5, 1)
+/ txcolor = (255, 0, 0)
+/txbgcolor = (transparent)
+/position = (50%,80%)
+</text>
+---------------------------------------------------------
+匹配部分
+------------------------------------------------------------
+<picture pipei1_pic>
+/items = pipei1_item
+</picture>
+
+<picture pipei2_pic>
+/items = pipei2_item
+</picture>
+
+<picture pipei3_pic>
+/items = pipei3_item
+</picture>
+
+----------------------------------------------------------------
+正式实验
+------------------------------------------------------------------'
+
+<picture chushi_pic>
+/items = chushi_item
+</picture>
+
+<text xuanze_text>
+/items = xuanze_item
+/ fontstyle = ("宋体", 8%, true, false, false, false, 5, 1)
+/ txcolor = (255,255,255)
+/txbgcolor = (0,0,0)
+/position = (50%,40%)
+</text>
+
+<text zijin_text>
+/items = zijin_item
+/ fontstyle = ("宋体", 8%, true, false, false, false, 5, 1)
+/ txcolor = (255, 255, 255)
+/txbgcolor = (0,0,0)
+/position = (50%,60%)
+</text>
+
+<picture dengdai_pic>
+/items = dengdai_item
+</picture>
+<picture yanbi_pic>
+/items = yanbi_item
+</picture>
+
+<text jieguo1_text>
+/items = jieguo1_item
+/ fontstyle = ("宋体", 8%, true, false, false, false, 5, 1)
+/ txcolor = (255, 255, 255)
+/txbgcolor = (0,0,0)
+/position = (50%,40%)
+</text>
+<text jine1_text>
+/items = jine1_item
+/ fontstyle = ("宋体", 8%, true, false, false, false, 5, 1)
+/ txcolor = (255, 255, 255)
+/txbgcolor = (0,0,0)
+/position = (50%,60%)
+</text>
+
+<text jieguo2_text>
+/items = jieguo2_item
+/ fontstyle = ("宋体", 8%, true, false, false, false, 5, 1)
+/ txcolor = (255, 255, 255)
+/txbgcolor = (0,0,0)
+/position = (50%,40%)
+</text>
+<text jine2_text>
+/items = jine2_item
+/ fontstyle = ("宋体", 8%, true, false, false, false, 5, 1)
+/ txcolor = (255, 255, 255)
+/txbgcolor = (0,0,0)
+/position = (50%,60%)
+</text>
+<text youxijieshu_text>
+/items = youxijieshu_item
+/ fontstyle = ("宋体", 6%, true, false, false, false, 5, 1)
+/ txcolor = (255, 255, 0)
+/position = (50%,80%)
+/txbgcolor = (0,0,0)
+</text>
+<picture diergepipei_pic>
+/items = diergepipei_item
+</picture>
+<picture disangepipei_pic>
+/items = disangepipei_item
+</picture>
+
+<picture zuihoujieshu_pic>
+/items = zuihoujieshu_item
+</picture>
+
+<text zuihoujine_text>
+/items = zuihoujine_item
+/ fontstyle = ("宋体", 8%, true, false, false, false, 5, 1)
+/ txcolor = (255,255,255)
+/txbgcolor = (0,0,0)
+</text>
+
+<picture byebye_pic>
+/items = byebye_item
+</picture>
+
+==============================================================================================
+trail
+==============================================================================================
+
+<trial zhidaoyu_trial>
+/stimulusframes=[1=zhidaoyu_pic]
+/validresponse = (" ")
+</trial>
+
+<trial lianxi1_trial>
+/stimulusframes = [1=lianxi1_pic]
+/validresponse = ("F","J")
+/correctresponse = ("F")
+/correctmessage = (zhengque_text,1000)
+/errormessage = (cuowu_text,1000)
+/responsemode = correct
+</trial>
+
+<trial lianxi2_trial>
+/stimulusframes = [1=lianxi2_pic]
+/validresponse = ("F","J","G")
+/correctresponse = ("G")
+/correctmessage = (zhengque_text,2000)
+/errormessage = (cuowu_text,1000)
+/responsemode = correct
+</trial>
+
+<trial pipei1_trial>
+/stimulusframes = [1=pipei1_pic]
+/validresponse = (" ")
+</trial>
+
+<trial pipei2_trial>
+/stimulusframes = [1=pipei2_pic]
+/trialduration = ceil(random(3000,5000))
+</trial>
+
+<trial pipei3_trial>
+/stimulusframes = [1=pipei3_pic]
+/trialduration = 2000
+</trial>
+
+<trial chushi_trial>
+/stimulusframes = [1=chushi_pic]
+/validresponse = ("F","J")
+/correctresponse = ("F")
+/branch = [if(trial.chushi_trial.correct)trial.jieguo1_trial else trial.jieguo2_trial]
+</trial>
+
+
+<trial jieguo1_trial>
+/ontrialbegin = [expressions.count]
+/ontrialbegin = [expressions.youxijieshu]
+/ontrialbegin = [expressions.response1]
+/ontrialbegin = [expressions.sum1]
+/ontrialbegin = [values.randomnum=expressions.random2]
+/ontrialbegin = [expressions.zijin]
+/ontrialbegin = [expressions.response2]
+/ontrialbegin = [expressions.sum2]
+/ontrialbegin = [values.randomdurationtime= expressions.random]
+/ontrialbegin = [trial.jieguo1_trial.insertstimulustime(text.xuanze_text, 0)]
+/ontrialbegin = [trial.jieguo1_trial.insertstimulustime(text.zijin_text, 0)]
+/ontrialbegin = [trial.jieguo1_trial.insertstimulustime(picture.dengdai_pic,1500)]
+/ontrialbegin = [trial.jieguo1_trial.insertstimulustime(picture.yanbi_pic,values.randomdurationtime)]
+/ontrialbegin = [trial.jieguo1_trial.insertstimulustime(text.jieguo1_text,values.randomdurationtime)]
+/ontrialbegin = [trial.jieguo1_trial.insertstimulustime(text.jine1_text,values.randomdurationtime)]
+/ontrialbegin = [trial.jieguo1_trial.insertstimulustime(text.youxijieshu_text,values.randomdurationtime)]
+/trialduration = 1500+values.randomdurationtime
+
+</trial>
+<trial jieguo2_trial>
+/ontrialbegin = [expressions.qian]
+/ontrialbegin = [expressions.count]
+/ontrialbegin = [expressions.youxijieshu]
+/ontrialbegin = [expressions.sum3]
+/stimulusframes = [1=jieguo2_text,jine2_text,youxijieshu_text]
+/trialduration = 1500
+</trial>
+
+<trial diergepipei_trial>
+/stimulusframes = [1=diergepipei_pic]
+/validresponse = (" ")
+</trial>
+
+<trial disangepipei_trial>
+/stimulusframes = [1=disangepipei_pic]
+/validresponse = (" ")
+</trial>
+
+<trial zuihoujieshu_trial>
+/ontrialbegin = [expressions.zuihoujine]
+/stimulusframes = [1=zuihoujieshu_pic,zuihoujine_text]
+/trialduration = 2000
+</trial>
+
+<trial byebye_trial>
+/stimulusframes = [1=byebye_pic]
+/validresponse = (" ")
+</trial>
+
+=====================================================================================
+block
+============================================================================================
+
+<block zhidaoyu_block>
+/trials =[1=zhidaoyu_trial]
+/screencolor = (0,0,0)
+</block>
+
+<block lianxi_block>
+/trials =[1=lianxi1_trial;2=lianxi2_trial]
+/screencolor = (0,0,0)
+</block>
+
+<block pipei_block>
+/trials =[1=pipei1_trial;2=pipei2_trial;3=pipei3_trial]
+/screencolor = (0,0,0)
+</block>
+
+<block zhengshi_block>
+/trials = [1=chushi_trial]
+/screencolor = (0,0,0)
+</block>
+<block diergepipei_block>
+/trials =[1=diergepipei_trial;2=pipei2_trial;3=pipei3_trial]
+/screencolor = (0,0,0)
+</block>
+<block disangepipei_block>
+/trials =[1=disangepipei_trial;2=pipei2_trial;3=pipei3_trial]
+/screencolor = (0,0,0)
+</block>
+<block zuihoujieshu_block>
+/trials = [1=zuihoujieshu_trial]
+/screencolor = (0,0,0)
+</block>
+<block byebye_block>
+/trials = [1=byebye_trial]
+/screencolor = (0,0,0)
+</block>
+
+=============================================================================================
+expt
+=============================================================================================
+
+<expt zhuti>
+/blocks = [1=zhidaoyu_block;2=lianxi_block;3=pipei_block;4-13=zhengshi_block;14=diergepipei_block;15-24=zhengshi_block;25=disangepipei_block;26-35=zhengshi_block;36=zuihoujieshu_block;37=byebye_block]
+</expt>
